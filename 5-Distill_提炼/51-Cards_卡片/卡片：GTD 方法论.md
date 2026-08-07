@@ -1,4 +1,4 @@
-#obsidian/理论
+#知识库/理论
 > [!summary] 个人库遵循
 > 1. 收集（Capture）
 > 2. 处理（Process）

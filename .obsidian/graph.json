@@ -4,7 +4,7 @@
   "showTags": false,
   "showAttachments": false,
   "hideUnresolved": false,
-  "showOrphans": false,
+  "showOrphans": true,
   "collapse-color-groups": false,
   "colorGroups": [
     {
@@ -18,20 +18,27 @@
       "query": "tag:#日记  ",
       "color": {
         "a": 1,
-        "rgb": 14680064
+        "rgb": 16711680
+      }
+    },
+    {
+      "query": "path:4-Memory_知识库/41-Projects_项目  ",
+      "color": {
+        "a": 1,
+        "rgb": 262399
       }
     }
   ],
   "collapse-display": false,
   "showArrow": true,
-  "textFadeMultiplier": 0,
-  "nodeSizeMultiplier": 1,
-  "lineSizeMultiplier": 1,
+  "textFadeMultiplier": -1.8,
+  "nodeSizeMultiplier": 0.379113924050633,
+  "lineSizeMultiplier": 0.658227848101266,
   "collapse-forces": false,
   "centerStrength": 1,
   "repelStrength": 20,
   "linkStrength": 1,
   "linkDistance": 30,
-  "scale": 0.8377095836048902,
+  "scale": 0.8836048687015109,
   "close": true
 }

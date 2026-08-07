@@ -4,24 +4,95 @@
     "type": "split",
     "children": [
       {
-        "id": "a1860d2838216d93",
-        "type": "tabs",
+        "id": "3620f58e549f06ec",
+        "type": "split",
         "children": [
           {
-            "id": "0b7e791e4186ba62",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "1-Dayly_日记本/2026-08-03-星期一.md",
-                "mode": "source",
-                "source": true
+            "id": "a1860d2838216d93",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "6caeaf120e219b3e",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "2-Space_工作区/22-Flow_心流/主题：Copilot协助维护知识库_行动维度.md",
+                    "mode": "source",
+                    "source": true
+                  },
+                  "icon": "lucide-file",
+                  "title": "主题：Copilot协助维护知识库_行动维度"
+                }
               },
-              "icon": "lucide-file",
-              "title": "2026-08-03-星期一"
-            }
+              {
+                "id": "fe57981518fdf9ca",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "3-Presonal_存放点/32-Learning_学习/主题：Copilot会话延伸记录_思考维度.md",
+                    "mode": "source",
+                    "source": true
+                  },
+                  "icon": "lucide-file",
+                  "title": "主题：Copilot会话延伸记录_思考维度"
+                }
+              },
+              {
+                "id": "93282141648c4532",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "1-Dayly_日记本/2026-08-06-星期四.md",
+                    "mode": "source",
+                    "source": true
+                  },
+                  "icon": "lucide-file",
+                  "title": "2026-08-06-星期四"
+                }
+              }
+            ],
+            "currentTab": 2
+          },
+          {
+            "id": "4bbf1b25c3bb937f",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "38168d0ff4c6bb36",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "README.md",
+                    "mode": "source",
+                    "source": true
+                  },
+                  "icon": "lucide-file",
+                  "title": "README"
+                }
+              },
+              {
+                "id": "d1bdc78894d75eac",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "AGENTS.md",
+                    "mode": "source",
+                    "source": true
+                  },
+                  "icon": "lucide-file",
+                  "title": "AGENTS"
+                }
+              }
+            ],
+            "currentTab": 1
           }
-        ]
+        ],
+        "direction": "horizontal"
       }
     ],
     "direction": "vertical"
@@ -55,7 +126,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "XP：",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -96,7 +167,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "1-Dayly_日记本/2026-08-02-星期日.md",
+                "file": "1-Dayly_日记本/2026-08-06-星期四.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -106,7 +177,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "2026-08-02-星期日 的反向链接列表"
+              "title": "反向链接"
             }
           },
           {
@@ -115,12 +186,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "1-Dayly_日记本/2026-08-02-星期日.md",
+                "file": "1-Dayly_日记本/2026-08-06-星期四.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               },
               "icon": "links-going-out",
-              "title": "2026-08-02-星期日 的出链列表"
+              "title": "出链"
             }
           },
           {
@@ -158,7 +229,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "1-Dayly_日记本/2026-08-03-星期一.md",
+                "file": "1-Dayly_日记本/2026-08-06-星期四.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
@@ -173,10 +244,10 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "1-Dayly_日记本/2026-08-02-星期日.md"
+                "file": "1-Dayly_日记本/2026-08-06-星期四.md"
               },
               "icon": "lucide-info",
-              "title": "2026-08-02-星期日的笔记属性"
+              "title": "笔记属性"
             }
           }
         ],
@@ -184,7 +255,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -197,53 +269,54 @@
       "bases:新建数据库": false
     }
   },
-  "active": "0b7e791e4186ba62",
+  "active": "93282141648c4532",
   "lastOpenFiles": [
-    "README.md",
-    "Diff",
-    "1-Dayly_日记本/2026-08-03-星期一.md",
-    "3-Presonal_存放点/32-Learning_学习/碎片：obsidian快捷键.md",
-    "3-Presonal_存放点/32-Learning_学习/碎片：obsidian关系图谱.md",
-    "3-Presonal_存放点/33-ToDo_策略/主题：衍生概念.md",
+    "3-Presonal_存放点/34-Relax_娱乐/主题：Rise风雷神攻略.md",
+    "1-Dayly_日记本/2026-08-07-星期五.md",
+    "3-Presonal_存放点/34-Relax_娱乐/主题：RiseHR7怪物攻略.md",
+    "1-Dayly_日记本/12-TimeLine_时间线/2026-08.md",
+    "2-Space_工作区/22-Flow_心流/主题：Copilot协助维护知识库_行动维度.md",
+    "3-Presonal_存放点/32-Learning_学习/主题：Copilot会话延伸记录_思考维度.md",
     "1-Dayly_日记本/12-TimeLine_时间线/2026-07.md",
-    "1-Dayly_日记本/2026-08-01-星期六.md",
-    "1-Dayly_日记本/2026-08-02-星期日.md",
-    "Attachments/Files/Images/1785699431878.png",
-    "Attachments/Files/Images/1785699437722.png",
-    "Attachments/Files/Images/Screenshot_20260803-032939983 (1).jpg",
-    "3-Presonal_存放点/34-Relax_娱乐/主题：Rise伙伴系统.md",
-    "Attachments/Files/Images/15b2a6644933d2c36806ebc3a02346fa5786a524_raw.jpg",
-    "Attachments/15b2a6644933d2c36806ebc3a02346fa5786a524_raw.jpg",
-    "Attachments/Files/Images/Screenshot_20260802_225027_tv.danmaku.bili.jpg",
-    "Attachments/Files/Images/9b29c177196a32c39aeca9f4381d4700d70a20c0_raw.jpg",
-    "3-Presonal_存放点/34-Relax_娱乐/主题：Rise重弩相性.md",
-    "0-Inbox_收件箱/02-box-容器/主题：日记.md",
-    "5-Distill_提炼/52-Examples_示例/示例：obsidian标注.md",
-    "5-Distill_提炼/51-Cards_卡片/卡片：CODE法则.md",
-    "1-Dayly_日记本/2026-07-14-星期二.md",
-    "2-Space_工作区/22-Flow_心流/主题：obsidian仓库构建.md",
-    "0-Inbox_收件箱/01-Ram_缓存/2026-07-13.md",
-    "3-Presonal_存放点/34-Relax_娱乐/主题：Rise重弩开发.md",
-    "3-Presonal_存放点/34-Relax_娱乐/主题：Rise轻弩相性.md",
-    "3-Presonal_存放点/34-Relax_娱乐/主题：Rise轻弩开发.md",
-    "3-Presonal_存放点/34-Relax_娱乐/主题：Rise弓箭相性.md",
-    "3-Presonal_存放点/34-Relax_娱乐/主题：Rise弓箭开发.md",
-    "3-Presonal_存放点/34-Relax_娱乐/主题：Rise虫棍相性.md",
-    "3-Presonal_存放点/34-Relax_娱乐/主题：Rise虫棍开发.md",
-    "1-Dayly_日记本/2026-07-23-星期四.md",
+    "4-Memory_知识库/42-Areas_领域/42F2-Bill_账单.md",
+    "3-Presonal_存放点/31-JUWEN_钜文/进度：2026-08.md",
+    "3-Presonal_存放点/34-Relax_娱乐/崛起：2026-07.md",
+    "3-Presonal_存放点/34-Relax_娱乐/崛起：2026-08.md",
+    "3-Presonal_存放点/37-Profiles_隐私/XP：2026-07.md",
+    "3-Presonal_存放点/37-Profiles_隐私/XP：2026-08.md",
+    "1-Dayly_日记本/2026-08-06-星期四.md",
+    "3-Presonal_存放点/35-Social_社会/对立：2026-08.md",
+    "3-Presonal_存放点/31-JUWEN_钜文/进度：2026-07.md",
+    "1-Dayly_日记本/2026-07-24-星期五.md",
+    "3-Presonal_存放点/35-Social_社会/对立：2026-07.md",
+    "1-Dayly_日记本/2026-07-21-星期二.md",
+    "1-Dayly_日记本/2026-07-20-星期一.md",
+    "Templates/模板：日记.md",
+    "1-Dayly_日记本/2026-07-18-星期六.md",
+    "1-Dayly_日记本/2026-07-19-星期日.md",
     "1-Dayly_日记本/2026-07-22-星期三.md",
-    "Attachments/9b29c177196a32c39aeca9f4381d4700d70a20c0_raw.jpg",
-    "Attachments/Screenshot_20260802_225027_tv.danmaku.bili.jpg",
-    "Attachments/Files/Images/Screenshot_20260802-172229997.jpg",
-    "Attachments/Files/Images/C51912240_LED驱动_C8620QP_规格书_C8620规格书_V2.pdf",
-    "1-Dayly_日记本/12-Weekly_周回顾 1",
-    "3-Presonal_存放点/32-System_知识库构建",
-    "3-Presonal_存放点/31-JUWEN_钜文",
-    "4-Memory_知识库/42-Areas_领域/未命名",
-    "1-Dayly_日记本/12-TimeLine_时间线",
-    "4-Memory_知识库/41-Projects_项目/41-b-System_知识库构建",
-    "4-Memory_知识库/41-Projects_项目/41-a-JUWEN_钜文",
-    "4-Memory_知识库/41-Projects_项目",
+    "1-Dayly_日记本/2026-07-23-星期四.md",
+    "1-Dayly_日记本/2026-07-25-星期六.md",
+    "6-Express_表达/62-Chat_会话记录",
+    "4-Memory_知识库/41-Projects_项目/40B-Folder_目录树.mmd",
+    "Attachments/Files/Docx",
+    "Attachments/LFS/Videos",
+    "Attachments/LFS/Audios",
+    "Attachments/Files/PDFs",
+    "6-Express_表达/61-Wiki_个人维基",
+    "4-Memory_知识库/43-Resources_资源/43-b-TabGroup_选项卡组",
+    "4-Memory_知识库/43-Resources_资源/43-a-SyncPush_移动推送 1/43-a3_wechat_微信",
+    "4-Memory_知识库/43-Resources_资源/43-a-SyncPush_移动推送 1/43-a2_douyin_抖音",
+    "Attachments/Files/Images/7-10-1_markdown速查.png",
+    "Attachments/Files/Images/8-3-1_华拓加热故障判断.png",
+    "Attachments/Files/Images/8-2-3_随从连携攻击招式.jpg",
+    "Attachments/Files/Images/8-2-1_随从技能列表.jpg",
+    "Attachments/Files/Images/7-27-3_华拓柜机故障特殊处理机制参考.png",
+    "Attachments/Files/Images/8-2-6_输出狗技能参考.png",
+    "Attachments/Files/Images/8-2-7_辅助猫技能参考.png",
+    "Attachments/Files/Images/8-2-4_减气机制.jpg",
+    "Attachments/Files/Images/8-2-5_顶级随从技能参考.jpg",
+    "Attachments/Files/Images/8-2-2_特殊连携与猎犬具关系.jpg",
     "0-Inbox/容器/轻弩.canvas",
     "容器/未命名.canvas",
     "未命名 1.canvas"

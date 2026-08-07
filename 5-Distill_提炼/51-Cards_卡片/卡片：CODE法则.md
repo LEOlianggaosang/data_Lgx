@@ -1,4 +1,4 @@
-#obsidian/理论
+#知识库/理论
 > [!summary] 大框架
 > 1. 抓取（Capture）
 > 2. 组织（Organize）

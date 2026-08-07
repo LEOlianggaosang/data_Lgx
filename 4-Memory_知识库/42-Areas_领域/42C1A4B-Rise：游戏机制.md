@@ -10,6 +10,6 @@ tags:
 ## Description
 
 ## Link
-[[主题：Rise伙伴系统]]
+[[碎片：Rise伙伴系统]]
 [[主题：Rise游戏机制]]
 [[碎片：Rise活动任务]]
