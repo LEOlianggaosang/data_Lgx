@@ -545,5 +545,14 @@
       ],
       "key": "G"
     }
+  ],
+  "editor:toggle-strikethrough": [
+    {
+      "modifiers": [
+        "Mod",
+        "Shift"
+      ],
+      "key": "`"
+    }
   ]
 }

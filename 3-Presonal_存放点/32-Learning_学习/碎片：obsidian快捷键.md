@@ -134,7 +134,7 @@
 ### 删除操作
 - 关闭本标签 [[#默认键盘]] `ctrl + W` [[#标签页操作]]
 - 清除格式 [[#分配键盘]]  `ctrl + backspace`  [[#文本操作]]
-- 删除段落 [[#分配键盘]]  `alt + backspace`  [[#行操作]]
+- 删除段 [[#分配键盘]]  `alt + backspace`  [[#行操作]]
 - 关闭其他标签页 [[#分配键盘]]  `ctrl + alt + backspace`  [[#标签页操作]]
 - 删除当前文件 [[#分配键盘]] `ctrl + shift + alt + backspace`
 ## FN键 

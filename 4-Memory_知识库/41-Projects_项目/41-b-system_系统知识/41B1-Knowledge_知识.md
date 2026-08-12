@@ -13,3 +13,5 @@ tags:
 [[41B1A-Obsidian_黑曜石]]
 [[41B1B-Vscode_编辑器]]
 [[41B1C-Edge_浏览器]]
+[[41B1D-Markdown_文本]]
+[[41B1E-Git_源代码管理]]

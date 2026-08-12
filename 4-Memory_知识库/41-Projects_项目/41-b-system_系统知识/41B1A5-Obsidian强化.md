@@ -10,6 +10,8 @@ tags:
 ## Description
 
 ## Link
-[[主题：obsidian社区]]
+[[主题：obsidian插件社区]]
+[[主题：obsidian插件需求]]
+[[主题：obsidian插件应用]]
 
 
