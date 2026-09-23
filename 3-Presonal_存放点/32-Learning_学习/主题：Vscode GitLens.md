@@ -1,0 +1,45 @@
+# GitLens更新
+- 默认布局
+- 可自由拖动分栏至主侧边/辅侧边/面板
+- 分栏的次级分栏
+## 功能分布
+- 顶部命令：
+	- GitLens命令群
+	- GitLens辅助Git指令
+- 底部面板：取消/**设置项？**
+- 中间编辑器
+	- 显影/右键/下拉选项增加
+	- GitLens Settings
+- 右侧辅助侧边栏：GitLens Inspect
+	- Inspect
+		- Files Change
+	- Line Histroy
+	- File Histroy
+	- Visual File Histroy（PRO）
+	- Search & Compare
+- 底部状态栏
+	- 左侧：
+		- Commit Graph（PRO）按钮
+		- Launchpad（PRO）按钮
+	- 右侧：
+		- GitLens Settings 按钮（PRO）
+			- **账号有PRO权限订阅时才有**：快速查看账户
+- 左侧主侧脸
+	- SCM：
+		- Repositories：可合并
+		- GitLens：可拆分
+			- Commits
+			- Branches
+			- Remotes
+			- Stashes
+			- Tags
+			- Worktrees
+			- Contributors
+	- GitLens
+		- Welcome
+		- Home
+		- Launchpad（PRO）
+		- Commit Graph（PRO）
+		- Cloud Patches（PRE）
+		- Cloud Workspaces（PRE）
+# 旧笔记归档

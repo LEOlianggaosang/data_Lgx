@@ -181,22 +181,6 @@
       "key": "V"
     }
   ],
-  "editor:attach-file": [
-    {
-      "modifiers": [
-        "Mod"
-      ],
-      "key": "Q"
-    }
-  ],
-  "bookmarks:bookmark-current-view": [
-    {
-      "modifiers": [
-        "Mod"
-      ],
-      "key": "M"
-    }
-  ],
   "workspace:goto-last-tab": [],
   "workspace:previous-tab": [
     {
@@ -349,15 +333,6 @@
       "key": "ArrowUp"
     }
   ],
-  "bookmarks:unbookmark-current-view": [
-    {
-      "modifiers": [
-        "Alt",
-        "Mod"
-      ],
-      "key": "M"
-    }
-  ],
   "daily-notes": [
     {
       "modifiers": [
@@ -384,38 +359,6 @@
       "key": "J"
     }
   ],
-  "bookmarks:bookmark-current-section": [
-    {
-      "modifiers": [
-        "Mod"
-      ],
-      "key": "7"
-    }
-  ],
-  "bookmarks:bookmark-current-heading": [
-    {
-      "modifiers": [
-        "Mod"
-      ],
-      "key": "8"
-    }
-  ],
-  "bookmarks:bookmark-current-search": [
-    {
-      "modifiers": [
-        "Mod"
-      ],
-      "key": "9"
-    }
-  ],
-  "bookmarks:bookmark-all-tabs": [
-    {
-      "modifiers": [
-        "Mod"
-      ],
-      "key": "0"
-    }
-  ],
   "editor:delete-paragraph": [
     {
       "modifiers": [
@@ -432,12 +375,6 @@
         "Shift"
       ],
       "key": "Backspace"
-    }
-  ],
-  "app:reload": [
-    {
-      "modifiers": [],
-      "key": "F5"
     }
   ],
   "note-composer:extract-heading": [
@@ -553,6 +490,245 @@
         "Shift"
       ],
       "key": "`"
+    }
+  ],
+  "editor:insert-codeblock": [
+    {
+      "modifiers": [
+        "Alt",
+        "Mod"
+      ],
+      "key": "`"
+    }
+  ],
+  "bookmarks:bookmark-current-view": [
+    {
+      "modifiers": [
+        "Mod"
+      ],
+      "key": "M"
+    }
+  ],
+  "bookmarks:bookmark-current-section": [
+    {
+      "modifiers": [
+        "Mod",
+        "Shift"
+      ],
+      "key": "M"
+    }
+  ],
+  "bookmarks:unbookmark-current-view": [
+    {
+      "modifiers": [
+        "Alt",
+        "Mod",
+        "Shift"
+      ],
+      "key": "M"
+    }
+  ],
+  "bookmarks:bookmark-all-tabs": [
+    {
+      "modifiers": [
+        "Alt",
+        "Shift"
+      ],
+      "key": "M"
+    }
+  ],
+  "workspace:edit-file-title": [],
+  "bookmarks:bookmark-current-search": [
+    {
+      "modifiers": [
+        "Alt"
+      ],
+      "key": "M"
+    }
+  ],
+  "bookmarks:bookmark-current-heading": [
+    {
+      "modifiers": [
+        "Alt",
+        "Mod"
+      ],
+      "key": "M"
+    }
+  ],
+  "editor:set-heading": [
+    {
+      "modifiers": [
+        "Mod"
+      ],
+      "key": "8"
+    }
+  ],
+  "editor:set-heading-0": [
+    {
+      "modifiers": [
+        "Mod"
+      ],
+      "key": "7"
+    }
+  ],
+  "editor:clear-formatting": [
+    {
+      "modifiers": [
+        "Mod"
+      ],
+      "key": "9"
+    }
+  ],
+  "editor:insert-table": [
+    {
+      "modifiers": [
+        "Mod"
+      ],
+      "key": "0"
+    }
+  ],
+  "editor:table-row-before": [
+    {
+      "modifiers": [
+        "Alt",
+        "Mod"
+      ],
+      "key": "Numpad8"
+    }
+  ],
+  "editor:table-row-after": [
+    {
+      "modifiers": [
+        "Alt",
+        "Mod"
+      ],
+      "key": "Numpad2"
+    }
+  ],
+  "editor:table-col-after": [
+    {
+      "modifiers": [
+        "Alt",
+        "Mod"
+      ],
+      "key": "Numpad6"
+    }
+  ],
+  "editor:table-col-before": [
+    {
+      "modifiers": [
+        "Alt",
+        "Mod"
+      ],
+      "key": "Numpad4"
+    }
+  ],
+  "editor:table-row-up": [
+    {
+      "modifiers": [
+        "Alt"
+      ],
+      "key": "Numpad8"
+    }
+  ],
+  "editor:table-row-down": [
+    {
+      "modifiers": [
+        "Alt"
+      ],
+      "key": "Numpad2"
+    }
+  ],
+  "editor:table-col-right": [
+    {
+      "modifiers": [
+        "Alt"
+      ],
+      "key": "Numpad6"
+    }
+  ],
+  "editor:table-col-left": [
+    {
+      "modifiers": [
+        "Alt"
+      ],
+      "key": "Numpad4"
+    }
+  ],
+  "editor:table-col-align-center": [
+    {
+      "modifiers": [
+        "Alt"
+      ],
+      "key": "Numpad5"
+    }
+  ],
+  "editor:table-col-align-right": [
+    {
+      "modifiers": [
+        "Alt"
+      ],
+      "key": "Numpad3"
+    }
+  ],
+  "editor:table-col-align-left": [
+    {
+      "modifiers": [
+        "Alt"
+      ],
+      "key": "Numpad1"
+    }
+  ],
+  "editor:table-col-copy": [
+    {
+      "modifiers": [
+        "Alt"
+      ],
+      "key": "Numpad7"
+    }
+  ],
+  "editor:table-row-copy": [
+    {
+      "modifiers": [
+        "Alt"
+      ],
+      "key": "Numpad9"
+    }
+  ],
+  "editor:table-col-delete": [
+    {
+      "modifiers": [
+        "Alt",
+        "Mod"
+      ],
+      "key": "Numpad7"
+    }
+  ],
+  "editor:table-row-delete": [
+    {
+      "modifiers": [
+        "Alt",
+        "Mod"
+      ],
+      "key": "Numpad9"
+    }
+  ],
+  "editor:attach-file": [
+    {
+      "modifiers": [
+        "Mod",
+        "Shift"
+      ],
+      "key": "L"
+    }
+  ],
+  "editor:insert-link": [
+    {
+      "modifiers": [
+        "Alt",
+        "Mod"
+      ],
+      "key": "L"
     }
   ]
 }

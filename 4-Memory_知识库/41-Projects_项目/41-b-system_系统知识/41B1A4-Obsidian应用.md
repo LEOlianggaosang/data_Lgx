@@ -14,6 +14,6 @@ tags:
 [[碎片：obsidian关系图谱]]
 [[主题：obsidian应用功能实际使用]]
 [[碎片：obsidian快捷键]]
+[[专题：obsidian应用功能共性]]
 [[碎片：obsidian工作区JSON文件解析]]
-[[主题：obsidian应用APP差异]]
 

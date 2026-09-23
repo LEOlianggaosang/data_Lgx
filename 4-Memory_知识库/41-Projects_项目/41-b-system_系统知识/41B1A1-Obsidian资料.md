@@ -11,6 +11,6 @@ tags:
 
 ## Link
 [[主题：obsidian书本]]
-[[主题：obsidian官网]]
+[[碎片：obsidian官网]]
 
 

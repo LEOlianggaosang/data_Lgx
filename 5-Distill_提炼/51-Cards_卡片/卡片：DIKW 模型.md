@@ -1,4 +1,4 @@
-#知识库/理论
+#知识库
 > [!summary] 知识库遵循
 > 1. 数据（Data）
 > 2. 信息（Information）

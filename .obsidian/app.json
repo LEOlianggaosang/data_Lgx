@@ -1,6 +1,7 @@
 {
   "showLineNumber": true,
   "mobileToolbarCommands": [
+    "insert-current-date",
     "editor:toggle-bullet-list",
     "editor:toggle-numbered-list",
     "editor:cycle-list-checklist",
@@ -12,7 +13,6 @@
     "editor:swap-line-up",
     "editor:swap-line-down",
     "editor:insert-wikilink",
-    "insert-current-date",
     "editor:insert-tag",
     "editor:toggle-bold",
     "editor:toggle-italics",
@@ -30,10 +30,8 @@
     "editor:insert-codeblock",
     "editor:insert-horizontal-rule",
     "editor:insert-footnote",
-    "bookmarks:bookmark-current-heading",
-    "bookmarks:bookmark-current-section",
     "note-composer:split-file",
-    "insert-current-time"
+    "editor:insert-embed"
   ],
   "livePreview": false,
   "readableLineLength": true,

@@ -11,4 +11,6 @@ tags:
 
 ## Link
 [[示例：obsidian标注]]
+[[碎片：obsidian文本指令]]
+[[主题：obsidian使用html标签]]
 

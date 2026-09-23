@@ -1,0 +1,304 @@
+{
+  "items": [
+    {
+      "type": "group",
+      "ctime": 1789267061044,
+      "items": [
+        {
+          "type": "file",
+          "ctime": 1789377933529,
+          "path": "2-Space_工作区/22-Flow_心流/心流20260913：书签收藏应用.md",
+          "title": "工作区：补强/添加书签"
+        },
+        {
+          "type": "file",
+          "ctime": 1789371822237,
+          "path": "1-Dayly_日记本/2026-09-13-星期日.md",
+          "title": "收藏引申：内容来源/书签别名"
+        },
+        {
+          "type": "file",
+          "ctime": 1789360040913,
+          "path": "3-Presonal_存放点/32-Learning_学习/碎片：obsidian快捷键.md",
+          "title": "更新：实际状态/收藏当前标签页"
+        },
+        {
+          "type": "file",
+          "ctime": 1789356105530,
+          "path": "3-Presonal_存放点/32-Learning_学习/专题：obsidian应用功能共性.md",
+          "title": "快捷键改善专题：内容转移/收藏笔记"
+        },
+        {
+          "type": "file",
+          "ctime": 1789371672049,
+          "path": "1-Dayly_日记本/2026-09-14-星期一.md",
+          "subpath": "#^shoucangchonggou",
+          "title": "断点/收藏当前块"
+        },
+        {
+          "type": "file",
+          "ctime": 1789348564480,
+          "path": "3-Presonal_存放点/33-ToDo_策略/思路：关联属性与工作区衍生.md",
+          "subpath": "#收藏应用",
+          "title": "收藏应用/收藏当前标题"
+        },
+        {
+          "type": "search",
+          "ctime": 1789350564854,
+          "query": "收藏",
+          "title": "收藏当前搜索"
+        },
+        {
+          "type": "group",
+          "ctime": 1789356578144,
+          "items": [
+            {
+              "type": "file",
+              "ctime": 1789377996508,
+              "path": "2-Space_工作区/22-Flow_心流/心流20260913：书签收藏应用.md"
+            },
+            {
+              "type": "file",
+              "ctime": 1789367723755,
+              "path": "1-Dayly_日记本/2026-09-13-星期日.md"
+            },
+            {
+              "type": "file",
+              "ctime": 1789381795312,
+              "path": "1-Dayly_日记本/2026-09-14-星期一.md"
+            },
+            {
+              "type": "file",
+              "ctime": 1789356526363,
+              "path": "3-Presonal_存放点/32-Learning_学习/碎片：obsidian快捷键.md"
+            },
+            {
+              "type": "file",
+              "ctime": 1789353319370,
+              "path": "3-Presonal_存放点/33-ToDo_策略/思路：关联属性与工作区衍生.md"
+            },
+            {
+              "type": "file",
+              "ctime": 1789356526363,
+              "path": "3-Presonal_存放点/32-Learning_学习/专题：obsidian应用功能共性.md"
+            }
+          ],
+          "title": "工作区/收藏所有标签页"
+        }
+      ],
+      "title": "固定收藏：书签范例"
+    },
+    {
+      "type": "group",
+      "ctime": 1789645060423,
+      "items": [
+        {
+          "type": "file",
+          "ctime": 1790132716372,
+          "path": "3-Presonal_存放点/33-ToDo_策略/待办：WorkToDo_工作线.md"
+        },
+        {
+          "type": "file",
+          "ctime": 1790132767220,
+          "path": "3-Presonal_存放点/33-ToDo_策略/待办：VaultToDo_知识库线.md"
+        },
+        {
+          "type": "file",
+          "ctime": 1790132781938,
+          "path": "3-Presonal_存放点/33-ToDo_策略/待办：VibeToDo_智能体线.md"
+        },
+        {
+          "type": "file",
+          "ctime": 1790132793769,
+          "path": "3-Presonal_存放点/33-ToDo_策略/待办：GameToDo_游戏进度线.md"
+        }
+      ],
+      "title": "固定收藏：策略待办"
+    },
+    {
+      "type": "group",
+      "ctime": 1789356392230,
+      "items": [
+        {
+          "type": "file",
+          "ctime": 1789353319370,
+          "path": "1-Dayly_日记本/2026-09-09-星期三.md",
+          "title": "断点：内容来源"
+        },
+        {
+          "type": "file",
+          "ctime": 1789347778869,
+          "path": "3-Presonal_存放点/34-Relax_娱乐/主题：Wild铳枪.md",
+          "title": "重构：内容转移"
+        },
+        {
+          "type": "file",
+          "ctime": 1789778580633,
+          "path": "3-Presonal_存放点/34-Relax_娱乐/主题：Wild凌越.md",
+          "title": "试玩内容聚集"
+        }
+      ],
+      "title": "铳枪"
+    },
+    {
+      "type": "group",
+      "ctime": 1789485894342,
+      "items": [
+        {
+          "type": "file",
+          "ctime": 1789485908485,
+          "path": "2-Space_工作区/23-Favorites_收藏夹/收藏夹20260826：手柄设置.md",
+          "title": "工作区"
+        },
+        {
+          "type": "file",
+          "ctime": 1789485985253,
+          "path": "3-Presonal_存放点/36-Life_生活/主题：设备消费清单.md",
+          "title": "设备"
+        },
+        {
+          "type": "file",
+          "ctime": 1789486033699,
+          "path": "3-Presonal_存放点/36-Life_生活/主题：鼠标型号选择.md",
+          "title": "鼠标"
+        },
+        {
+          "type": "file",
+          "ctime": 1789486075404,
+          "path": "3-Presonal_存放点/36-Life_生活/主题：手柄型号收集.md",
+          "title": "手柄"
+        },
+        {
+          "type": "file",
+          "ctime": 1789486112176,
+          "path": "3-Presonal_存放点/36-Life_生活/专题：飞智手柄设置.md",
+          "title": "飞智"
+        },
+        {
+          "type": "file",
+          "ctime": 1789486130187,
+          "path": "3-Presonal_存放点/36-Life_生活/专题：北通手柄设置.md",
+          "title": "北通"
+        }
+      ],
+      "title": "手柄设置"
+    },
+    {
+      "type": "group",
+      "ctime": 1789644021455,
+      "items": [
+        {
+          "type": "file",
+          "ctime": 1789644029785,
+          "path": "2-Space_工作区/21-Work_工作流/工作流20260904：柜机规格书.md",
+          "title": "工作区"
+        },
+        {
+          "type": "file",
+          "ctime": 1789698323072,
+          "path": "3-Presonal_存放点/31-JUWEN_钜文/主题：确认旧版本柜机机制.md",
+          "title": "旧版本"
+        },
+        {
+          "type": "file",
+          "ctime": 1789729050811,
+          "path": "3-Presonal_存放点/31-JUWEN_钜文/主题：规格书模版设计.md",
+          "title": "模版"
+        },
+        {
+          "type": "file",
+          "ctime": 1789731679026,
+          "path": "2-Space_工作区/21-Work_工作流/工作流20260918：第二次试产前追溯.md",
+          "title": "追溯"
+        }
+      ],
+      "title": "规格书"
+    },
+    {
+      "type": "group",
+      "ctime": 1789889483674,
+      "items": [
+        {
+          "type": "file",
+          "ctime": 1789892640105,
+          "path": "2-Space_工作区/22-Flow_心流/心流20260831：应用Dataview插件.md",
+          "title": "参考工作区"
+        },
+        {
+          "type": "file",
+          "ctime": 1789889505108,
+          "path": "3-Presonal_存放点/32-Learning_学习/主题：obsidian插件社区.md",
+          "title": "来源"
+        },
+        {
+          "type": "file",
+          "ctime": 1789891145166,
+          "path": "3-Presonal_存放点/32-Learning_学习/主题：obsidian插件需求.md",
+          "title": "需求"
+        },
+        {
+          "type": "file",
+          "ctime": 1789892672462,
+          "path": "3-Presonal_存放点/32-Learning_学习/主题：obsidian插件应用.md",
+          "title": "解析"
+        },
+        {
+          "type": "file",
+          "ctime": 1789892812951,
+          "path": "4-Memory_知识库/43-Resources_资源/43-b-TabGroup_选项卡组/选项卡组：Obsidian拓展插件.md",
+          "title": "补充"
+        }
+      ],
+      "title": "obsidian插件"
+    },
+    {
+      "type": "group",
+      "ctime": 1790057750523,
+      "items": [
+        {
+          "type": "file",
+          "ctime": 1790057763498,
+          "path": "2-Space_工作区/22-Flow_心流/心流20260917：Agent并行与额度.md",
+          "title": "工作区"
+        },
+        {
+          "type": "file",
+          "ctime": 1790058140531,
+          "path": "3-Presonal_存放点/32-Learning_学习/碎片：Copilot会话管理.md",
+          "title": "登记"
+        },
+        {
+          "type": "file",
+          "ctime": 1790058195088,
+          "path": "3-Presonal_存放点/32-Learning_学习/主题：Copilot协助维护知识库_行动维度.md",
+          "title": "使用"
+        },
+        {
+          "type": "file",
+          "ctime": 1790058162669,
+          "path": "3-Presonal_存放点/32-Learning_学习/专题：Copilot会话延伸记录_思考维度.md",
+          "title": "延伸"
+        },
+        {
+          "type": "file",
+          "ctime": 1790058182375,
+          "path": "3-Presonal_存放点/32-Learning_学习/专题：Copilot_智能体视图.md",
+          "title": "界面"
+        },
+        {
+          "type": "file",
+          "ctime": 1790058207219,
+          "path": "3-Presonal_存放点/32-Learning_学习/主题：Copilot_Agent理论.md",
+          "title": "理论"
+        },
+        {
+          "type": "file",
+          "ctime": 1790065216281,
+          "path": "3-Presonal_存放点/32-Learning_学习/专题：Copilot会话 尝试记录.md",
+          "title": "尝试"
+        }
+      ],
+      "title": "copilot额度"
+    }
+  ]
+}

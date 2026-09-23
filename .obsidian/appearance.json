@@ -1,4 +1,6 @@
 {
   "baseFontSize": 15,
-  "theme": "obsidian"
+  "theme": "obsidian",
+  "showRibbon": true,
+  "showViewHeader": true
 }

@@ -4,44 +4,83 @@
     "type": "split",
     "children": [
       {
-        "id": "313a05d825f97c1c",
+        "id": "761853287f92e722",
         "type": "tabs",
         "children": [
           {
-            "id": "a1d889f4ca79125c",
+            "id": "66a06e564404c7d2",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2-Space_工作区/21-Work_工作流/工作流20260808：线束图.md",
+                "file": "2-Space_工作区/22-Flow_心流/心流20260917：Agent并行与额度.md",
                 "mode": "source",
-                "source": true
+                "source": true,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
               },
               "icon": "lucide-file",
-              "title": "工作流20260808：线束图"
+              "title": "心流20260917：Agent并行与额度"
             }
-          }
-        ]
-      },
-      {
-        "id": "0750ce09f0379af4",
-        "type": "tabs",
-        "children": [
+          },
           {
-            "id": "6835752ba257aa33",
+            "id": "7418fdfdef4b05c4",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1-Dayly_日记本/2026-08-12-星期三.md",
+                "file": "4-Memory_知识库/41-Projects_项目/41-b-system_系统知识/41B2B-ToDo_策略.md",
                 "mode": "source",
-                "source": true
+                "source": true,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
               },
               "icon": "lucide-file",
-              "title": "2026-08-12-星期三"
+              "title": "41B2B-ToDo_策略"
+            }
+          },
+          {
+            "id": "37c2b2cf39152a0d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "1-Dayly_日记本/2026-09-23-星期三.md",
+                "mode": "source",
+                "source": true,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "2026-09-23-星期三"
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -61,7 +100,7 @@
               "type": "file-explorer",
               "state": {
                 "sortOrder": "alphabetical",
-                "autoReveal": false,
+                "autoReveal": true,
                 "showSearch": false,
                 "searchQuery": ""
               },
@@ -75,8 +114,8 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
-                "matchingCase": true,
+                "query": "Gitkraken",
+                "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
                 "extraContext": false,
@@ -91,56 +130,12 @@
             "type": "leaf",
             "state": {
               "type": "bookmarks",
-              "state": {},
+              "state": {
+                "showSearch": false,
+                "searchQuery": ""
+              },
               "icon": "lucide-bookmark",
               "title": "书签"
-            }
-          }
-        ]
-      }
-    ],
-    "direction": "horizontal",
-    "width": 300
-  },
-  "right": {
-    "id": "bc0709d19524bcbd",
-    "type": "split",
-    "children": [
-      {
-        "id": "1c146b39749c0735",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "917c90509c759bdc",
-            "type": "leaf",
-            "state": {
-              "type": "backlink",
-              "state": {
-                "file": "1-Dayly_日记本/2026-08-12-星期三.md",
-                "collapseAll": false,
-                "extraContext": false,
-                "sortOrder": "alphabetical",
-                "showSearch": false,
-                "searchQuery": "",
-                "backlinkCollapsed": false,
-                "unlinkedCollapsed": true
-              },
-              "icon": "links-coming-in",
-              "title": "反向链接"
-            }
-          },
-          {
-            "id": "a22cfe1bad0bee3a",
-            "type": "leaf",
-            "state": {
-              "type": "outgoing-link",
-              "state": {
-                "file": "1-Dayly_日记本/2026-08-12-星期三.md",
-                "linksCollapsed": false,
-                "unlinkedCollapsed": false
-              },
-              "icon": "links-going-out",
-              "title": "出链"
             }
           },
           {
@@ -171,20 +166,52 @@
               "icon": "lucide-archive",
               "title": "添加笔记属性"
             }
-          },
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "bc0709d19524bcbd",
+    "type": "split",
+    "children": [
+      {
+        "id": "1c146b39749c0735",
+        "type": "tabs",
+        "children": [
           {
-            "id": "4729887d671efabf",
+            "id": "917c90509c759bdc",
             "type": "leaf",
             "state": {
-              "type": "outline",
+              "type": "backlink",
               "state": {
-                "file": "1-Dayly_日记本/2026-08-12-星期三.md",
-                "followCursor": false,
+                "file": "1-Dayly_日记本/2026-09-16-星期三.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
                 "showSearch": false,
-                "searchQuery": ""
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
               },
-              "icon": "lucide-list",
-              "title": "大纲"
+              "icon": "links-coming-in",
+              "title": "反向链接"
+            }
+          },
+          {
+            "id": "a22cfe1bad0bee3a",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "1-Dayly_日记本/2026-09-13-星期日.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": false
+              },
+              "icon": "links-going-out",
+              "title": "出链"
             }
           },
           {
@@ -193,18 +220,34 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "1-Dayly_日记本/2026-08-12-星期三.md"
+                "file": "1-Dayly_日记本/2026-09-22-星期二.md"
               },
               "icon": "lucide-info",
               "title": "笔记属性"
             }
+          },
+          {
+            "id": "4729887d671efabf",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "1-Dayly_日记本/2026-09-23-星期三.md",
+                "followCursor": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "大纲"
+            }
           }
         ],
-        "currentTab": 4
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
-    "width": 300.5
+    "width": 300.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -217,56 +260,57 @@
       "bases:新建数据库": false
     }
   },
-  "active": "6835752ba257aa33",
+  "active": "37c2b2cf39152a0d",
   "lastOpenFiles": [
-    "3-Presonal_存放点/32-Learning_学习/主题：obsidian插件应用.md",
-    "4-Memory_知识库/41-Projects_项目/41-b-system_系统知识/41B1A5-Obsidian强化.md",
-    "3-Presonal_存放点/32-Learning_学习/主题：obsidian插件社区.md",
-    "3-Presonal_存放点/32-Learning_学习/主题：obsidian插件需求.md",
-    "3-Presonal_存放点/32-Learning_学习/主题：obsidian模版.md",
-    "3-Presonal_存放点/32-Learning_学习/主题：obsidian社区模版.md",
-    "3-Presonal_存放点/32-Learning_学习/主题：obsidian时间线构建.md",
-    "1-Dayly_日记本/2026-08-12-星期三.md",
-    "2-Space_工作区/21-Work_工作流/工作流20260808：线束图.md",
-    "1-Dayly_日记本/2026-08-11-星期二.md",
-    "3-Presonal_存放点/31-JUWEN_钜文/分解任务：柜机60机软件问题汇总.md",
-    "3-Presonal_存放点/31-JUWEN_钜文/分解任务：柜机60机程序更改记录.md",
-    "0-Inbox_收件箱/推送：微信812.md",
-    "0-Inbox_收件箱/未命名.md",
-    "3-Presonal_存放点/34-Relax_娱乐/主题：Rise轻弩开发.md",
-    "3-Presonal_存放点/34-Relax_娱乐/碎片：Rise输出向技能.md",
-    "3-Presonal_存放点/34-Relax_娱乐/碎片：Rise远程向技能.md",
-    "3-Presonal_存放点/34-Relax_娱乐/主题：Rise伙伴优化与培养.md",
-    "4-Memory_知识库/42-Areas_领域/42C1A4A-Rise：游戏进程.md",
-    "3-Presonal_存放点/34-Relax_娱乐/主题：Rise上位护石模型与挑选.md",
-    "3-Presonal_存放点/31-JUWEN_钜文/分解任务：确认柜机机制.md",
-    "0-Inbox_收件箱/推送：微信810.md",
-    "0-Inbox_收件箱/推送：微信811.md",
-    "3-Presonal_存放点/31-JUWEN_钜文/碎片：柜机硬件更改记录.md",
-    "README.md",
-    "3-Presonal_存放点/31-JUWEN_钜文/分解任务：确认柜机加热步骤.md",
-    "Attachments/Files/Images/8-11-1_柜机电源板改前.png",
-    "Attachments/Files/Images/8-11-2_柜机电源板改后.png",
-    "Attachments/Files/Images/8-3-1_华拓加热故障判断.png",
+    "4-Memory_知识库/41-Projects_项目/41-b-system_系统知识/41B2B-ToDo_策略.md",
+    "3-Presonal_存放点/33-ToDo_策略/待办：VaultToDo_知识库线.md",
+    "2-Space_工作区/22-Flow_心流/心流20260917：Agent并行与额度.md",
+    "4-Memory_知识库/41-Projects_项目/41-b-system_系统知识/41B2B4-GamesToDo_游戏进度线.md",
+    "1-Dayly_日记本/2026-09-23-星期三.md",
+    "3-Presonal_存放点/33-ToDo_策略/待办：VibeToDo_智能体线.md",
+    "3-Presonal_存放点/33-ToDo_策略/待办：GameToDo_游戏进度线.md",
+    "3-Presonal_存放点/33-ToDo_策略/待办：game 手柄设置.md",
+    "3-Presonal_存放点/33-ToDo_策略/待办：game 凌越资讯.md",
+    "2-Space_工作区/22-Flow_心流/待吸收：甲木agent经验.md",
+    "4-Memory_知识库/41-Projects_项目/41-b-system_系统知识/41B2B3-VibecodingToDo_智能线.md",
+    "4-Memory_知识库/41-Projects_项目/41-b-system_系统知识/41B2B2-VaultToDo_知识库线.md",
+    "2-Space_工作区/22-Flow_心流/待吸收：9月下班后时间分配.md",
+    "2-Space_工作区/22-Flow_心流/待吸收：9月Agent协助整理知识库.md",
+    "2-Space_工作区/22-Flow_心流/待吸收：obsidian知识库优化与重构.md",
+    "3-Presonal_存放点/33-ToDo_策略/待办：valut 推送消化.md",
+    "3-Presonal_存放点/33-ToDo_策略/待办：valut 快捷键.md",
+    "4-Memory_知识库/41-Projects_项目/41-b-system_系统知识/41B2B1-WorkToDo_工作线.md",
+    "3-Presonal_存放点/33-ToDo_策略/待办：WorkToDo_工作线.md",
+    "3-Presonal_存放点/33-ToDo_策略/待办：work 奶瓶机版本2.md",
+    "3-Presonal_存放点/33-ToDo_策略/待办：work 奶瓶机版本1.md",
+    "3-Presonal_存放点/33-ToDo_策略/待办：work 奶瓶机版本3.md",
+    "3-Presonal_存放点/33-ToDo_策略/待办：work 柜机规格书.md",
+    "3-Presonal_存放点/33-ToDo_策略/待办：work 柜机华拓软硬件.md",
+    "4-Memory_知识库/44-Archives_归档/44-c-Done_闭环/0文件夹：44-c-Done_闭环.md",
+    "2-Space_工作区/22-Flow_心流/心流20260923：管理者易主.md",
+    "1-Dayly_日记本/未命名.canvas",
+    "Attachments/Files/PDFs/CBM72xxA系列芯片手册v1.00_20240110(南区).pdf",
+    "Attachments/Files/PDFs/CBM63xx系列芯片手册v9_0_20170622.pdf",
+    "Attachments/Files/Images/9-8-2_独立式开关按键-圓角外形.png",
+    "Attachments/Files/Images/7-27-2_柜机电源板接线端子.png",
+    "Attachments/Files/Images/7-27-3_华拓柜机故障特殊处理机制参考.png",
+    "Attachments/Files/Images/7-27-1_60机整机电路图.png",
+    "Attachments/Files/Images/9-9-4_荒野铳枪招式派生.jpg",
+    "Attachments/Files/Images/9-9-2_HX旧.jpg",
+    "Attachments/Files/Images/9-9-1_HX新.jpg",
+    "Attachments/Files/Images/9-9-3_HX龙骨调节.png",
+    "3-Presonal_存放点/36-Life_生活/未命名",
+    "3-Presonal_存放点/36-Life_生活 1",
+    "Attachments/Files/Images/9-8-1_独立式触摸按键-提手凹凸外形.png",
+    "Attachments/Files/Images/9-8-3_全嵌式触摸按键-顶控长条外形.png",
+    "4-Memory_知识库/44-Archives_归档/44-b-Mooniy_月档案/2026-09~2026-10",
+    "4-Memory_知识库/44-Archives_归档/44-b-Mooniy_月档案/2026-9~2026-10",
+    "4-Memory_知识库/44-Archives_归档/44-b-Mooniy_月档案/新建文件夹",
+    "lgx.code-workspace",
     "3-Presonal_存放点/34-Relax_娱乐/未命名.canvas",
     "62-Chat_会话记录",
     "4-Memory_知识库/41-Projects_项目/未命名.canvas",
     "6-Express_表达/62-Chat_会话记录",
-    "4-Memory_知识库/41-Projects_项目/40B-Folder_目录树.mmd",
-    "Attachments/Files/Docx",
-    "Attachments/LFS/Videos",
-    "Attachments/LFS/Audios",
-    "Attachments/Files/PDFs",
-    "6-Express_表达/61-Wiki_个人维基",
-    "4-Memory_知识库/43-Resources_资源/43-b-TabGroup_选项卡组",
-    "4-Memory_知识库/43-Resources_资源/43-a-SyncPush_移动推送 1/43-a3_wechat_微信",
-    "Attachments/Files/Images/7-10-1_markdown速查.png",
-    "Attachments/Files/Images/8-2-3_随从连携攻击招式.jpg",
-    "Attachments/Files/Images/8-2-1_随从技能列表.jpg",
-    "Attachments/Files/Images/7-27-3_华拓柜机故障特殊处理机制参考.png",
-    "Attachments/Files/Images/8-2-6_输出狗技能参考.png",
-    "Attachments/Files/Images/8-2-7_辅助猫技能参考.png",
-    "Attachments/Files/Images/8-2-4_减气机制.jpg",
     "0-Inbox/容器/轻弩.canvas",
     "容器/未命名.canvas",
     "未命名 1.canvas"

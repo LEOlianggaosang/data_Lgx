@@ -8,7 +8,7 @@ tags:
   - vscode
 ---
 ## Description
-前置知识
+次操作系统，主要代码编辑器，编程知识衍生归类
 ## Link
 [[41B1B1-Vscode资料]]
 [[41B1B2-Vscode插件]]

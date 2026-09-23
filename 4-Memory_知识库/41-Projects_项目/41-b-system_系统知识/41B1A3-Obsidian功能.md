@@ -11,6 +11,7 @@ tags:
 
 ## Link
 [[主题：obsidian功能索引]]
-[[主题：obsidian日记]]
-[[主题：obsidian模版]]
+[[碎片：obsidian功能 日记]]
+[[碎片：obsidian功能 模版]]
+[[碎片：obsidian功能 表格]]
 
