@@ -6,47 +6,29 @@
       "items": [
         {
           "type": "file",
-          "ctime": 1789377933529,
-          "path": "2-Space_工作区/22-Flow_心流/心流20260913：书签收藏应用.md",
-          "title": "工作区：补强/添加书签"
+          "ctime": 1790588014324,
+          "path": "3-Presonal_存放点/32-Learning_学习/心流20260908：语法功能应用.md",
+          "title": "工作区"
         },
         {
           "type": "file",
-          "ctime": 1789371822237,
-          "path": "1-Dayly_日记本/2026-09-13-星期日.md",
-          "title": "收藏引申：内容来源/书签别名"
+          "ctime": 1791280968407,
+          "path": "3-Presonal_存放点/32-Learning_学习/碎片：Obsidian功能 书签.md",
+          "subpath": "#功能赋义",
+          "title": "收藏标题"
         },
         {
           "type": "file",
-          "ctime": 1789360040913,
-          "path": "3-Presonal_存放点/32-Learning_学习/碎片：obsidian快捷键.md",
-          "title": "更新：实际状态/收藏当前标签页"
-        },
-        {
-          "type": "file",
-          "ctime": 1789356105530,
-          "path": "3-Presonal_存放点/32-Learning_学习/专题：obsidian应用功能共性.md",
-          "title": "快捷键改善专题：内容转移/收藏笔记"
-        },
-        {
-          "type": "file",
-          "ctime": 1789371672049,
-          "path": "1-Dayly_日记本/2026-09-14-星期一.md",
-          "subpath": "#^shoucangchonggou",
-          "title": "断点/收藏当前块"
-        },
-        {
-          "type": "file",
-          "ctime": 1789348564480,
-          "path": "3-Presonal_存放点/33-ToDo_策略/思路：关联属性与工作区衍生.md",
-          "subpath": "#收藏应用",
-          "title": "收藏应用/收藏当前标题"
+          "ctime": 1791280877329,
+          "path": "3-Presonal_存放点/32-Learning_学习/碎片：Obsidian功能 书签.md",
+          "subpath": "#^scxgkjj",
+          "title": "收藏块"
         },
         {
           "type": "search",
-          "ctime": 1789350564854,
-          "query": "收藏",
-          "title": "收藏当前搜索"
+          "ctime": 1790590939994,
+          "query": "0文件夹",
+          "title": "收藏搜索"
         },
         {
           "type": "group",
@@ -54,36 +36,16 @@
           "items": [
             {
               "type": "file",
-              "ctime": 1789377996508,
-              "path": "2-Space_工作区/22-Flow_心流/心流20260913：书签收藏应用.md"
+              "ctime": 1790590847477,
+              "path": "3-Presonal_存放点/32-Learning_学习/心流20260908：语法功能应用.md"
             },
             {
               "type": "file",
-              "ctime": 1789367723755,
-              "path": "1-Dayly_日记本/2026-09-13-星期日.md"
-            },
-            {
-              "type": "file",
-              "ctime": 1789381795312,
-              "path": "1-Dayly_日记本/2026-09-14-星期一.md"
-            },
-            {
-              "type": "file",
-              "ctime": 1789356526363,
-              "path": "3-Presonal_存放点/32-Learning_学习/碎片：obsidian快捷键.md"
-            },
-            {
-              "type": "file",
-              "ctime": 1789353319370,
-              "path": "3-Presonal_存放点/33-ToDo_策略/思路：关联属性与工作区衍生.md"
-            },
-            {
-              "type": "file",
-              "ctime": 1789356526363,
-              "path": "3-Presonal_存放点/32-Learning_学习/专题：obsidian应用功能共性.md"
+              "ctime": 1791280685835,
+              "path": "3-Presonal_存放点/32-Learning_学习/碎片：Obsidian功能 书签.md"
             }
           ],
-          "title": "工作区/收藏所有标签页"
+          "title": "收藏所有标签页"
         }
       ],
       "title": "固定收藏：书签范例"
@@ -117,28 +79,283 @@
     },
     {
       "type": "group",
-      "ctime": 1789356392230,
+      "ctime": 1789644021455,
       "items": [
         {
           "type": "file",
-          "ctime": 1789353319370,
-          "path": "1-Dayly_日记本/2026-09-09-星期三.md",
-          "title": "断点：内容来源"
+          "ctime": 1789644029785,
+          "path": "2-Space_工作区/21-Work_工作流/工作流20260904：柜机规格书.md",
+          "title": "工作区"
         },
         {
           "type": "file",
-          "ctime": 1789347778869,
-          "path": "3-Presonal_存放点/34-Relax_娱乐/主题：Wild铳枪.md",
-          "title": "重构：内容转移"
+          "ctime": 1789698323072,
+          "path": "3-Presonal_存放点/31-JUWEN_钜文/主题：确认旧版本柜机机制.md",
+          "title": "旧版本"
         },
         {
           "type": "file",
-          "ctime": 1789778580633,
-          "path": "3-Presonal_存放点/34-Relax_娱乐/主题：Wild凌越.md",
-          "title": "试玩内容聚集"
+          "ctime": 1789729050811,
+          "path": "3-Presonal_存放点/31-JUWEN_钜文/主题：规格书模版设计.md",
+          "title": "模版"
+        },
+        {
+          "type": "file",
+          "ctime": 1791333978093,
+          "path": "3-Presonal_存放点/31-JUWEN_钜文/主题：柜机60机新显示板 硬件设计.md",
+          "title": "60新显示板硬件"
+        },
+        {
+          "type": "group",
+          "ctime": 1791344185429,
+          "items": [],
+          "title": "广交会样机"
         }
       ],
-      "title": "铳枪"
+      "title": "规格书"
+    },
+    {
+      "type": "group",
+      "ctime": 1790505083359,
+      "items": [
+        {
+          "type": "file",
+          "ctime": 1790505113781,
+          "path": "3-Presonal_存放点/31-JUWEN_钜文/分解任务：柜机60机沟通更改需求.md",
+          "title": "需求"
+        },
+        {
+          "type": "file",
+          "ctime": 1790505151583,
+          "path": "3-Presonal_存放点/31-JUWEN_钜文/分解任务：柜机60机程序更改记录.md",
+          "title": "更改"
+        },
+        {
+          "type": "file",
+          "ctime": 1790505175164,
+          "path": "3-Presonal_存放点/31-JUWEN_钜文/分解任务：柜机60机软件问题汇总.md",
+          "title": "问题"
+        },
+        {
+          "type": "group",
+          "ctime": 1790506048632,
+          "items": [
+            {
+              "type": "file",
+              "ctime": 1789731679026,
+              "path": "2-Space_工作区/21-Work_工作流/工作流20260918：第二次试产前追溯.md",
+              "title": "工作区：追溯"
+            },
+            {
+              "type": "file",
+              "ctime": 1790505409026,
+              "path": "3-Presonal_存放点/31-JUWEN_钜文/分解任务：柜机硬件更改记录.md",
+              "title": "硬件"
+            },
+            {
+              "type": "file",
+              "ctime": 1790506093834,
+              "path": "3-Presonal_存放点/31-JUWEN_钜文/主题：60机显示板显示效果.md",
+              "title": "显示效果"
+            },
+            {
+              "type": "file",
+              "ctime": 1790506111563,
+              "path": "3-Presonal_存放点/31-JUWEN_钜文/专题：寿命测试处理.md",
+              "title": "寿命测试"
+            }
+          ],
+          "title": "追溯"
+        }
+      ],
+      "title": "60机更改"
+    },
+    {
+      "type": "group",
+      "ctime": 1789889483674,
+      "items": [
+        {
+          "type": "file",
+          "ctime": 1789892640105,
+          "path": "2-Space_工作区/22-Flow_心流/心流20260831：插件应用.md",
+          "title": "参考工作区"
+        },
+        {
+          "type": "file",
+          "ctime": 1789891145166,
+          "path": "3-Presonal_存放点/32-Learning_学习/分解任务：Obsidian插件需求.md",
+          "title": "需求"
+        },
+        {
+          "type": "file",
+          "ctime": 1789889505108,
+          "path": "3-Presonal_存放点/32-Learning_学习/分解任务：Obsidian插件社区.md",
+          "title": "来源"
+        },
+        {
+          "type": "file",
+          "ctime": 1789892672462,
+          "path": "3-Presonal_存放点/32-Learning_学习/分解任务：Obsidian插件应用.md",
+          "title": "解析"
+        },
+        {
+          "type": "file",
+          "ctime": 1789892812951,
+          "path": "4-Memory_知识库/43-Resources_资源/43-b-TabGroup_选项卡组/选项卡组：Obsidian拓展插件.md",
+          "title": "补充"
+        },
+        {
+          "type": "group",
+          "ctime": 1790750856609,
+          "items": [
+            {
+              "type": "file",
+              "ctime": 1790674151180,
+              "path": "3-Presonal_存放点/32-Learning_学习/碎片：Obsidian核心插件.md",
+              "title": "核心插件"
+            },
+            {
+              "type": "file",
+              "ctime": 1790734003223,
+              "path": "3-Presonal_存放点/32-Learning_学习/主题：Obsidian功能索引.md",
+              "title": "功能补全"
+            },
+            {
+              "type": "file",
+              "ctime": 1790750808024,
+              "path": "3-Presonal_存放点/32-Learning_学习/主题：Obsidian语法.md",
+              "title": "语法细节"
+            }
+          ],
+          "title": "内置"
+        }
+      ],
+      "title": "obsidian插件"
+    },
+    {
+      "type": "group",
+      "ctime": 1790057750523,
+      "items": [
+        {
+          "type": "group",
+          "ctime": 1791274562588,
+          "items": [
+            {
+              "type": "file",
+              "ctime": 1790057763498,
+              "path": "2-Space_工作区/22-Flow_心流/心流20260917：Agent并行与额度.md",
+              "title": "工作区"
+            },
+            {
+              "type": "file",
+              "ctime": 1790058140531,
+              "path": "3-Presonal_存放点/32-Learning_学习/待重构：Copilot会话管理.md",
+              "title": "登记"
+            },
+            {
+              "type": "file",
+              "ctime": 1790058195088,
+              "path": "3-Presonal_存放点/32-Learning_学习/主题：Copilot协助维护知识库_行动维度.md",
+              "title": "使用"
+            },
+            {
+              "type": "file",
+              "ctime": 1790058162669,
+              "path": "3-Presonal_存放点/32-Learning_学习/专题：Copilot会话延伸记录_思考维度.md",
+              "title": "延伸"
+            },
+            {
+              "type": "file",
+              "ctime": 1790058182375,
+              "path": "3-Presonal_存放点/32-Learning_学习/专题：Copilot_智能体视图.md",
+              "title": "界面"
+            },
+            {
+              "type": "file",
+              "ctime": 1790058207219,
+              "path": "3-Presonal_存放点/32-Learning_学习/主题：Copilot_Agent理论.md",
+              "title": "理论"
+            },
+            {
+              "type": "file",
+              "ctime": 1790065216281,
+              "path": "3-Presonal_存放点/32-Learning_学习/专题：Copilot会话 尝试记录.md",
+              "title": "尝试"
+            }
+          ],
+          "title": "会话重组"
+        },
+        {
+          "type": "file",
+          "ctime": 1790505061268,
+          "path": "2-Space_工作区/22-Flow_心流/心流20260923：管理者易主.md",
+          "title": "易主"
+        },
+        {
+          "type": "file",
+          "ctime": 1791274361692,
+          "path": "3-Presonal_存放点/33-ToDo_策略/构建：Obsidian构建线.md",
+          "title": "构建"
+        }
+      ],
+      "title": "copilot额度"
+    },
+    {
+      "type": "group",
+      "ctime": 1790557897586,
+      "items": [
+        {
+          "type": "file",
+          "ctime": 1791347866857,
+          "path": "2-Space_工作区/22-Flow_心流/心流20260924：Agent体系认知.md",
+          "title": "工作区"
+        },
+        {
+          "type": "file",
+          "ctime": 1790558913012,
+          "path": "3-Presonal_存放点/32-Learning_学习/碎片：Agent关键词.md",
+          "title": "关键词"
+        },
+        {
+          "type": "file",
+          "ctime": 1790564975802,
+          "path": "3-Presonal_存放点/32-Learning_学习/主题：约束文件的标准化与特殊性.md",
+          "title": "AGENT"
+        },
+        {
+          "type": "file",
+          "ctime": 1790575195061,
+          "path": "3-Presonal_存放点/32-Learning_学习/主题：理解Session与痛点保存.md",
+          "title": "Session"
+        }
+      ],
+      "title": "Agent体系"
+    },
+    {
+      "type": "group",
+      "ctime": 1790587527300,
+      "items": [
+        {
+          "type": "file",
+          "ctime": 1790650342935,
+          "path": "2-Space_工作区/22-Flow_心流/心流20260914：快捷键重构.md",
+          "title": "工作区"
+        },
+        {
+          "type": "file",
+          "ctime": 1790662838811,
+          "path": "3-Presonal_存放点/32-Learning_学习/专题：Obsidian应用功能共性.md",
+          "subpath": "#快捷键功能重构",
+          "title": "大纲"
+        },
+        {
+          "type": "file",
+          "ctime": 1790590794645,
+          "path": "3-Presonal_存放点/32-Learning_学习/专题：Obsidian快捷键分配与设置.md",
+          "title": "更新"
+        }
+      ],
+      "title": "快捷键"
     },
     {
       "type": "group",
@@ -185,120 +402,59 @@
     },
     {
       "type": "group",
-      "ctime": 1789644021455,
+      "ctime": 1791011636697,
       "items": [
         {
           "type": "file",
-          "ctime": 1789644029785,
-          "path": "2-Space_工作区/21-Work_工作流/工作流20260904：柜机规格书.md",
+          "ctime": 1791033713896,
+          "path": "2-Space_工作区/23-Favorites_收藏夹/收藏夹20261001：共振体验.md",
           "title": "工作区"
         },
         {
           "type": "file",
-          "ctime": 1789698323072,
-          "path": "3-Presonal_存放点/31-JUWEN_钜文/主题：确认旧版本柜机机制.md",
-          "title": "旧版本"
+          "ctime": 1791011756822,
+          "path": "3-Presonal_存放点/34-Relax_娱乐/主题：共振 剧情与攻略.md",
+          "title": "视频"
         },
         {
           "type": "file",
-          "ctime": 1789729050811,
-          "path": "3-Presonal_存放点/31-JUWEN_钜文/主题：规格书模版设计.md",
-          "title": "模版"
+          "ctime": 1791011777707,
+          "path": "3-Presonal_存放点/34-Relax_娱乐/主题：共振 推广与体验.md",
+          "title": "体验"
         },
         {
           "type": "file",
-          "ctime": 1789731679026,
-          "path": "2-Space_工作区/21-Work_工作流/工作流20260918：第二次试产前追溯.md",
-          "title": "追溯"
+          "ctime": 1791011740261,
+          "path": "3-Presonal_存放点/34-Relax_娱乐/专题：共振 游玩与进度.md",
+          "title": "进度"
         }
       ],
-      "title": "规格书"
+      "title": "共振"
     },
     {
       "type": "group",
-      "ctime": 1789889483674,
+      "ctime": 1789356392230,
       "items": [
         {
           "type": "file",
-          "ctime": 1789892640105,
-          "path": "2-Space_工作区/22-Flow_心流/心流20260831：应用Dataview插件.md",
-          "title": "参考工作区"
+          "ctime": 1789353319370,
+          "path": "1-Dayly_日记本/2026-09-09-星期三.md",
+          "title": "断点：内容来源"
         },
         {
           "type": "file",
-          "ctime": 1789889505108,
-          "path": "3-Presonal_存放点/32-Learning_学习/主题：obsidian插件社区.md",
-          "title": "来源"
+          "ctime": 1789347778869,
+          "path": "3-Presonal_存放点/34-Relax_娱乐/主题：Wild铳枪.md",
+          "title": "重构：内容转移"
         },
         {
           "type": "file",
-          "ctime": 1789891145166,
-          "path": "3-Presonal_存放点/32-Learning_学习/主题：obsidian插件需求.md",
-          "title": "需求"
-        },
-        {
-          "type": "file",
-          "ctime": 1789892672462,
-          "path": "3-Presonal_存放点/32-Learning_学习/主题：obsidian插件应用.md",
-          "title": "解析"
-        },
-        {
-          "type": "file",
-          "ctime": 1789892812951,
-          "path": "4-Memory_知识库/43-Resources_资源/43-b-TabGroup_选项卡组/选项卡组：Obsidian拓展插件.md",
-          "title": "补充"
+          "ctime": 1789778580633,
+          "path": "3-Presonal_存放点/34-Relax_娱乐/主题：Wild凌越.md",
+          "title": "试玩内容聚集"
         }
       ],
-      "title": "obsidian插件"
-    },
-    {
-      "type": "group",
-      "ctime": 1790057750523,
-      "items": [
-        {
-          "type": "file",
-          "ctime": 1790057763498,
-          "path": "2-Space_工作区/22-Flow_心流/心流20260917：Agent并行与额度.md",
-          "title": "工作区"
-        },
-        {
-          "type": "file",
-          "ctime": 1790058140531,
-          "path": "3-Presonal_存放点/32-Learning_学习/碎片：Copilot会话管理.md",
-          "title": "登记"
-        },
-        {
-          "type": "file",
-          "ctime": 1790058195088,
-          "path": "3-Presonal_存放点/32-Learning_学习/主题：Copilot协助维护知识库_行动维度.md",
-          "title": "使用"
-        },
-        {
-          "type": "file",
-          "ctime": 1790058162669,
-          "path": "3-Presonal_存放点/32-Learning_学习/专题：Copilot会话延伸记录_思考维度.md",
-          "title": "延伸"
-        },
-        {
-          "type": "file",
-          "ctime": 1790058182375,
-          "path": "3-Presonal_存放点/32-Learning_学习/专题：Copilot_智能体视图.md",
-          "title": "界面"
-        },
-        {
-          "type": "file",
-          "ctime": 1790058207219,
-          "path": "3-Presonal_存放点/32-Learning_学习/主题：Copilot_Agent理论.md",
-          "title": "理论"
-        },
-        {
-          "type": "file",
-          "ctime": 1790065216281,
-          "path": "3-Presonal_存放点/32-Learning_学习/专题：Copilot会话 尝试记录.md",
-          "title": "尝试"
-        }
-      ],
-      "title": "copilot额度"
+      "title": "铳枪"
     }
   ]
 }

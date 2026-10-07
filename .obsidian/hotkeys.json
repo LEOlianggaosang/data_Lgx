@@ -44,14 +44,6 @@
       "key": "F4"
     }
   ],
-  "editor:toggle-source": [
-    {
-      "modifiers": [
-        "Mod"
-      ],
-      "key": "E"
-    }
-  ],
   "markdown:toggle-preview": [
     {
       "modifiers": [
@@ -377,14 +369,6 @@
       "key": "Backspace"
     }
   ],
-  "note-composer:extract-heading": [
-    {
-      "modifiers": [
-        "Mod"
-      ],
-      "key": "D"
-    }
-  ],
   "note-composer:split-file": [
     {
       "modifiers": [
@@ -473,7 +457,14 @@
       "key": ";"
     }
   ],
-  "editor:open-search-replace": [],
+  "editor:open-search-replace": [
+    {
+      "modifiers": [
+        "Alt"
+      ],
+      "key": "F"
+    }
+  ],
   "graph:open-local": [
     {
       "modifiers": [
@@ -495,8 +486,7 @@
   "editor:insert-codeblock": [
     {
       "modifiers": [
-        "Alt",
-        "Mod"
+        "Alt"
       ],
       "key": "`"
     }
@@ -537,7 +527,15 @@
       "key": "M"
     }
   ],
-  "workspace:edit-file-title": [],
+  "workspace:edit-file-title": [
+    {
+      "modifiers": [
+        "Alt",
+        "Mod"
+      ],
+      "key": "F"
+    }
+  ],
   "bookmarks:bookmark-current-search": [
     {
       "modifiers": [
@@ -729,6 +727,85 @@
         "Mod"
       ],
       "key": "L"
+    }
+  ],
+  "file-explorer:move-file": [
+    {
+      "modifiers": [
+        "Mod"
+      ],
+      "key": "D"
+    }
+  ],
+  "note-composer:extract-heading": [
+    {
+      "modifiers": [
+        "Alt",
+        "Shift"
+      ],
+      "key": "D"
+    }
+  ],
+  "global-search:open": [
+    {
+      "modifiers": [],
+      "key": "F5"
+    }
+  ],
+  "app:open-vault": [
+    {
+      "modifiers": [],
+      "key": "F2"
+    }
+  ],
+  "open-with-default-app:show": [
+    {
+      "modifiers": [
+        "Mod",
+        "Shift"
+      ],
+      "key": "F"
+    }
+  ],
+  "editor:toggle-source": [
+    {
+      "modifiers": [
+        "Alt"
+      ],
+      "key": "R"
+    }
+  ],
+  "backlink:toggle-backlinks-in-document": [
+    {
+      "modifiers": [
+        "Alt",
+        "Shift"
+      ],
+      "key": "R"
+    }
+  ],
+  "outline:open-for-current": [
+    {
+      "modifiers": [
+        "Mod"
+      ],
+      "key": "F7"
+    }
+  ],
+  "outline:open": [
+    {
+      "modifiers": [],
+      "key": "F7"
+    }
+  ],
+  "workspace:close-window": [],
+  "footnotes:open": [
+    {
+      "modifiers": [
+        "Mod",
+        "Shift"
+      ],
+      "key": "+"
     }
   ]
 }

@@ -1,7 +1,7 @@
 ---
 type: card
 owners: Zettelkasten
-level: 4
+level: 5
 way:
   - 节点
 tags:

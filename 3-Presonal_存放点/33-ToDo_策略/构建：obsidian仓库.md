@@ -1,4 +1,4 @@
-#知识库 #obsidian #mermaid
+#知识库 #Obsidian #Mermaid
 # 结构 
 ## 你的obsidian文件夹结构是什么样的? 
 ### 链接

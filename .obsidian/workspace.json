@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "761853287f92e722",
+        "id": "32b47440ff3c71ed",
         "type": "tabs",
         "children": [
           {
-            "id": "66a06e564404c7d2",
+            "id": "db64d302a6b29513",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2-Space_工作区/22-Flow_心流/心流20260917：Agent并行与额度.md",
+                "file": "3-Presonal_存放点/32-Learning_学习/主题：理解Session与痛点保存.md",
                 "mode": "source",
                 "source": true,
                 "backlinks": true,
@@ -28,16 +28,16 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "心流20260917：Agent并行与额度"
+              "title": "主题：理解Session与痛点保存"
             }
           },
           {
-            "id": "7418fdfdef4b05c4",
+            "id": "0f27a8f8f6761460",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "4-Memory_知识库/41-Projects_项目/41-b-system_系统知识/41B2B-ToDo_策略.md",
+                "file": "1-Dayly_日记本/2026-10-06-星期二.md",
                 "mode": "source",
                 "source": true,
                 "backlinks": true,
@@ -52,16 +52,16 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "41B2B-ToDo_策略"
+              "title": "2026-10-06-星期二"
             }
           },
           {
-            "id": "37c2b2cf39152a0d",
+            "id": "06dbdb3e4468ea87",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1-Dayly_日记本/2026-09-23-星期三.md",
+                "file": "2-Space_工作区/21-Work_工作流/工作流20261007：广交会样机.md",
                 "mode": "source",
                 "source": true,
                 "backlinks": true,
@@ -76,11 +76,130 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "2026-09-23-星期三"
+              "title": "工作流20261007：广交会样机"
+            }
+          },
+          {
+            "id": "abb1ba4b986e997b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "2-Space_工作区/21-Work_工作流/工作流20260904：柜机规格书.md",
+                "mode": "source",
+                "source": true,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "工作流20260904：柜机规格书"
+            }
+          },
+          {
+            "id": "4a1e876ea09e5f5d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "3-Presonal_存放点/31-JUWEN_钜文/主题：柜机60机新显示板 硬件设计.md",
+                "mode": "source",
+                "source": true,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "主题：柜机60机新显示板 硬件设计"
+            }
+          },
+          {
+            "id": "d456222c171c25ca",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "4-Memory_知识库/41-Projects_项目/41-a-job_工作/41A1A2A-WD60机.md",
+                "mode": "source",
+                "source": true,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "41A1A2A-WD60机"
+            }
+          },
+          {
+            "id": "ae23e5c530fe50db",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "4-Memory_知识库/41-Projects_项目/41-a-job_工作/41A1A8-华拓设计.md",
+                "mode": "source",
+                "source": true,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "41A1A8-华拓设计"
+            }
+          },
+          {
+            "id": "c8ef6ec76bfc84f0",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "3-Presonal_存放点/31-JUWEN_钜文/分解任务：柜机硬件更改记录.md",
+                "mode": "source",
+                "source": true,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "分解任务：柜机硬件更改记录"
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -114,9 +233,9 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "Gitkraken",
+                "query": "0文件夹",
                 "matchingCase": false,
-                "explainSearch": false,
+                "explainSearch": true,
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical"
@@ -131,7 +250,7 @@
             "state": {
               "type": "bookmarks",
               "state": {
-                "showSearch": false,
+                "showSearch": true,
                 "searchQuery": ""
               },
               "icon": "lucide-bookmark",
@@ -167,11 +286,12 @@
               "title": "添加笔记属性"
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 298.5
   },
   "right": {
     "id": "bc0709d19524bcbd",
@@ -182,12 +302,57 @@
         "type": "tabs",
         "children": [
           {
+            "id": "ba5bc009401a003d",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "3-Presonal_存放点/32-Learning_学习/主题：理解Session与痛点保存.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "大纲"
+            }
+          },
+          {
+            "id": "ddc478354b57f167",
+            "type": "leaf",
+            "state": {
+              "type": "footnotes",
+              "state": {
+                "file": "3-Presonal_存放点/32-Learning_学习/主题：理解Session与痛点保存.md"
+              },
+              "icon": "lucide-file-signature",
+              "title": "脚注"
+            }
+          }
+        ]
+      },
+      {
+        "id": "09abdf64570dca52",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "c679f273b4245f19",
+            "type": "leaf",
+            "state": {
+              "type": "file-properties",
+              "state": {
+                "file": "3-Presonal_存放点/32-Learning_学习/主题：理解Session与痛点保存.md"
+              },
+              "icon": "lucide-info",
+              "title": "笔记属性"
+            }
+          },
+          {
             "id": "917c90509c759bdc",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "file": "1-Dayly_日记本/2026-09-16-星期三.md",
+                "file": "3-Presonal_存放点/32-Learning_学习/主题：理解Session与痛点保存.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -206,43 +371,15 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "1-Dayly_日记本/2026-09-13-星期日.md",
+                "file": "3-Presonal_存放点/32-Learning_学习/主题：理解Session与痛点保存.md",
                 "linksCollapsed": false,
-                "unlinkedCollapsed": false
+                "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
               "title": "出链"
             }
-          },
-          {
-            "id": "c679f273b4245f19",
-            "type": "leaf",
-            "state": {
-              "type": "file-properties",
-              "state": {
-                "file": "1-Dayly_日记本/2026-09-22-星期二.md"
-              },
-              "icon": "lucide-info",
-              "title": "笔记属性"
-            }
-          },
-          {
-            "id": "4729887d671efabf",
-            "type": "leaf",
-            "state": {
-              "type": "outline",
-              "state": {
-                "file": "1-Dayly_日记本/2026-09-23-星期三.md",
-                "followCursor": true,
-                "showSearch": false,
-                "searchQuery": ""
-              },
-              "icon": "lucide-list",
-              "title": "大纲"
-            }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "horizontal",
@@ -252,42 +389,51 @@
   "left-ribbon": {
     "hiddenItems": {
       "switcher:打开快速切换": false,
-      "graph:查看关系图谱": false,
-      "canvas:新建白板": false,
       "daily-notes:打开/创建今天的日记": false,
+      "graph:查看关系图谱": false,
       "templates:插入模板": false,
+      "quickadd:QuickAdd": false,
       "command-palette:打开命令面板": false,
-      "bases:新建数据库": false
+      "canvas:新建白板": false,
+      "bases:新建数据库": false,
+      "zk-prefixer:创建时间戳笔记": false,
+      "workspaces:管理工作区布局": false,
+      "random-note:开始漫游笔记": false,
+      "audio-recorder:开始/结束录音": false,
+      "publish:发布更改": false,
+      "markdown-importer:打开 Markdown 格式转换器": false
     }
   },
-  "active": "37c2b2cf39152a0d",
+  "active": "db64d302a6b29513",
   "lastOpenFiles": [
-    "4-Memory_知识库/41-Projects_项目/41-b-system_系统知识/41B2B-ToDo_策略.md",
-    "3-Presonal_存放点/33-ToDo_策略/待办：VaultToDo_知识库线.md",
-    "2-Space_工作区/22-Flow_心流/心流20260917：Agent并行与额度.md",
-    "4-Memory_知识库/41-Projects_项目/41-b-system_系统知识/41B2B4-GamesToDo_游戏进度线.md",
-    "1-Dayly_日记本/2026-09-23-星期三.md",
-    "3-Presonal_存放点/33-ToDo_策略/待办：VibeToDo_智能体线.md",
-    "3-Presonal_存放点/33-ToDo_策略/待办：GameToDo_游戏进度线.md",
-    "3-Presonal_存放点/33-ToDo_策略/待办：game 手柄设置.md",
-    "3-Presonal_存放点/33-ToDo_策略/待办：game 凌越资讯.md",
-    "2-Space_工作区/22-Flow_心流/待吸收：甲木agent经验.md",
-    "4-Memory_知识库/41-Projects_项目/41-b-system_系统知识/41B2B3-VibecodingToDo_智能线.md",
-    "4-Memory_知识库/41-Projects_项目/41-b-system_系统知识/41B2B2-VaultToDo_知识库线.md",
-    "2-Space_工作区/22-Flow_心流/待吸收：9月下班后时间分配.md",
-    "2-Space_工作区/22-Flow_心流/待吸收：9月Agent协助整理知识库.md",
-    "2-Space_工作区/22-Flow_心流/待吸收：obsidian知识库优化与重构.md",
-    "3-Presonal_存放点/33-ToDo_策略/待办：valut 推送消化.md",
-    "3-Presonal_存放点/33-ToDo_策略/待办：valut 快捷键.md",
-    "4-Memory_知识库/41-Projects_项目/41-b-system_系统知识/41B2B1-WorkToDo_工作线.md",
-    "3-Presonal_存放点/33-ToDo_策略/待办：WorkToDo_工作线.md",
-    "3-Presonal_存放点/33-ToDo_策略/待办：work 奶瓶机版本2.md",
-    "3-Presonal_存放点/33-ToDo_策略/待办：work 奶瓶机版本1.md",
-    "3-Presonal_存放点/33-ToDo_策略/待办：work 奶瓶机版本3.md",
-    "3-Presonal_存放点/33-ToDo_策略/待办：work 柜机规格书.md",
-    "3-Presonal_存放点/33-ToDo_策略/待办：work 柜机华拓软硬件.md",
-    "4-Memory_知识库/44-Archives_归档/44-c-Done_闭环/0文件夹：44-c-Done_闭环.md",
+    "1-Dayly_日记本/2026-10-06-星期二.md",
+    "3-Presonal_存放点/32-Learning_学习/主题：理解Session与痛点保存.md",
+    "1-Dayly_日记本/2026-10-07-星期三.md",
+    "2-Space_工作区/21-Work_工作流/工作流20261007：广交会样机.md",
     "2-Space_工作区/22-Flow_心流/心流20260923：管理者易主.md",
+    "2-Space_工作区/21-Work_工作流/工作流20260904：柜机规格书.md",
+    "2-Space_工作区/22-Flow_心流/心流20260924：Agent体系认知.md",
+    "2-Space_工作区/22-Flow_心流/心流20260831：插件应用.md",
+    "3-Presonal_存放点/33-ToDo_策略/构建：Obsidian构建线.md",
+    "2-Space_工作区/22-Flow_心流/心流20260917：Agent并行与额度.md",
+    "3-Presonal_存放点/31-JUWEN_钜文/分解任务：柜机硬件更改记录.md",
+    "4-Memory_知识库/43-Resources_资源/43-b-TabGroup_选项卡组/选项卡组：Dataview.md",
+    "4-Memory_知识库/43-Resources_资源/43-b-TabGroup_选项卡组/选项卡组：Obsidian拓展插件.md",
+    "1-Dayly_日记本/2026-09-29-星期二.md",
+    "1-Dayly_日记本/2026-09-28-星期一.md",
+    "1-Dayly_日记本/2026-09-27-星期日.md",
+    "1-Dayly_日记本/2026-09-26-星期六.md",
+    "1-Dayly_日记本/2026-09-25-星期五.md",
+    "1-Dayly_日记本/2026-09-24-星期四.md",
+    "1-Dayly_日记本/2026-09-23-星期三.md",
+    "1-Dayly_日记本/2026-09-22-星期二.md",
+    "1-Dayly_日记本/2026-09-21-星期一.md",
+    "1-Dayly_日记本/2026-09-20-星期日.md",
+    "3-Presonal_存放点/32-Learning_学习/分解任务：Obsidian插件需求.md",
+    "3-Presonal_存放点/32-Learning_学习/分解任务：Obsidian插件社区.md",
+    "3-Presonal_存放点/32-Learning_学习/分解任务：Obsidian插件应用.md",
+    "3-Presonal_存放点/31-JUWEN_钜文/未命名",
+    "Attachments/Files/Images/9-23-1_Agent学习路线.png",
     "1-Dayly_日记本/未命名.canvas",
     "Attachments/Files/PDFs/CBM72xxA系列芯片手册v1.00_20240110(南区).pdf",
     "Attachments/Files/PDFs/CBM63xx系列芯片手册v9_0_20170622.pdf",
@@ -302,7 +448,6 @@
     "3-Presonal_存放点/36-Life_生活/未命名",
     "3-Presonal_存放点/36-Life_生活 1",
     "Attachments/Files/Images/9-8-1_独立式触摸按键-提手凹凸外形.png",
-    "Attachments/Files/Images/9-8-3_全嵌式触摸按键-顶控长条外形.png",
     "4-Memory_知识库/44-Archives_归档/44-b-Mooniy_月档案/2026-09~2026-10",
     "4-Memory_知识库/44-Archives_归档/44-b-Mooniy_月档案/2026-9~2026-10",
     "4-Memory_知识库/44-Archives_归档/44-b-Mooniy_月档案/新建文件夹",
@@ -310,7 +455,6 @@
     "3-Presonal_存放点/34-Relax_娱乐/未命名.canvas",
     "62-Chat_会话记录",
     "4-Memory_知识库/41-Projects_项目/未命名.canvas",
-    "6-Express_表达/62-Chat_会话记录",
     "0-Inbox/容器/轻弩.canvas",
     "容器/未命名.canvas",
     "未命名 1.canvas"

@@ -11,6 +11,8 @@
 - Aagent视图
 - Chat视图
 ***
+# Visual Studio Code 1.139更新
+[Visual Studio Code 1.139](https://code.visualstudio.com/updates/v1_139)
 # Visual Studio Code 1.138更新
 [Visual Studio Code 1.138](https://code.visualstudio.com/updates/v1_138)
 # Visual Studio Code 1.137更新

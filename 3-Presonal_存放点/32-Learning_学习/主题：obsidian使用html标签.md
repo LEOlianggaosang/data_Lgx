@@ -1,4 +1,4 @@
-#obsidian #html
+#Obsidian #Html
 ## 官网相关
 [HTML 内容 - Obsidian 中文帮助](https://obsidian.md/zh/help/html)
 [CSS 代码片段 - Obsidian 中文帮助](https://obsidian.md/zh/help/snippets)

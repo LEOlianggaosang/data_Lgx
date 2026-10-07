@@ -4,8 +4,8 @@ owners: PARA
 workspace: lgx
 color: 紫色
 tags:
-  - edge
-  - obsidian/功能
+  - Edge
+  - Obsidian
 ---
 ## 目标
 - 探索功能

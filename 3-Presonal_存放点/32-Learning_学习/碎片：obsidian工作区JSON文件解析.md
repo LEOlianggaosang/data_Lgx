@@ -1,4 +1,4 @@
-#obsidian/应用 
+#Obsidian
 # workspace
 ## 特性
 - 根据当前应用界面实时改变

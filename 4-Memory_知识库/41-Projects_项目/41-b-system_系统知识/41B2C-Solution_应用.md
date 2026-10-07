@@ -10,7 +10,7 @@ tags:
 ## Description
 核心思路
 ## Link
-[[构建：obsidian仓库]]
-[[构建：obsidian时间线]]
-[[构建：obsidian构建线]]
-[[工作区：移动端每日标签]]
+[[构建：Obsidian仓库]]
+[[构建：Obsidian时间线]]
+[[构建：Obsidian构建线]]
+[[标签页：移动端每日标签]]
