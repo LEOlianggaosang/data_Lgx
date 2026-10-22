@@ -1,13 +1,14 @@
 ---
 type: card
 owners: Zettelkasten
-level: 6
+level: 5
 way:
   - 节点
 tags:
+  - Steam/SC
 ---
 ## Description
-60机原始配置派生：显示板程序变更/交互，电源板时序不改
+
 ## Graph
 
 ## Link

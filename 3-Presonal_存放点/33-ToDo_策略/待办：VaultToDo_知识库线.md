@@ -10,8 +10,11 @@
 - 吸收旧笔记
 	- git库word
 	- 手机便签
-- `流`断点/非紧急
+- 生长
 	- gitlens
+	- vscode/copilot/agent
+	- obsidian
+	- steam
 - 应用增强
 	- 快捷键
 	- 核心插件
@@ -40,3 +43,6 @@
 	- 快速添加
 	- 数据视图
 	- 日历
+- 官网与更新
+	- Vscode 体系补充
+	- Steam 体系补充

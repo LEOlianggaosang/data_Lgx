@@ -1,0 +1,102 @@
+# 官网
+## 主页
+- [Visual Studio Code - 开源的 AI 代码编辑器 |你多智能体开发的家园](https://code.visualstudio.com/)
+### 顶部导航
+- ==🔴特色==/features
+	- Agents [代理 - Visual Studio Code](https://code.visualstudio.com/features/agents)
+	- Agent Customization
+	- Models & Agent Harnesses
+	- Enterprise
+	- Extensibility
+- ==🔵文档==
+	- Documentation
+	- API
+	- FAQ
+- ==🟣发行说明== [[碎片：Vscode发行说明]]
+- ==🟠博客== [[主题：Copilot_Agent理论#博客]]
+- 学习
+- 活动
+- 资源
+	- Extensions
+	- MCP
+### 主页内容
+- 关键词
+	- 代理/Copilot 
+	- 代码编辑
+	- 扩展插件
+	- 编程语言支持
+	- 定制界面布局
+	- 上传
+		- 云端/远程仓库1/浏览器
+		- SCM
+		- GitHub Codespaces
+## ==🔵文档页==
+### 侧边栏目录
+- [Visual Studio Code 文档](https://code.visualstudio.com/docs)
+- 首页
+	- 指引
+		- 设置VS Code
+		- 学习Vs Code基础知识
+		- 用AI代理完成任务
+		- 添加语言支持：设置Python、JavaScript、C++等的编辑、运行和调试
+		- 项目定制AI：配置自定义指令、技能和MCP服务器
+		- VSCode企业版：企业环境配置，包含策略、扩展管理和AI定制选项
+	- 最新消息
+		- 发行 [Visual Studio Code 1.141](https://code.visualstudio.com/updates/v1_141)
+		- 文档 [了解代理线束](https://code.visualstudio.com/docs/agents/concepts/agent-harnesses)
+		- 博客 [引入Agent Host，用于持久且可移植的代理会话](https://code.visualstudio.com/blogs/2026/08/26/agent-host-architecture)
+- 开始
+	- 概述：
+		- 安装：Windows/macOS/Linux
+		- 打开：包含项目文件的文件夹称为**工作区**。
+			- 核心概念/工作区：打开一个文件夹可以让编辑器、终端、源码控制、调试器和 AI 代理访问相同的项目上下文
+			- 信任与可克隆仓库
+		- 引导路径：
+			- 按照**编辑器教程**学习基础知识：
+			- 使用**代理的快速入门**工具根据自然语言提示构建应用
+			- 较小任务**选择AI功能**
+				- 文档->代理人->参考文献->速查表/选择AI功能
+	- Agent快速入门：文档->代理人->开始->Agent的快速入门
+	- 编辑器教程：文档->编辑->入门指南->编辑器教程
+	- 油管视频教学
+- 代理人/Agent [[#代理人目录]]
+- 聊天
+- 编辑
+- 源控SCM
+- 航站楼
+- 调试与测试
+- 企业号
+- 远程
+- 高级设置
+- 语言与运行时
+- 扩展文档
+## 代理人目录
+归属文档 https://code.visualstudio.com/docs/agents
+- Agent概述/overview
+- 开始
+	- Agent快速入门
+	- 寻找指引/guides/overview
+	- 设置GitHub Copilot/Copilot
+	- Agent教程
+	- 最佳实践
+- 概念/concepts
+	- 代理/agents
+	- 语言模型/language-models
+	- 上下文/context
+	- 工具/tools
+	- 会话元/sessions
+	- 信任与安全
+	- 客制化
+	- 框架/harnesses
+	- 工作区/workspace-context
+	- 代理主机/agent-host
+- 使用代理/run
+	- 聊天视图与布局/chat-view
+	- 特工窗口/agents-window
+	- 选择代理框架/agent-harnesses
+	- 配置代理窗口
+	- 聊天交互控制
+- 自定义代理
+- 教程与指南
+- 参考文献
+- 故障排除

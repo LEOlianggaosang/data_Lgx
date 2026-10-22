@@ -1,12 +1,14 @@
 ---
 type: card
 owners: Zettelkasten
-level: 5
+level: 4
 way:
   - 节点
 tags:
+  - Steam/SI
 ---
 ## Description
 
+## Graph
+
 ## Link
-[[主题：60机显示板显示效果]]

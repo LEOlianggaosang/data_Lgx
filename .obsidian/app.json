@@ -31,7 +31,8 @@
     "editor:insert-horizontal-rule",
     "editor:insert-footnote",
     "note-composer:split-file",
-    "editor:insert-embed"
+    "editor:insert-embed",
+    "editor:insert-mathblock"
   ],
   "livePreview": false,
   "readableLineLength": true,

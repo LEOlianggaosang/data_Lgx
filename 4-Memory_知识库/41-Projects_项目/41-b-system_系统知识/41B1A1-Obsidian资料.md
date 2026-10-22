@@ -17,5 +17,6 @@ tags:
 ## Link
 [[主题：Obsidian书本]]
 [[碎片：Obsidian官网]]
+[[碎片：Obsidian发行说明]]
 
 

@@ -42,3 +42,5 @@
 			- 尝试与管理
 			- 视图与理论
 		- 定义类型/8月初
+- vscode官网
+	- copilot harness 理论

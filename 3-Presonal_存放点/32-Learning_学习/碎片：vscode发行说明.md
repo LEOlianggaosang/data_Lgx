@@ -5,12 +5,18 @@
 	- 可选项：`智能体类型选择`？
 - [VS Code 代理主机架构](https://code.visualstudio.com/docs/agents/concepts/agent-host)
 	- vscode官网文档/agent（在开始下面）/概念/代理主机架构
-- [引入Agent Host，用于持久且可移植的代理会话](https://code.visualstudio.com/blogs/2026/08/26/agent-host-architecture?source=vsc-website-banner)
+- [引入Agent Host，用于持久且可移植的代理会话](https://code.visualstudio.com/blogs/2026/08/26/agent-host-architecture)
 	- 发行说明中引出
 ## copilot：主要更新方向
 - Aagent视图
 - Chat视图
 ***
+# Visual Studio Code 1.142更新
+[Visual Studio Code 1.142](https://code.visualstudio.com/updates/v1_142)
+# Visual Studio Code 1.141更新
+[Visual Studio Code 1.141](https://code.visualstudio.com/updates/v1_141)
+# Visual Studio Code 1.140更新
+[Visual Studio Code 1.140](https://code.visualstudio.com/updates/v1_140)
 # Visual Studio Code 1.139更新
 [Visual Studio Code 1.139](https://code.visualstudio.com/updates/v1_139)
 # Visual Studio Code 1.138更新

@@ -117,6 +117,13 @@
         "Mod"
       ],
       "key": "+"
+    },
+    {
+      "modifiers": [
+        "Mod",
+        "Shift"
+      ],
+      "key": "="
     }
   ],
   "editor:insert-wikilink": [
@@ -802,10 +809,16 @@
   "footnotes:open": [
     {
       "modifiers": [
-        "Mod",
-        "Shift"
+        "Alt"
       ],
       "key": "+"
+    },
+    {
+      "modifiers": [
+        "Alt",
+        "Shift"
+      ],
+      "key": "="
     }
   ]
 }

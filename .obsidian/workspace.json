@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "32b47440ff3c71ed",
+        "id": "deb441d5e7941763",
         "type": "tabs",
         "children": [
           {
-            "id": "db64d302a6b29513",
+            "id": "8e9d5c1366e7b6e2",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "3-Presonal_存放点/32-Learning_学习/主题：理解Session与痛点保存.md",
+                "file": "3-Presonal_存放点/32-Learning_学习/主题：Vscode官网.md",
                 "mode": "source",
                 "source": true,
                 "backlinks": true,
@@ -28,16 +28,16 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "主题：理解Session与痛点保存"
+              "title": "主题：Vscode官网"
             }
           },
           {
-            "id": "0f27a8f8f6761460",
+            "id": "e3cfc31b5e73139a",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1-Dayly_日记本/2026-10-06-星期二.md",
+                "file": "1-Dayly_日记本/2026-10-22-星期四.md",
                 "mode": "source",
                 "source": true,
                 "backlinks": true,
@@ -52,16 +52,16 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "2026-10-06-星期二"
+              "title": "2026-10-22-星期四"
             }
           },
           {
-            "id": "06dbdb3e4468ea87",
+            "id": "2d20af5425eeb73f",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2-Space_工作区/21-Work_工作流/工作流20261007：广交会样机.md",
+                "file": "0-Inbox_收件箱/推送：文章1022.md",
                 "mode": "source",
                 "source": true,
                 "backlinks": true,
@@ -76,18 +76,42 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "工作流20261007：广交会样机"
+              "title": "推送：文章1022"
             }
           },
           {
-            "id": "abb1ba4b986e997b",
+            "id": "d3d9ecbbaffc002b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "2-Space_工作区/21-Work_工作流/工作流20261014：独立式自动开门开发.md",
+                "mode": "source",
+                "source": true,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "工作流20261014：独立式自动开门开发"
+            }
+          },
+          {
+            "id": "eec6f3d1dd43bd3f",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
                 "file": "2-Space_工作区/21-Work_工作流/工作流20260904：柜机规格书.md",
                 "mode": "source",
-                "source": true,
+                "source": false,
                 "backlinks": true,
                 "backlinkOpts": {
                   "collapseAll": false,
@@ -104,14 +128,14 @@
             }
           },
           {
-            "id": "4a1e876ea09e5f5d",
+            "id": "31ecd22867dc6e99",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "3-Presonal_存放点/31-JUWEN_钜文/主题：柜机60机新显示板 硬件设计.md",
+                "file": "4-Memory_知识库/43-Resources_资源/43-a-SyncPush_移动推送/43-a3_wechat_微信/微信：skill长什么样.md",
                 "mode": "source",
-                "source": true,
+                "source": false,
                 "backlinks": true,
                 "backlinkOpts": {
                   "collapseAll": false,
@@ -124,82 +148,11 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "主题：柜机60机新显示板 硬件设计"
-            }
-          },
-          {
-            "id": "d456222c171c25ca",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "4-Memory_知识库/41-Projects_项目/41-a-job_工作/41A1A2A-WD60机.md",
-                "mode": "source",
-                "source": true,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "41A1A2A-WD60机"
-            }
-          },
-          {
-            "id": "ae23e5c530fe50db",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "4-Memory_知识库/41-Projects_项目/41-a-job_工作/41A1A8-华拓设计.md",
-                "mode": "source",
-                "source": true,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "41A1A8-华拓设计"
-            }
-          },
-          {
-            "id": "c8ef6ec76bfc84f0",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "3-Presonal_存放点/31-JUWEN_钜文/分解任务：柜机硬件更改记录.md",
-                "mode": "source",
-                "source": true,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "分解任务：柜机硬件更改记录"
+              "title": "微信：skill长什么样"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -233,7 +186,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "0文件夹",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": true,
                 "collapseAll": false,
@@ -287,7 +240,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -307,8 +260,8 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "3-Presonal_存放点/32-Learning_学习/主题：理解Session与痛点保存.md",
-                "followCursor": false,
+                "file": "1-Dayly_日记本/2026-10-22-星期四.md",
+                "followCursor": true,
                 "showSearch": false,
                 "searchQuery": ""
               },
@@ -322,7 +275,7 @@
             "state": {
               "type": "footnotes",
               "state": {
-                "file": "3-Presonal_存放点/32-Learning_学习/主题：理解Session与痛点保存.md"
+                "file": "3-Presonal_存放点/36-Life_生活/专题：北通手柄设置.md"
               },
               "icon": "lucide-file-signature",
               "title": "脚注"
@@ -340,7 +293,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "3-Presonal_存放点/32-Learning_学习/主题：理解Session与痛点保存.md"
+                "file": "1-Dayly_日记本/2026-10-22-星期四.md"
               },
               "icon": "lucide-info",
               "title": "笔记属性"
@@ -352,7 +305,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "3-Presonal_存放点/32-Learning_学习/主题：理解Session与痛点保存.md",
+                "file": "3-Presonal_存放点/36-Life_生活/专题：北通手柄设置.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -371,7 +324,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "3-Presonal_存放点/32-Learning_学习/主题：理解Session与痛点保存.md",
+                "file": "3-Presonal_存放点/36-Life_生活/专题：北通手柄设置.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
@@ -398,40 +351,43 @@
       "bases:新建数据库": false,
       "zk-prefixer:创建时间戳笔记": false,
       "workspaces:管理工作区布局": false,
-      "random-note:开始漫游笔记": false,
-      "audio-recorder:开始/结束录音": false,
-      "publish:发布更改": false,
-      "markdown-importer:打开 Markdown 格式转换器": false
+      "random-note:开始漫游笔记": false
     }
   },
-  "active": "db64d302a6b29513",
+  "active": "e3cfc31b5e73139a",
   "lastOpenFiles": [
-    "1-Dayly_日记本/2026-10-06-星期二.md",
-    "3-Presonal_存放点/32-Learning_学习/主题：理解Session与痛点保存.md",
-    "1-Dayly_日记本/2026-10-07-星期三.md",
-    "2-Space_工作区/21-Work_工作流/工作流20261007：广交会样机.md",
+    "2-Space_工作区/21-Work_工作流/工作流20261014：独立式自动开门开发.md",
+    "4-Memory_知识库/43-Resources_资源/43-a-SyncPush_移动推送/43-a3_wechat_微信/微信：skill长什么样.md",
+    "1-Dayly_日记本/2026-10-22-星期四.md",
+    "3-Presonal_存放点/32-Learning_学习/主题：Vscode官网.md",
+    "0-Inbox_收件箱/推送：文章1022.md",
     "2-Space_工作区/22-Flow_心流/心流20260923：管理者易主.md",
+    "0-Inbox_收件箱/推送：文章1021.md",
+    "1-Dayly_日记本/2026-10-21-星期三.md",
+    "0-Inbox_收件箱/推送：视频1022.md",
+    "0-Inbox_收件箱/未命名.md",
     "2-Space_工作区/21-Work_工作流/工作流20260904：柜机规格书.md",
-    "2-Space_工作区/22-Flow_心流/心流20260924：Agent体系认知.md",
-    "2-Space_工作区/22-Flow_心流/心流20260831：插件应用.md",
-    "3-Presonal_存放点/33-ToDo_策略/构建：Obsidian构建线.md",
-    "2-Space_工作区/22-Flow_心流/心流20260917：Agent并行与额度.md",
-    "3-Presonal_存放点/31-JUWEN_钜文/分解任务：柜机硬件更改记录.md",
-    "4-Memory_知识库/43-Resources_资源/43-b-TabGroup_选项卡组/选项卡组：Dataview.md",
-    "4-Memory_知识库/43-Resources_资源/43-b-TabGroup_选项卡组/选项卡组：Obsidian拓展插件.md",
-    "1-Dayly_日记本/2026-09-29-星期二.md",
-    "1-Dayly_日记本/2026-09-28-星期一.md",
-    "1-Dayly_日记本/2026-09-27-星期日.md",
-    "1-Dayly_日记本/2026-09-26-星期六.md",
-    "1-Dayly_日记本/2026-09-25-星期五.md",
-    "1-Dayly_日记本/2026-09-24-星期四.md",
-    "1-Dayly_日记本/2026-09-23-星期三.md",
-    "1-Dayly_日记本/2026-09-22-星期二.md",
-    "1-Dayly_日记本/2026-09-21-星期一.md",
-    "1-Dayly_日记本/2026-09-20-星期日.md",
-    "3-Presonal_存放点/32-Learning_学习/分解任务：Obsidian插件需求.md",
-    "3-Presonal_存放点/32-Learning_学习/分解任务：Obsidian插件社区.md",
-    "3-Presonal_存放点/32-Learning_学习/分解任务：Obsidian插件应用.md",
+    "4-Memory_知识库/41-Projects_项目/41-b-system_系统知识/41B1A1C-Obsidian应用.md",
+    "3-Presonal_存放点/32-Learning_学习/专题：Obsidian界面元素.md",
+    "1-Dayly_日记本/2026-10-20-星期二.md",
+    "3-Presonal_存放点/32-Learning_学习/主题：Obsidian应用特殊功能.md",
+    "3-Presonal_存放点/32-Learning_学习/主题：Obsidian语法.md",
+    "3-Presonal_存放点/33-ToDo_策略/待办：WorkToDo_工作线.md",
+    "3-Presonal_存放点/32-Learning_学习/心流20260908：语法功能应用.md",
+    "1-Dayly_日记本/2026-10-19-星期一.md",
+    "1-Dayly_日记本/2026-10-18-星期日.md",
+    "0-Inbox_收件箱/推送：视频1021.md",
+    "0-Inbox_收件箱/推送：文章1020.md",
+    "Attachments/Files/Images/7-27-1_60机整机电路图.png",
+    "3-Presonal_存放点/32-Learning_学习/主题：程序设计维度交集.md",
+    "2-Space_工作区/23-Favorites_收藏夹/收藏夹20261020：SteamInput.md",
+    "0-Inbox_收件箱/推送：视频1020.md",
+    "4-Memory_知识库/41-Projects_项目/41-b-system_系统知识/41B1F1A-SteamDeck_掌机.md",
+    "Attachments/Files/Images/10-18-3_特斯拉3.jpg",
+    "Attachments/Files/Images/10-18-2_特斯拉2.jpg",
+    "Attachments/Files/Images/10-18-1_特斯拉1.jpg",
+    "Bases/数据库.base",
+    "Attachments/Files/Images/10-8-1_广交会样机配置.png",
     "3-Presonal_存放点/31-JUWEN_钜文/未命名",
     "Attachments/Files/Images/9-23-1_Agent学习路线.png",
     "1-Dayly_日记本/未命名.canvas",
@@ -440,20 +396,14 @@
     "Attachments/Files/Images/9-8-2_独立式开关按键-圓角外形.png",
     "Attachments/Files/Images/7-27-2_柜机电源板接线端子.png",
     "Attachments/Files/Images/7-27-3_华拓柜机故障特殊处理机制参考.png",
-    "Attachments/Files/Images/7-27-1_60机整机电路图.png",
     "Attachments/Files/Images/9-9-4_荒野铳枪招式派生.jpg",
-    "Attachments/Files/Images/9-9-2_HX旧.jpg",
-    "Attachments/Files/Images/9-9-1_HX新.jpg",
-    "Attachments/Files/Images/9-9-3_HX龙骨调节.png",
     "3-Presonal_存放点/36-Life_生活/未命名",
     "3-Presonal_存放点/36-Life_生活 1",
-    "Attachments/Files/Images/9-8-1_独立式触摸按键-提手凹凸外形.png",
     "4-Memory_知识库/44-Archives_归档/44-b-Mooniy_月档案/2026-09~2026-10",
     "4-Memory_知识库/44-Archives_归档/44-b-Mooniy_月档案/2026-9~2026-10",
     "4-Memory_知识库/44-Archives_归档/44-b-Mooniy_月档案/新建文件夹",
     "lgx.code-workspace",
     "3-Presonal_存放点/34-Relax_娱乐/未命名.canvas",
-    "62-Chat_会话记录",
     "4-Memory_知识库/41-Projects_项目/未命名.canvas",
     "0-Inbox/容器/轻弩.canvas",
     "容器/未命名.canvas",

@@ -12,6 +12,7 @@ tags:
 ## Link
 [[主题：Obsidian语法]]
 [[示例：Obsidian标注]]
+[[示例：Obsidian高亮]]
 [[碎片：Obsidian右键文本指令]]
 [[主题：Obsidian使用html标签]]
 
