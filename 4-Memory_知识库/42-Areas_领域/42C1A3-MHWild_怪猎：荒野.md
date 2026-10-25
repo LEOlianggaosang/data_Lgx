@@ -10,5 +10,5 @@ tags:
 ## Description
 
 ## Link
-[[42C1C1-Wild：上位终盘]]
+[[42C1A3A-Wild：上位终盘]]
 

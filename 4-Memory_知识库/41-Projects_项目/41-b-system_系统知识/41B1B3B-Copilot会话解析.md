@@ -10,6 +10,6 @@ tags:
 ## Description
 
 ## Graph
-[[专题：Copilot会话 尝试记录]]
+[[主题：Copilot旧会话解读归档]]
 ## Link
 

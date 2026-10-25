@@ -11,6 +11,10 @@
 - Aagent视图
 - Chat视图
 ***
+# Visual Studio Code 1.143更新
+[Visual Studio Code 1.143](https://code.visualstudio.com/updates/v1_143)
+- 发行亮点：此版本使 Copilot 成为新会话的默认使用工具，并增加了比较模型、回收存储、本地运行模型及文件变更导航的工具。
+- 1默认/1预览/3实验
 # Visual Studio Code 1.142更新
 [Visual Studio Code 1.142](https://code.visualstudio.com/updates/v1_142)
 # Visual Studio Code 1.141更新

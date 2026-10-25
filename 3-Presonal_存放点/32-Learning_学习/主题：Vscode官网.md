@@ -87,13 +87,14 @@
 	- 会话元/sessions
 	- 信任与安全
 	- 客制化
-	- 框架/harnesses
+	- 框架/harnesses [了解代理线束](https://code.visualstudio.com/docs/agents/concepts/agent-harnesses)
 	- 工作区/workspace-context
 	- 代理主机/agent-host
 - 使用代理/run
 	- 聊天视图与布局/chat-view
 	- 特工窗口/agents-window
 	- 选择代理框架/agent-harnesses
+		- 
 	- 配置代理窗口
 	- 聊天交互控制
 - 自定义代理
