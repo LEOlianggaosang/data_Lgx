@@ -8,7 +8,103 @@
         "type": "tabs",
         "children": [
           {
-            "id": "e3cfc31b5e73139a",
+            "id": "cef026f69e63432c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "4-Memory_知识库/43-Resources_资源/43-a-SyncPush_移动推送/43-a3_wechat_微信/微信：skill长什么样.md",
+                "mode": "source",
+                "source": true,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "微信：skill长什么样"
+            }
+          },
+          {
+            "id": "3db7e9a69383f226",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "1-Dayly_日记本/2026-10-28-星期三.md",
+                "mode": "source",
+                "source": true,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "2026-10-28-星期三"
+            }
+          },
+          {
+            "id": "1c362544963456db",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "2-Space_工作区/22-Flow_心流/心流20261028：台式WorkBuddy.md",
+                "mode": "source",
+                "source": true,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "心流20261028：台式WorkBuddy"
+            }
+          },
+          {
+            "id": "700a3eb4038a6ece",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "3-Presonal_存放点/32-Learning_学习/主题：概念skill化设计.md",
+                "mode": "source",
+                "source": true,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "主题：概念skill化设计"
+            }
+          },
+          {
+            "id": "2c5584bad743d3b4",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -30,33 +126,9 @@
               "icon": "lucide-file",
               "title": "心流20261022：台式copilot pro+"
             }
-          },
-          {
-            "id": "cef026f69e63432c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "1-Dayly_日记本/2026-10-27-星期二.md",
-                "mode": "source",
-                "source": true,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "2026-10-27-星期二"
-            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -163,7 +235,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2-Space_工作区/22-Flow_心流/心流20261022：台式copilot pro+.md",
+                "file": "3-Presonal_存放点/32-Learning_学习/主题：概念skill化设计.md",
                 "followCursor": true,
                 "showSearch": false,
                 "searchQuery": ""
@@ -196,7 +268,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "2-Space_工作区/22-Flow_心流/心流20261022：台式copilot pro+.md"
+                "file": "3-Presonal_存放点/32-Learning_学习/主题：概念skill化设计.md"
               },
               "icon": "lucide-info",
               "title": "笔记属性"
@@ -257,12 +329,25 @@
       "random-note:开始漫游笔记": false
     }
   },
-  "active": "cef026f69e63432c",
+  "active": "700a3eb4038a6ece",
   "lastOpenFiles": [
+    "2-Space_工作区/22-Flow_心流/心流20261022：台式copilot pro+.md",
+    "2-Space_工作区/22-Flow_心流/心流20261028：台式WorkBuddy.md",
+    "1-Dayly_日记本/2026-10-28-星期三.md",
+    "4-Memory_知识库/43-Resources_资源/43-a-SyncPush_移动推送/43-a3_wechat_微信/微信：skill长什么样.md",
+    "3-Presonal_存放点/32-Learning_学习/主题：概念skill化设计.md",
+    "4-Memory_知识库/41-Projects_项目/41-b-system_系统知识/41B1D1-Agent概念.md",
+    "3-Presonal_存放点/32-Learning_学习/碎片：Agent关键词.md",
+    "4-Memory_知识库/41-Projects_项目/41-b-system_系统知识/41B1D1B-Skill_技能.md",
+    "2-Space_工作区/22-Flow_心流/心流20260924：Agent体系认知.md",
+    "1-Dayly_日记本/2026-10-27-星期二.md",
+    "未命名.md",
+    "0-Inbox_收件箱/推送：视频1027-1028.md",
+    "0-Inbox_收件箱/推送：微信903.md",
+    "0-Inbox_收件箱/推送：抖音924.md",
+    "0-Inbox_收件箱/推送：文章1028.md",
     "0-Inbox_收件箱/推送：视频1027.md",
     "0-Inbox_收件箱/未命名.md",
-    "2-Space_工作区/22-Flow_心流/心流20261022：台式copilot pro+.md",
-    "1-Dayly_日记本/2026-10-27-星期二.md",
     "0-Inbox_收件箱/推送：文章1027.md",
     "1-Dayly_日记本/2026-10-26-星期一.md",
     "3-Presonal_存放点/31-JUWEN_钜文/主题：柜机60机新显示板 硬件设计.md",
@@ -272,19 +357,6 @@
     "0-Inbox_收件箱/推送：文章1026.md",
     "3-Presonal_存放点/32-Learning_学习/专题：Copilot会话解构.md",
     "0-Inbox_收件箱/推送：文章1025.md",
-    "1-Dayly_日记本/2026-10-24-星期六.md",
-    "0-Inbox_收件箱/推送：视频1024-1025.md",
-    "3-Presonal_存放点/32-Learning_学习/碎片：Obsidian发行说明.md",
-    "3-Presonal_存放点/32-Learning_学习/主题：Vscode官网.md",
-    "3-Presonal_存放点/32-Learning_学习/主题：Copilot旧会话解读归档.md",
-    "3-Presonal_存放点/32-Learning_学习/主题：Copilot旧会话归档.md",
-    "1-Dayly_日记本/2026-08-04-星期二.md",
-    "1-Dayly_日记本/2026-08-03-星期一.md",
-    "4-Memory_知识库/41-Projects_项目/41-b-system_系统知识/41B1B3A-Copilot会话管理.md",
-    "4-Memory_知识库/41-Projects_项目/41-b-system_系统知识/41B1B3-Copilot_副驾驶.md",
-    "3-Presonal_存放点/32-Learning_学习/待重构：Copilot协助维护知识库_行动维度.md",
-    "1-Dayly_日记本/2026-09-22-星期二.md",
-    "1-Dayly_日记本/2026-09-20-星期日.md",
     "Attachments/Files/Images/7-27-1_60机整机电路图.png",
     "Attachments/Files/Images/10-18-3_特斯拉3.jpg",
     "Attachments/Files/Images/10-18-2_特斯拉2.jpg",
