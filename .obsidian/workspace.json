@@ -8,36 +8,12 @@
         "type": "tabs",
         "children": [
           {
-            "id": "cef026f69e63432c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "4-Memory_知识库/43-Resources_资源/43-a-SyncPush_移动推送/43-a3_wechat_微信/微信：skill长什么样.md",
-                "mode": "source",
-                "source": true,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "微信：skill长什么样"
-            }
-          },
-          {
             "id": "3db7e9a69383f226",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1-Dayly_日记本/2026-10-28-星期三.md",
+                "file": "1-Dayly_日记本/2026-10-29-星期四.md",
                 "mode": "source",
                 "source": true,
                 "backlinks": true,
@@ -52,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "2026-10-28-星期三"
+              "title": "2026-10-29-星期四"
             }
           },
           {
@@ -80,31 +56,7 @@
             }
           },
           {
-            "id": "700a3eb4038a6ece",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "3-Presonal_存放点/32-Learning_学习/主题：概念skill化设计.md",
-                "mode": "source",
-                "source": true,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "主题：概念skill化设计"
-            }
-          },
-          {
-            "id": "2c5584bad743d3b4",
+            "id": "267fc08736cdfe22",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -125,6 +77,30 @@
               },
               "icon": "lucide-file",
               "title": "心流20261022：台式copilot pro+"
+            }
+          },
+          {
+            "id": "2c5584bad743d3b4",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "3-Presonal_存放点/32-Learning_学习/主题：概念skill化设计 1.md",
+                "mode": "source",
+                "source": true,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "主题：概念skill化设计 1"
             }
           }
         ],
@@ -235,7 +211,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "3-Presonal_存放点/32-Learning_学习/主题：概念skill化设计.md",
+                "file": "3-Presonal_存放点/32-Learning_学习/主题：概念skill化设计 1.md",
                 "followCursor": true,
                 "showSearch": false,
                 "searchQuery": ""
@@ -268,7 +244,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "3-Presonal_存放点/32-Learning_学习/主题：概念skill化设计.md"
+                "file": "3-Presonal_存放点/32-Learning_学习/主题：概念skill化设计 1.md"
               },
               "icon": "lucide-info",
               "title": "笔记属性"
@@ -329,13 +305,96 @@
       "random-note:开始漫游笔记": false
     }
   },
-  "active": "700a3eb4038a6ece",
+  "floating": {
+    "id": "2e305f7967227cf9",
+    "type": "floating",
+    "children": [
+      {
+        "id": "d428fd6d1e0de678",
+        "type": "window",
+        "children": [
+          {
+            "id": "70c1f22ee1bd748c",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "700a3eb4038a6ece",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "3-Presonal_存放点/32-Learning_学习/主题：概念skill化设计.md",
+                    "mode": "source",
+                    "source": true,
+                    "backlinks": true,
+                    "backlinkOpts": {
+                      "collapseAll": false,
+                      "extraContext": false,
+                      "sortOrder": "alphabetical",
+                      "showSearch": false,
+                      "searchQuery": "",
+                      "backlinkCollapsed": false,
+                      "unlinkedCollapsed": true
+                    }
+                  },
+                  "icon": "lucide-file",
+                  "title": "主题：概念skill化设计"
+                }
+              }
+            ]
+          },
+          {
+            "id": "aefbd26eda1774f2",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "7705ee995b6aa17c",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "3-Presonal_存放点/32-Learning_学习/主题：概念skill化设计.md",
+                    "mode": "source",
+                    "source": true,
+                    "backlinks": true,
+                    "backlinkOpts": {
+                      "collapseAll": false,
+                      "extraContext": false,
+                      "sortOrder": "alphabetical",
+                      "showSearch": false,
+                      "searchQuery": "",
+                      "backlinkCollapsed": false,
+                      "unlinkedCollapsed": true
+                    }
+                  },
+                  "icon": "lucide-file",
+                  "title": "主题：概念skill化设计"
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "vertical",
+        "x": 2811,
+        "y": 13,
+        "width": 737,
+        "height": 1832,
+        "maximize": true,
+        "zoom": 0
+      }
+    ]
+  },
+  "active": "2c5584bad743d3b4",
   "lastOpenFiles": [
-    "2-Space_工作区/22-Flow_心流/心流20261022：台式copilot pro+.md",
-    "2-Space_工作区/22-Flow_心流/心流20261028：台式WorkBuddy.md",
-    "1-Dayly_日记本/2026-10-28-星期三.md",
-    "4-Memory_知识库/43-Resources_资源/43-a-SyncPush_移动推送/43-a3_wechat_微信/微信：skill长什么样.md",
     "3-Presonal_存放点/32-Learning_学习/主题：概念skill化设计.md",
+    "3-Presonal_存放点/32-Learning_学习/主题：概念skill化设计 1.md",
+    "2-Space_工作区/22-Flow_心流/心流20261022：台式copilot pro+.md",
+    "Templates/模版：skill化.md",
+    "1-Dayly_日记本/2026-10-28-星期三.md",
+    "2-Space_工作区/22-Flow_心流/心流20261028：台式WorkBuddy.md",
+    "1-Dayly_日记本/2026-10-29-星期四.md",
+    "4-Memory_知识库/43-Resources_资源/43-a-SyncPush_移动推送/43-a3_wechat_微信/微信：skill长什么样.md",
+    "0-Inbox_收件箱/推送：文章1029.md",
     "4-Memory_知识库/41-Projects_项目/41-b-system_系统知识/41B1D1-Agent概念.md",
     "3-Presonal_存放点/32-Learning_学习/碎片：Agent关键词.md",
     "4-Memory_知识库/41-Projects_项目/41-b-system_系统知识/41B1D1B-Skill_技能.md",
@@ -353,10 +412,6 @@
     "3-Presonal_存放点/31-JUWEN_钜文/主题：柜机60机新显示板 硬件设计.md",
     "3-Presonal_存放点/31-JUWEN_钜文/分解任务：柜机硬件更改记录.md",
     "1-Dayly_日记本/2026-10-25-星期日.md",
-    "0-Inbox_收件箱/推送：视频1026.md",
-    "0-Inbox_收件箱/推送：文章1026.md",
-    "3-Presonal_存放点/32-Learning_学习/专题：Copilot会话解构.md",
-    "0-Inbox_收件箱/推送：文章1025.md",
     "Attachments/Files/Images/7-27-1_60机整机电路图.png",
     "Attachments/Files/Images/10-18-3_特斯拉3.jpg",
     "Attachments/Files/Images/10-18-2_特斯拉2.jpg",
