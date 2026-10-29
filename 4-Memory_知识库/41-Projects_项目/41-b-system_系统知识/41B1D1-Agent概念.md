@@ -15,4 +15,4 @@ tags:
 [[41B1D1C-Session_会话元]]
 ## Link
 [[碎片：Agent关键词]]
-[[主题：概念skill化设计]]
+[[主题：概念skill化设计灵感]]
