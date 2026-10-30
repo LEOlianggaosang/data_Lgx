@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1-Dayly_日记本/2026-10-29-星期四.md",
+                "file": "1-Dayly_日记本/2026-10-30-星期五.md",
                 "mode": "source",
                 "source": true,
                 "backlinks": true,
@@ -28,31 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "2026-10-29-星期四"
-            }
-          },
-          {
-            "id": "9b3f786ed9b08254",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "1-Dayly_日记本/2026-10-29-星期四.md",
-                "mode": "source",
-                "source": true,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "2026-10-29-星期四"
+              "title": "2026-10-30-星期五"
             }
           },
           {
@@ -78,20 +54,14 @@
               "icon": "lucide-file",
               "title": "心流20261028：WB与DSH"
             }
-          }
-        ]
-      },
-      {
-        "id": "22fe8f88119e7d9e",
-        "type": "tabs",
-        "children": [
+          },
           {
-            "id": "fa24a3d2dde3ec8b",
+            "id": "92d008de2b8e0c65",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2-Space_工作区/22-Flow_心流/心流20261028：WB与DSH.md",
+                "file": "3-Presonal_存放点/32-Learning_学习/主题：概念skill化设计灵感.md",
                 "mode": "source",
                 "source": true,
                 "backlinks": true,
@@ -106,10 +76,11 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "心流20261028：WB与DSH"
+              "title": "主题：概念skill化设计灵感"
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -216,7 +187,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "1-Dayly_日记本/2026-10-29-星期四.md",
+                "file": "3-Presonal_存放点/32-Learning_学习/主题：概念skill化设计灵感.md",
                 "followCursor": true,
                 "showSearch": false,
                 "searchQuery": ""
@@ -249,7 +220,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "1-Dayly_日记本/2026-10-29-星期四.md"
+                "file": "3-Presonal_存放点/32-Learning_学习/主题：概念skill化设计灵感.md"
               },
               "icon": "lucide-info",
               "title": "笔记属性"
@@ -310,14 +281,27 @@
       "random-note:开始漫游笔记": false
     }
   },
-  "active": "267fc08736cdfe22",
+  "active": "92d008de2b8e0c65",
   "lastOpenFiles": [
-    "3-Presonal_存放点/32-Learning_学习/主题：概念skill化设计 1.md",
-    "1-Dayly_日记本/2026-10-29-星期四.md",
-    "3-Presonal_存放点/32-Learning_学习/主题：概念skill化设计灵感.md",
-    "2-Space_工作区/22-Flow_心流/心流20261022：台式copilot pro+.md",
     "2-Space_工作区/22-Flow_心流/心流20261028：WB与DSH.md",
+    "3-Presonal_存放点/32-Learning_学习/主题：概念skill化设计灵感.md",
+    "1-Dayly_日记本/2026-10-30-星期五.md",
     "1-Dayly_日记本/2026-10-28-星期三.md",
+    "2-Space_工作区/22-Flow_心流/心流20261022：台式copilot pro+.md",
+    "1-Dayly_日记本/2026-10-29-星期四.md",
+    "1-Dayly_日记本/2026-10-24-星期六.md",
+    "1-Dayly_日记本/2026-10-25-星期日.md",
+    "1-Dayly_日记本/2026-10-26-星期一.md",
+    "1-Dayly_日记本/2026-10-27-星期二.md",
+    "0-Inbox_收件箱/推送：视频1030.md",
+    "0-Inbox_收件箱/未命名.md",
+    "3-Presonal_存放点/32-Learning_学习/碎片：Vscode发行说明.md",
+    "0-Inbox_收件箱/推送：文章1030.md",
+    "3-Presonal_存放点/32-Learning_学习/主题：Copilot_Agent理论.md",
+    "4-Memory_知识库/43-Resources_资源/43-a-SyncPush_移动推送/43-a3_wechat_微信/微信：skill长什么样.md",
+    "0-Inbox_收件箱/推送：微信814.md",
+    "0-Inbox_收件箱/推送：微信818.md",
+    "3-Presonal_存放点/32-Learning_学习/主题：概念skill化设计 1.md",
     "3-Presonal_存放点/31-JUWEN_钜文/专题：柜机60机原体交互.md",
     "3-Presonal_存放点/31-JUWEN_钜文/主题：柜机60机新显示板 软件设计.md",
     "0-Inbox_收件箱/推送：视频1027-1029.md",
@@ -325,19 +309,6 @@
     "2-Space_工作区/21-Work_工作流/工作流20261014：独立式自动开门开发.md",
     "1-Dayly_日记本/2026-10-23-星期五.md",
     "1-Dayly_日记本/2026-10-22-星期四.md",
-    "1-Dayly_日记本/2026-10-21-星期三.md",
-    "1-Dayly_日记本/2026-10-27-星期二.md",
-    "1-Dayly_日记本/2026-10-26-星期一.md",
-    "1-Dayly_日记本/2026-10-25-星期日.md",
-    "1-Dayly_日记本/2026-10-24-星期六.md",
-    "2-Space_工作区/21-Work_工作流/工作流20261007：广交会样机.md",
-    "Templates/模版：skill化.md",
-    "4-Memory_知识库/43-Resources_资源/43-a-SyncPush_移动推送/43-a3_wechat_微信/微信：skill长什么样.md",
-    "0-Inbox_收件箱/推送：文章1029.md",
-    "4-Memory_知识库/41-Projects_项目/41-b-system_系统知识/41B1D1-Agent概念.md",
-    "3-Presonal_存放点/32-Learning_学习/碎片：Agent关键词.md",
-    "4-Memory_知识库/41-Projects_项目/41-b-system_系统知识/41B1D1B-Skill_技能.md",
-    "2-Space_工作区/22-Flow_心流/心流20260924：Agent体系认知.md",
     "Attachments/Files/Images/7-27-1_60机整机电路图.png",
     "Attachments/Files/Images/10-18-3_特斯拉3.jpg",
     "Attachments/Files/Images/10-18-2_特斯拉2.jpg",

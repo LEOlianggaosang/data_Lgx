@@ -10,7 +10,35 @@
 ## copilot：主要更新方向
 - Aagent视图
 - Chat视图
+## 阶段总结 1.144
+1. 代理主机（Agent Host）
+2. AHP 代理主机协议
+3. Copilot harness
+4. 代理窗口
+5. Copilot Fusion
+6. Copilot订阅+CC/CX
+7. Canvas自定义界面
+8. 自动化
+9. 生图
+10. md编辑
 ***
+# Visual Studio Code 1.144更新
+[Visual Studio Code 1.144](https://code.visualstudio.com/updates/v1_144)
+- 云端
+- CF
+- GPT Image 2.5 Flare 生图
+- 智能体自定义：增加画布
+	- 上下文打开
+- 管理工作树存储
+- 在代理窗口中启用扩展
+- 连接器
+- 用斜杠指令管理副驾驶的自定义
+- 会话管理优化
+	- 聊天移动
+	- 嵌套会话
+	- 无工作区
+	- 会话组自定义图标和颜色
+- 语音
 # Visual Studio Code 1.143更新
 [Visual Studio Code 1.143](https://code.visualstudio.com/updates/v1_143)
 - 发行亮点：此版本使 Copilot 成为新会话的默认使用工具，并增加了比较模型、回收存储、本地运行模型及文件变更导航的工具。

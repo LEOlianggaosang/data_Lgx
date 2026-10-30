@@ -1,7 +1,10 @@
 #Vscode #Copilot
 # 资料解读
 ## 更新
+### Vscode相关
 - [[碎片：Vscode发行说明#共性]]
+### GitHub相关
+- GitHub Copilot Fusion https://docs.github.com/zh/copilot/concepts/models/copilot-fusion?utm_source=LCM&utm_medium=email&utm_campaign=FY27OCT-WW-X-PL-ProPP-AA-Dev-TX-701hR00000TwuFkQAJ&utm_content=dev 
 ## 文档
 
 ## 博客
