@@ -2,5 +2,6 @@
   "baseFontSize": 15,
   "theme": "obsidian",
   "showRibbon": true,
-  "showViewHeader": true
+  "showViewHeader": true,
+  "accentColor": ""
 }
