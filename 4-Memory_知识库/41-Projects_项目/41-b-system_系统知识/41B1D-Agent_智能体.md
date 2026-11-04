@@ -14,5 +14,5 @@ tags:
 ## Link
 [[41B1D1-Agent概念]]
 [[41B1D2-Agent理论]]
-[[41B1D3-Agent模型]]
+[[41B1D3-Agent框架]]
 [[41B1D4-Agent辅助]]
