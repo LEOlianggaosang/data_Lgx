@@ -22,6 +22,8 @@
 9. 生图
 10. md编辑
 ***
+# Visual Studio Code 1.145更新
+[Visual Studio Code 1.145](https://code.visualstudio.com/updates/v1_145)
 # Visual Studio Code 1.144更新
 [Visual Studio Code 1.144](https://code.visualstudio.com/updates/v1_144)
 - 云端

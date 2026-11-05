@@ -128,6 +128,30 @@
             }
           },
           {
+            "id": "197d735d27b793a6",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "2-Space_工作区/22-Flow_心流/心流20261022：台式copilot pro+.md",
+                "mode": "source",
+                "source": true,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "心流20261022：台式copilot pro+"
+            }
+          },
+          {
             "id": "93a35717a3234740",
             "type": "leaf",
             "state": {
@@ -152,12 +176,12 @@
             }
           },
           {
-            "id": "836932511555bfa1",
+            "id": "35293d322804ca9a",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "3-Presonal_存放点/32-Learning_学习/专题：WB界面元素.md",
+                "file": "1-Dayly_日记本/2026-11-05-星期四.md",
                 "mode": "source",
                 "source": true,
                 "backlinks": true,
@@ -172,16 +196,16 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "专题：WB界面元素"
+              "title": "2026-11-05-星期四"
             }
           },
           {
-            "id": "197d735d27b793a6",
+            "id": "cdec909431e27abe",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2-Space_工作区/22-Flow_心流/心流20261022：台式copilot pro+.md",
+                "file": "碎片：DSH桌面版 更新说明.md",
                 "mode": "source",
                 "source": true,
                 "backlinks": true,
@@ -196,11 +220,11 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "心流20261022：台式copilot pro+"
+              "title": "碎片：DSH桌面版 更新说明"
             }
           }
         ],
-        "currentTab": 6
+        "currentTab": 7
       }
     ],
     "direction": "vertical"
@@ -307,7 +331,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "3-Presonal_存放点/32-Learning_学习/主题：WB处理时序表.md",
+                "file": "1-Dayly_日记本/2026-11-05-星期四.md",
                 "followCursor": true,
                 "showSearch": false,
                 "searchQuery": ""
@@ -340,7 +364,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "3-Presonal_存放点/32-Learning_学习/主题：WB处理时序表.md"
+                "file": "1-Dayly_日记本/2026-11-05-星期四.md"
               },
               "icon": "lucide-info",
               "title": "笔记属性"
@@ -401,55 +425,55 @@
       "random-note:开始漫游笔记": false
     }
   },
-  "active": "836932511555bfa1",
+  "active": "35293d322804ca9a",
   "lastOpenFiles": [
+    "碎片：DSH桌面版 更新说明.md",
+    "3-Presonal_存放点/32-Learning_学习/碎片：Vscode发行说明.md",
+    "1-Dayly_日记本/2026-11-05-星期四.md",
+    "3-Presonal_存放点/33-ToDo_策略/思路：智能体使用策略.md",
+    "2-Space_工作区/21-Work_工作流/工作流20261014：独立式自动开门开发.md",
+    "0-Inbox_收件箱/推送：视频1105.md",
+    "0-Inbox_收件箱/推送：文章1105.md",
     "3-Presonal_存放点/32-Learning_学习/专题：DSH界面元素.md",
-    "3-Presonal_存放点/32-Learning_学习/专题：WB界面元素.md",
+    "1-Dayly_日记本/2026-11-04-星期三.md",
+    "1-Dayly_日记本/2026-11-03-星期二.md",
+    "1-Dayly_日记本/2026-11-02-星期一.md",
     "2-Space_工作区/22-Flow_心流/心流20261028：WB与DSH.md",
+    "2-Space_工作区/22-Flow_心流/心流20261022：台式copilot pro+.md",
+    "3-Presonal_存放点/32-Learning_学习/碎片：Agent关键词.md",
+    "4-Memory_知识库/41-Projects_项目/41-b-system_系统知识/41B1D1B-Skill_技能.md",
+    "3-Presonal_存放点/32-Learning_学习/专题：WB界面元素.md",
+    "3-Presonal_存放点/32-Learning_学习/主题：洗碗机认证体系.md",
+    "2-Space_工作区/21-Work_工作流/工作流20260905：奶瓶机版本2.md",
+    "0-Inbox_收件箱/推送：文章1104.md",
+    "0-Inbox_收件箱/推送：视频1104.md",
+    "0-Inbox_收件箱/未命名.md",
+    "Diff/check_header_icons2.png",
+    "Diff/_check2.py",
+    "Diff/check_header_icons.png",
+    "Diff/_check.py",
+    "3-Presonal_存放点/32-Learning_学习/专题：WB界面元素.md~RF2cf7bc45.TMP",
+    "Diff/crop_content.png",
+    "Diff/_crop3.py",
+    "Diff/crop_types.png",
+    "Diff/crop_float.png",
+    "Diff/crop_topbar.png",
+    "Diff/_crop2.py",
+    "Diff/crop_main_grid.png",
+    "Diff/crop_main_top.png",
+    "Diff/crop_sidebar.png",
+    "Diff/crop_rail.png",
+    "Diff/_crop.py",
     "4-Memory_知识库/41-Projects_项目/41-b-system_系统知识/41B1D3B-WorkBuddy_WB.md",
     "4-Memory_知识库/41-Projects_项目/41-b-system_系统知识/41B1D3A-DeepSeek_DS.md",
     "4-Memory_知识库/41-Projects_项目/41-b-system_系统知识/41B1D3-Agent框架.md",
     "3-Presonal_存放点/32-Learning_学习/主题：WB处理时序表.md",
-    "1-Dayly_日记本/2026-11-04-星期三.md",
     "3-Presonal_存放点/32-Learning_学习/主题：概念skill化设计灵感.md",
-    "3-Presonal_存放点/32-Learning_学习/主题：洗碗机认证体系.md",
-    "2-Space_工作区/22-Flow_心流/心流20261022：台式copilot pro+.md",
-    "4-Memory_知识库/41-Projects_项目/41-a-job_工作/41A3B-Certification_认证.md",
-    "旧AGENTS.md",
-    "旧README.md",
-    "3-Presonal_存放点/32-Learning_学习/专题：罗技应用集成.md",
-    "4-Memory_知识库/42-Areas_领域/42E1A-Product_商品选型.md",
-    "1-Dayly_日记本/2026-11-03-星期二.md",
-    "0-Inbox_收件箱/推送：文章1104.md",
-    "3-Presonal_存放点/32-Learning_学习/主题：Copilot旧会话归档.md",
-    "3-Presonal_存放点/32-Learning_学习/主题：Copilot旧会话解读归档.md",
-    "0-Inbox_收件箱/推送：文章1103.md",
-    "3-Presonal_存放点/31-JUWEN_钜文/工作流20260808：线束图.md",
-    "0-Inbox_收件箱/推送：文章1101-1102.md",
-    "3-Presonal_存放点/32-Learning_学习/碎片：Obsidian发行说明.md",
-    "3-Presonal_存放点/32-Learning_学习/碎片：Vscode发行说明.md",
-    "1-Dayly_日记本/2026-10-24-星期六.md",
-    "Attachments/Files/Images/11-3-1_E5自动开门时序.png",
-    "Attachments/Files/Images/7-27-1_60机整机电路图.png",
-    "Attachments/Files/Images/10-18-3_特斯拉3.jpg",
-    "Attachments/Files/Images/10-18-2_特斯拉2.jpg",
-    "Attachments/Files/Images/10-18-1_特斯拉1.jpg",
     "Bases/数据库.base",
-    "Attachments/Files/Images/10-8-1_广交会样机配置.png",
     "3-Presonal_存放点/31-JUWEN_钜文/未命名",
-    "Attachments/Files/Images/9-23-1_Agent学习路线.png",
     "1-Dayly_日记本/未命名.canvas",
     "Attachments/Files/PDFs/CBM72xxA系列芯片手册v1.00_20240110(南区).pdf",
     "Attachments/Files/PDFs/CBM63xx系列芯片手册v9_0_20170622.pdf",
-    "Attachments/Files/Images/9-8-2_独立式开关按键-圓角外形.png",
-    "Attachments/Files/Images/7-27-2_柜机电源板接线端子.png",
-    "Attachments/Files/Images/7-27-3_华拓柜机故障特殊处理机制参考.png",
-    "3-Presonal_存放点/36-Life_生活/未命名",
-    "3-Presonal_存放点/36-Life_生活 1",
-    "4-Memory_知识库/44-Archives_归档/44-b-Mooniy_月档案/2026-09~2026-10",
-    "4-Memory_知识库/44-Archives_归档/44-b-Mooniy_月档案/2026-9~2026-10",
-    "4-Memory_知识库/44-Archives_归档/44-b-Mooniy_月档案/新建文件夹",
-    "lgx.code-workspace",
     "3-Presonal_存放点/34-Relax_娱乐/未命名.canvas",
     "4-Memory_知识库/41-Projects_项目/未命名.canvas",
     "0-Inbox/容器/轻弩.canvas",
