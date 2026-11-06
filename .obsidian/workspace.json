@@ -181,31 +181,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1-Dayly_日记本/2026-11-05-星期四.md",
-                "mode": "source",
-                "source": true,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "2026-11-05-星期四"
-            }
-          },
-          {
-            "id": "cdec909431e27abe",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "碎片：DSH桌面版 更新说明.md",
+                "file": "3-Presonal_存放点/32-Learning_学习/碎片：DSH桌面版 更新说明.md",
                 "mode": "source",
                 "source": true,
                 "backlinks": true,
@@ -222,9 +198,57 @@
               "icon": "lucide-file",
               "title": "碎片：DSH桌面版 更新说明"
             }
+          },
+          {
+            "id": "c5a6bead14056ab6",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "1-Dayly_日记本/2026-11-06-星期五.md",
+                "mode": "source",
+                "source": true,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "2026-11-06-星期五"
+            }
+          },
+          {
+            "id": "ca5ac151f10a69d5",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "3-Presonal_存放点/33-ToDo_策略/构建：精简个人知识库.md",
+                "mode": "source",
+                "source": true,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "构建：精简个人知识库"
+            }
           }
         ],
-        "currentTab": 7
+        "currentTab": 9
       }
     ],
     "direction": "vertical"
@@ -331,7 +355,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "1-Dayly_日记本/2026-11-05-星期四.md",
+                "file": "3-Presonal_存放点/33-ToDo_策略/构建：精简个人知识库.md",
                 "followCursor": true,
                 "showSearch": false,
                 "searchQuery": ""
@@ -364,7 +388,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "1-Dayly_日记本/2026-11-05-星期四.md"
+                "file": "3-Presonal_存放点/33-ToDo_策略/构建：精简个人知识库.md"
               },
               "icon": "lucide-info",
               "title": "笔记属性"
@@ -425,17 +449,22 @@
       "random-note:开始漫游笔记": false
     }
   },
-  "active": "35293d322804ca9a",
+  "active": "ca5ac151f10a69d5",
   "lastOpenFiles": [
-    "碎片：DSH桌面版 更新说明.md",
-    "3-Presonal_存放点/32-Learning_学习/碎片：Vscode发行说明.md",
-    "1-Dayly_日记本/2026-11-05-星期四.md",
+    "1-Dayly_日记本/2026-11-06-星期五.md",
+    "3-Presonal_存放点/33-ToDo_策略/构建：精简个人知识库.md",
     "3-Presonal_存放点/33-ToDo_策略/思路：智能体使用策略.md",
-    "2-Space_工作区/21-Work_工作流/工作流20261014：独立式自动开门开发.md",
+    "旧README.md",
+    "旧AGENTS.md",
+    "1-Dayly_日记本/2026-11-05-星期四.md",
+    "0-Inbox_收件箱/推送：文章1106.md",
     "0-Inbox_收件箱/推送：视频1105.md",
     "0-Inbox_收件箱/推送：文章1105.md",
     "3-Presonal_存放点/32-Learning_学习/专题：DSH界面元素.md",
     "1-Dayly_日记本/2026-11-04-星期三.md",
+    "3-Presonal_存放点/32-Learning_学习/碎片：DSH桌面版 更新说明.md",
+    "3-Presonal_存放点/32-Learning_学习/碎片：Vscode发行说明.md",
+    "2-Space_工作区/21-Work_工作流/工作流20261014：独立式自动开门开发.md",
     "1-Dayly_日记本/2026-11-03-星期二.md",
     "1-Dayly_日记本/2026-11-02-星期一.md",
     "2-Space_工作区/22-Flow_心流/心流20261028：WB与DSH.md",
@@ -464,11 +493,6 @@
     "Diff/crop_sidebar.png",
     "Diff/crop_rail.png",
     "Diff/_crop.py",
-    "4-Memory_知识库/41-Projects_项目/41-b-system_系统知识/41B1D3B-WorkBuddy_WB.md",
-    "4-Memory_知识库/41-Projects_项目/41-b-system_系统知识/41B1D3A-DeepSeek_DS.md",
-    "4-Memory_知识库/41-Projects_项目/41-b-system_系统知识/41B1D3-Agent框架.md",
-    "3-Presonal_存放点/32-Learning_学习/主题：WB处理时序表.md",
-    "3-Presonal_存放点/32-Learning_学习/主题：概念skill化设计灵感.md",
     "Bases/数据库.base",
     "3-Presonal_存放点/31-JUWEN_钜文/未命名",
     "1-Dayly_日记本/未命名.canvas",
