@@ -1,3 +1,5 @@
 views:
   - type: cards
     name: 表格
+  - type: kanban
+    name: 视图

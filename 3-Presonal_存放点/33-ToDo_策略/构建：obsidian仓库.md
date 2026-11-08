@@ -122,14 +122,14 @@
  [【 PARA 】分类方法技术解析：个人知识管理的四维架构与工程实践_para大框架-CSDN博客](https://blog.csdn.net/weixin_44262492/article/details/160120951#:~:text=%E6%91%98%E8%A6%81%EF%BC%9A%20PARA%E6%98%AF%E4%B8%80%E7%A7%8D%E4%BB%A5%E8%A1%8C%E5%8A%A8%E6%80%A7%E4%B8%BA%E6%A0%B8%E5%BF%83%E7%9A%84%E4%B8%AA%E4%BA%BA%E7%9F%A5%E8%AF%86%E7%AE%A1%E7%90%86%EF%BC%88PKM%EF%BC%89%E6%A1%86%E6%9E%B6%EF%BC%8C%E5%8C%85%E5%90%AB%E5%9B%9B%E5%B1%82%E7%BB%93%E6%9E%84%EF%BC%9AProjects%EF%BC%88%E6%9C%89%E6%88%AA%E6%AD%A2%E6%97%A5%E6%9C%9F%E7%9A%84%E4%BB%BB%E5%8A%A1%EF%BC%89%E3%80%81Areas%EF%BC%88%E9%95%BF%E6%9C%9F%E8%B4%A3%E4%BB%BB%E9%A2%86%E5%9F%9F%EF%BC%89%E3%80%81Resources%EF%BC%88%E5%8F%82%E8%80%83%E7%B4%A0%E6%9D%90%EF%BC%89%E5%92%8CArchives%EF%BC%88%E5%8E%86%E5%8F%B2%E5%AD%98%E6%A1%A3%EF%BC%89%E3%80%82,%E5%85%B6%E8%AE%BE%E8%AE%A1%E5%93%B2%E5%AD%A6%E5%BC%BA%E8%B0%83%E4%BF%A1%E6%81%AF%E7%9A%84%E5%8F%AF%E8%A1%8C%E5%8A%A8%E6%80%A7%EF%BC%8C%E8%80%8C%E9%9D%9E%E4%BC%A0%E7%BB%9F%E4%B8%BB%E9%A2%98%E5%88%86%E7%B1%BB%EF%BC%8C%E7%A1%AE%E4%BF%9D%E7%9F%A5%E8%AF%86%E9%9A%8F%E5%B7%A5%E4%BD%9C%E9%87%8D%E5%BF%83%E5%8A%A8%E6%80%81%E6%B5%81%E5%8A%A8%E3%80%82%20PARA%E9%80%82%E7%94%A8%E4%BA%8E%E5%90%84%E7%B1%BB%E5%B7%A5%E5%85%B7%EF%BC%88%E5%A6%82Obsidian%E3%80%81Notion%EF%BC%89%EF%BC%8C%E9%80%9A%E8%BF%87%E6%89%81%E5%B9%B3%E5%8C%96%E5%B1%82%E7%BA%A7%E5%92%8C%E5%AE%9A%E6%9C%9F%E8%BF%81%E7%A7%BB%E4%BF%9D%E6%8C%81%E9%AB%98%E6%95%88%E3%80%82)
 #### 定义
 	PARA是一种以行动性为核心的个人知识管理（PKM）框架
-- 核心 [[卡片：PARA分类]]
+- 核心 [[5-Distill_提炼/51-Cards_卡片/卡片：PARA分类]]
 ### CODE法则 
 #### 参考
 [打造第二大脑笔记——CODE法则 - 知乎](https://zhuanlan.zhihu.com/p/678395482)
 [CODE法则——《打造第二大脑》导读P2 - 知乎](https://zhuanlan.zhihu.com/p/685394403)
 #### 定义
 CODE法则是一套系统化的个人知识管理方法
-- 核心 [[卡片：CODE法则]]
+- 核心 [[5-Distill_提炼/51-Cards_卡片/卡片：CODE法则]]
 ### 卢曼卡片盒
 #### 参考
 [卡片盒笔记法：一个改变我思维方式的笔记系统 - 少数派](https://sspai.com/post/95590)
@@ -139,7 +139,7 @@ CODE法则是一套系统化的个人知识管理方法
 	 1. 链接优先于分类
 	 2. 原子化记录
 	 3. 顺序编号插入 `1A1A1`
-- 笔记类型 [[卡片：Zettelkasten卡片盒]]
+- 笔记类型 [[5-Distill_提炼/51-Cards_卡片/卡片：Zettelkasten卡片盒]]
 ### GTD 方法论
 #### 参考
 [从方法论到实践，搞定时间管理 GTD - 少数派](https://sspai.com/post/57851)
@@ -151,7 +151,7 @@ CODE法则是一套系统化的个人知识管理方法
 	1. 清空内存
 	2. 心如止水
 	3. 要事优先
-- 步骤：[[卡片：GTD 方法论]]
+- 步骤：[[5-Distill_提炼/51-Cards_卡片/卡片：GTD 方法论]]
 ### DIKW 模型
 #### 参考
 [知识的递进与迭代：DIKW模型 - 知乎](https://zhuanlan.zhihu.com/p/28729371803)
@@ -161,7 +161,7 @@ DIKW模型以金字塔结构呈现四个层次，描述数据如何通过逐层�
 	1. Who/What/When/Where
 	2. How
 	3. Why
-- 层级 [[卡片：DIKW 模型]]
+- 层级 [[5-Distill_提炼/51-Cards_卡片/卡片：DIKW 模型]]
 ### LLM Wiki
 #AI/LLM
 #### 参考
@@ -238,7 +238,7 @@ Schema 规则定义层：查询/汇报/决策支持
 	2. Wiki 结构化知识层：结构化、可链接、可更新
 		文件模板强制统一，否则LLM会乱写
 	3. Schema 规则定义层：告诉LLM怎么维护Wiki
-- 结构：[[卡片：LLM Wiki]] %% 关联页面 %%
+- 结构：[[5-Distill_提炼/51-Cards_卡片/卡片：LLM Wiki]] %% 关联页面 %%
 - 标记：%% 待补充/疑问 %%
 	1. LLM大模型前置
 	2. 材料总结模版

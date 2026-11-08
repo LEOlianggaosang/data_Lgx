@@ -8,204 +8,12 @@
         "type": "tabs",
         "children": [
           {
-            "id": "267fc08736cdfe22",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "1-Dayly_日记本/2026-11-04-星期三.md",
-                "mode": "source",
-                "source": true,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "2026-11-04-星期三"
-            }
-          },
-          {
-            "id": "244775c2d21a43ca",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "3-Presonal_存放点/32-Learning_学习/主题：洗碗机认证体系.md",
-                "mode": "source",
-                "source": true,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "主题：洗碗机认证体系"
-            }
-          },
-          {
-            "id": "9b65eeec2ac19215",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "3-Presonal_存放点/32-Learning_学习/主题：WB处理时序表.md",
-                "mode": "source",
-                "source": true,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "主题：WB处理时序表"
-            }
-          },
-          {
-            "id": "970ddf571a43adc6",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "3-Presonal_存放点/32-Learning_学习/主题：概念skill化设计灵感.md",
-                "mode": "source",
-                "source": true,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "主题：概念skill化设计灵感"
-            }
-          },
-          {
-            "id": "c941119fe9f2d5df",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2-Space_工作区/22-Flow_心流/心流20261028：WB与DSH.md",
-                "mode": "source",
-                "source": true,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "心流20261028：WB与DSH"
-            }
-          },
-          {
-            "id": "197d735d27b793a6",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2-Space_工作区/22-Flow_心流/心流20261022：台式copilot pro+.md",
-                "mode": "source",
-                "source": true,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "心流20261022：台式copilot pro+"
-            }
-          },
-          {
-            "id": "93a35717a3234740",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "3-Presonal_存放点/32-Learning_学习/专题：DSH界面元素.md",
-                "mode": "source",
-                "source": true,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "专题：DSH界面元素"
-            }
-          },
-          {
-            "id": "35293d322804ca9a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "3-Presonal_存放点/32-Learning_学习/碎片：DSH桌面版 更新说明.md",
-                "mode": "source",
-                "source": true,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "碎片：DSH桌面版 更新说明"
-            }
-          },
-          {
             "id": "c5a6bead14056ab6",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1-Dayly_日记本/2026-11-06-星期五.md",
+                "file": "1-Dayly_日记本/2026-11-08-星期日.md",
                 "mode": "source",
                 "source": true,
                 "backlinks": true,
@@ -220,16 +28,16 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "2026-11-06-星期五"
+              "title": "2026-11-08-星期日"
             }
           },
           {
-            "id": "ca5ac151f10a69d5",
+            "id": "a1bd1d8385e0ef16",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "3-Presonal_存放点/33-ToDo_策略/构建：精简个人知识库.md",
+                "file": "2-Space_工作区/21-Work_工作流/工作流20261107：12月订单.md",
                 "mode": "source",
                 "source": true,
                 "backlinks": true,
@@ -244,11 +52,35 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "构建：精简个人知识库"
+              "title": "工作流20261107：12月订单"
+            }
+          },
+          {
+            "id": "6b0198209f562f50",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "2-Space_工作区/22-Flow_心流/心流20261106：精简个人知识库.md",
+                "mode": "source",
+                "source": true,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "心流20261106：精简个人知识库"
             }
           }
         ],
-        "currentTab": 9
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -300,7 +132,7 @@
               "type": "bookmarks",
               "state": {
                 "showSearch": true,
-                "searchQuery": ""
+                "searchQuery": "高亮"
               },
               "icon": "lucide-bookmark",
               "title": "书签"
@@ -355,7 +187,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "3-Presonal_存放点/33-ToDo_策略/构建：精简个人知识库.md",
+                "file": "2-Space_工作区/22-Flow_心流/心流20261106：精简个人知识库.md",
                 "followCursor": true,
                 "showSearch": false,
                 "searchQuery": ""
@@ -388,7 +220,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "3-Presonal_存放点/33-ToDo_策略/构建：精简个人知识库.md"
+                "file": "2-Space_工作区/22-Flow_心流/心流20261106：精简个人知识库.md"
               },
               "icon": "lucide-info",
               "title": "笔记属性"
@@ -449,55 +281,55 @@
       "random-note:开始漫游笔记": false
     }
   },
-  "active": "ca5ac151f10a69d5",
+  "active": "6b0198209f562f50",
   "lastOpenFiles": [
-    "1-Dayly_日记本/2026-11-06-星期五.md",
-    "3-Presonal_存放点/33-ToDo_策略/构建：精简个人知识库.md",
-    "3-Presonal_存放点/33-ToDo_策略/思路：智能体使用策略.md",
-    "旧README.md",
-    "旧AGENTS.md",
-    "1-Dayly_日记本/2026-11-05-星期四.md",
-    "0-Inbox_收件箱/推送：文章1106.md",
-    "0-Inbox_收件箱/推送：视频1105.md",
-    "0-Inbox_收件箱/推送：文章1105.md",
-    "3-Presonal_存放点/32-Learning_学习/专题：DSH界面元素.md",
-    "1-Dayly_日记本/2026-11-04-星期三.md",
-    "3-Presonal_存放点/32-Learning_学习/碎片：DSH桌面版 更新说明.md",
-    "3-Presonal_存放点/32-Learning_学习/碎片：Vscode发行说明.md",
-    "2-Space_工作区/21-Work_工作流/工作流20261014：独立式自动开门开发.md",
-    "1-Dayly_日记本/2026-11-03-星期二.md",
-    "1-Dayly_日记本/2026-11-02-星期一.md",
-    "2-Space_工作区/22-Flow_心流/心流20261028：WB与DSH.md",
-    "2-Space_工作区/22-Flow_心流/心流20261022：台式copilot pro+.md",
-    "3-Presonal_存放点/32-Learning_学习/碎片：Agent关键词.md",
-    "4-Memory_知识库/41-Projects_项目/41-b-system_系统知识/41B1D1B-Skill_技能.md",
-    "3-Presonal_存放点/32-Learning_学习/专题：WB界面元素.md",
-    "3-Presonal_存放点/32-Learning_学习/主题：洗碗机认证体系.md",
-    "2-Space_工作区/21-Work_工作流/工作流20260905：奶瓶机版本2.md",
-    "0-Inbox_收件箱/推送：文章1104.md",
-    "0-Inbox_收件箱/推送：视频1104.md",
+    "2-Space_工作区/21-Work_工作流/工作流20261107：12月订单.md",
+    "2-Space_工作区/22-Flow_心流/心流20261106：精简个人知识库.md",
+    "1-Dayly_日记本/2026-11-08-星期日.md",
+    "3-Presonal_存放点/37-Profiles_隐私/账单：11月支出明细.md",
+    "0-Inbox_收件箱/推送：文章1022.md",
+    "0-Inbox_收件箱/推送：微信925-926.md",
+    "3-Presonal_存放点/37-Profiles_隐私/账单：10月支出明细.md",
+    "1-Dayly_日记本/2026-11-07-星期六.md",
+    "2-Space_工作区/23-Favorites_收藏夹/收藏夹20261020：SteamInput.md",
+    "3-Presonal_存放点/34-Relax_娱乐/主题：共振 剧情与攻略.md",
+    "0-Inbox_收件箱/推送：视频1108.md",
     "0-Inbox_收件箱/未命名.md",
+    "0-Inbox_收件箱/推送：文章1108.md",
+    "0-Inbox_收件箱/推送：视频1107.md",
+    "3-Presonal_存放点/32-Learning_学习/碎片：CSS片段.md",
+    "3-Presonal_存放点/32-Learning_学习/碎片：YAML语法.md",
+    "1-Dayly_日记本/2026-10-11-星期日.md",
+    "3-Presonal_存放点/32-Learning_学习/主题：Obsidian应用特殊功能.md",
+    "3-Presonal_存放点/32-Learning_学习/碎片：Obsidian发行说明.md",
+    "1-Dayly_日记本/2026-09-02-星期三.md",
+    "3-Presonal_存放点/33-ToDo_策略/标签页：移动端每日标签.md",
+    "4-Memory_知识库/41-Projects_项目/41-b-system_系统知识/41B2C-Solution_应用.md",
+    "Templates/模板：日记.md",
+    "4-Memory_知识库/42-Areas_领域/42F2-Bill_账单.md",
+    "Templates/模版：账单.md",
+    "4-Memory_知识库/44-Archives_归档/44-b-Mooniy_月档案/2026-07~2026-08/2026-07-30-星期四.md",
+    "5-Distill_提炼/54-Assign_赋值",
+    "5-Distill_提炼/54-Sytle",
+    "5-Distill_提炼 1/51-Cards_卡片",
+    "5-Distill_提炼 1/52-Examples_示例",
+    "5-Distill_提炼 1/53-Wisdom_智慧",
+    "5-Distill_提炼 1",
+    "Bases/数据库.base",
     "Diff/check_header_icons2.png",
     "Diff/_check2.py",
     "Diff/check_header_icons.png",
     "Diff/_check.py",
     "3-Presonal_存放点/32-Learning_学习/专题：WB界面元素.md~RF2cf7bc45.TMP",
     "Diff/crop_content.png",
-    "Diff/_crop3.py",
     "Diff/crop_types.png",
     "Diff/crop_float.png",
     "Diff/crop_topbar.png",
-    "Diff/_crop2.py",
     "Diff/crop_main_grid.png",
     "Diff/crop_main_top.png",
     "Diff/crop_sidebar.png",
     "Diff/crop_rail.png",
-    "Diff/_crop.py",
-    "Bases/数据库.base",
-    "3-Presonal_存放点/31-JUWEN_钜文/未命名",
     "1-Dayly_日记本/未命名.canvas",
-    "Attachments/Files/PDFs/CBM72xxA系列芯片手册v1.00_20240110(南区).pdf",
-    "Attachments/Files/PDFs/CBM63xx系列芯片手册v9_0_20170622.pdf",
     "3-Presonal_存放点/34-Relax_娱乐/未命名.canvas",
     "4-Memory_知识库/41-Projects_项目/未命名.canvas",
     "0-Inbox/容器/轻弩.canvas",

@@ -11,3 +11,4 @@ tags:
 ## Description
 前置知识衍生
 ## Link
+[[碎片：YAML语法]]
