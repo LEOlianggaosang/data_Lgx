@@ -22,6 +22,16 @@
 9. 生图
 10. md编辑
 ***
+# Visual Studio Code 1.146更新
+[Visual Studio Code 1.146](https://code.visualstudio.com/updates/v1_146)
+- 收件箱模式
+	- 设置开启
+	- 会话列表分组选择
+	- ***改变会话分类方式：维度从“项目”换成“注意力”***
+- 计划移除 “本地” 框架，专门使用 “copilot” 框架
+	- 本地转为企业化/类cb？
+- 编辑器视图聊天：单独窗口
+- 智能体视图：拓展市场
 # Visual Studio Code 1.145更新
 [Visual Studio Code 1.145](https://code.visualstudio.com/updates/v1_145)
 # Visual Studio Code 1.144更新

@@ -1,4 +1,14 @@
 #Agent/Skill
+%%
+粗略了解
+灵感来源
+思路缓存
+认知强化
+概念引申
+资料补充
+体系拓展
+策略优化
+%%
 # 描述格式/目录层次
 
 | 链接  | [Agent Skills 完全指南：从概念入门、机制原理到应用实践](https://mp.weixin.qq.com/s/zp-CENUz9gTeV1HGirxAKg) |

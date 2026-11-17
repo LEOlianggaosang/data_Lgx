@@ -3,5 +3,8 @@
   "theme": "obsidian",
   "showRibbon": true,
   "showViewHeader": true,
-  "accentColor": ""
+  "accentColor": "#ff00ff",
+  "autoFullScreen": true,
+  "cssTheme": "Blue Topaz",
+  "slidingSidebar": true
 }

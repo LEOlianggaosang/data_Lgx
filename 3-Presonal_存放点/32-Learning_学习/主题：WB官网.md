@@ -1,0 +1,218 @@
+[WorkBuddy - AI Agent 办公新范式](https://www.workbuddy.cn/)
+# 主页
+## 导航
+- Buddy One [[#Buddy One]]
+- 定价
+	- 订阅计划
+	- 模型计费
+- 企业
+- 文档
+	- 产品与使用
+		- 产品介绍
+			- WorkBuddy
+				- 入门指南 ***...***
+					- ***更新日志*** <- [[碎片：WB更新日志]]
+				- 精通指南
+					- 功能说明 ***...***
+					- 案例，技巧，常见问题 ***...***
+				- 订阅与费用
+			- 微信小程序
+			- 移动端
+			- WorkBuddy Enterprise
+			- CodeBuddy IDE [[#CodeBuddy]]
+		- 实践案例
+		- 常见问题
+	- 方案与接入
+		- OPC一人公式
+		- 智能硬件接入
+- 案例
+- 合作
+	- 硬件
+	- 开放平台
+- 活动
+## Buddy One
+- 关联应用账号
+	- 积分互通
+	- 知识互通
+	- 记忆互通
+- 腾讯应用作为资料库
+	- ima
+	- 网盘
+	- 会议
+	- 文档
+## CodeBuddy IDE
+[腾讯云代码助手 CodeBuddy - AI 时代的智能编程伙伴](https://www.codebuddy.cn/ide/)
+- 类 vscode
+- 腾讯云代码
+### 主页
+- 导航
+	- CodeBuddy
+		- IDE页
+		- 插件页
+			- 支持开发环境
+				- Craft：全新软件开发智能体
+				- 代码补全
+				- MCP：支持外部工具调用
+					- github
+				- 智能问答
+				- 代码评审
+			- VS Code/JetBrains 插件
+		- CLI页/命令行工具
+			- CodeBuddy.md
+				- 一个开放标准的 Markdown 文件，作为 AI 开发助手的综合手册。
+				- 它通过集中化配置，取代了不同工具的分散指令文件，提供统一的 项目配置、编码规范、测试流程和部署指南
+			- 高级代码智能
+		- NPC页/智能体角色
+			- 自动化
+				- 目标驱动
+				- 自主获取上下文
+				- 并行指派
+		- Agents页/网页端
+		- Security页/AI代码安全审计
+			- 漏洞挖掘
+	- WorkBuddy/回链
+	- 定价
+	- 文档 
+	- 博客
+	- API文档
+		- OpenAPI 接口
+		- 企业智能体
+	- 活动
+### 文档
+- IDE
+	- 入门指南
+		- 简介
+			- 全流程 AI 驱动开发
+				- 设计稿转代码
+				- 并发
+			- 产品矩阵
+				- ide
+				- 其他ide插件
+				- cli/CodeBuddy Code
+		- 安装登录
+		- 快速开始
+			- SCM
+	- 使用指南 ***...***
+		- 概览 [[#CodeBuddy概览]]
+		- 智能体模式：类copilot [[#智能体模式]]
+		- Figma：一键将 UI 设计稿转化为可维护的高质量前端代码
+			- 使用方式
+		- 代码补全：类copilot
+			- 补全选项、快捷键、配置设置
+		- 内联对话：类copilot
+			- 快捷键/菜单选项，应用场景
+		- 斜杠命令 ^Slash
+			- [内置斜杠指令 | 腾讯云代码助手 CodeBuddy – AI 代码编辑器](https://www.workbuddy.cn/docs/ide/User-guide/Slash-Commands)
+			- 内置7
+				- 描述与适用场景与作用：初始化/init、审查/cr、测试/tests、解释/explain、修复/fix、自动生成规则/rules、总结压缩/summarize
+				- 初始化：初始化项目并生成 CODEBUDDY.md、快速搭建项目骨架、添加 CodeBuddy 配置、标准化项目文档和配置管理
+			- 自定义：直接选项/技能自带
+		- 上下文 ^Context
+			- [上下文 | 腾讯云代码助手 CodeBuddy – AI 代码编辑器](https://www.workbuddy.cn/docs/ide/User-guide/Context)
+			- @ 上拉：最近、Files & Folders/文件与文件夹、Code/代码片段、Docs/文档、Git、Terminal/终端命令、Rules/编码规范
+		- 规则 ^rule
+			- [规则 | 腾讯云代码助手 CodeBuddy – AI 代码编辑器](https://www.workbuddy.cn/docs/ide/User-guide/Rules)
+			- 类型：总是、请求、手动@
+			- 用户、项目、根目录 `CODEBUDDY.md`
+			- 版本控制：沉淀知识、自动化模版、统一风格
+			- 方法格式、示例
+		- 检查点：类copilot退回会话
+		- 历史记录：针对聊天会话记录
+		- 记忆 ^Memory
+			- 自然语言创建、修改、删除
+			- 管理
+			- 事实与偏好：区分规则
+		- MCP 
+			- 定义与自定义配置
+		- 配置集成
+		- 预览
+		- 部署
+		- 智能提交：类vscode，针对SCM
+	- CodeBuddy 接入微信 ClawBot 指南
+		- 配置流程
+	- 高级功能 ***...***
+		- 模型配置 ^model
+			- [models.json 配置指南 | 腾讯云代码助手 CodeBuddy – AI 代码编辑器](https://www.workbuddy.cn/docs/ide/Features/models)
+			- 配置文件
+				- 优先级
+				- 结构
+				- 字段
+				- 场景
+				- 示例
+		- Plan模式 ^plan
+			- [Plan Mode | 腾讯云代码助手 CodeBuddy – AI 代码编辑器](https://www.workbuddy.cn/docs/ide/Features/Plan-Mode)
+			- 核心能力
+			- 模式对比/选择依据
+		- Subagents ^subagent
+			- [Subagents 使用指南 | 腾讯云代码助手 CodeBuddy – AI 代码编辑器](https://www.workbuddy.cn/docs/ide/Features/Subagents)
+			- 模版
+				- 单一职责设计
+				- Description 编写
+				- System Prompt
+				- Tools 选择
+		- Skills ^skill
+			- 定义
+			- 结构
+			- 核心
+			- 打包资源 
+			- 渐进式披露设计原则
+			- 创建、实践、管理
+		- Hooks ^hook
+			- [Hook 功能使用文档 | 腾讯云代码助手 CodeBuddy – AI 代码编辑器](https://www.workbuddy.cn/docs/ide/Features/Hooks)
+			- 定义
+			- 功能特性
+			- 支持事件
+			- 脚本规范
+			- 配置说明
+			- 示例、指南、实践、高级用法、常见问题
+	- 账号/同wb
+	- 支持/故障、安全、隐私、联系
+	- 版本发布/Release Notes
+- 插件
+- CLI...
+#### CodeBuddy概览
+- 基础与核心
+- 快捷键
+- 智能体工作流 [[#^aiworkflow]]
+- 进阶特性
+	- Memory (记忆偏好) [[#^Memory]]
+	- Rules (规则)  `.codebuddy/rules`  [[#^rule]]
+	- MCP (模型上下文协议) 
+	- 自定义模型（API接入）[[#^model]]
+	- 自定义指令（个性化适配）[[#^Slash]]
+#### 智能体模式
+- 智能体工作流 ^aiworkflow
+	- Ask (对话模式)：专注于技术问答与概念解释，不直接修改代码。适合快速获取思路或查阅 API
+	- Craft (Agent模式)：专注于当前上下文的代码生成与局部修改。响应迅速，适合精准的函数编写或小范围重构
+	- Plan (计划模式)：最强自动化模式。适用于跨文件修改或复杂功能开发。AI 会先制定任务清单（Plan），经您确认后自主执行读取、修改及环境检查 [[#^plan]]
+	- 自定义 [[#^subagent]]
+- 智能体自定义 管理
+## 导航站
+- 服务条款
+	- 用户协议
+	- 隐私协议
+- 文档指引
+	- 产品介绍
+	- 常见问题
+- 产品下载
+	- 客户端
+	- 小程序
+	- 移动端
+# 活动
+- 每日加油站
+	- 每日100
+	- 连7额外1000
+- 成长计划
+	- 活跃奖励
+		- 月份地图
+		- 7/14/28 奖励
+		- 能量，补登，抽奖
+	- Buddy 桌宠
+		- 盲盒、收集
+		- 旅行猫猫
+	- 任务
+		- 积分，能量
+- 邀请活动
+## 模型
+- HY限免（1114-1115）
+## 腾讯 Token Plan

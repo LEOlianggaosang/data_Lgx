@@ -11,6 +11,7 @@ tags:
 应用交互维度
 ## Link
 [[专题：Obsidian界面元素]]
+[[专题：Obsidian主题]]
 [[专题：Obsidian关系图谱视觉设置]]
 [[主题：Obsidian应用特殊功能]]
 [[专题：Obsidian快捷键分配与设置]]

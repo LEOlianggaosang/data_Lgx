@@ -34,16 +34,20 @@
     "editor:insert-embed",
     "editor:insert-mathblock"
   ],
-  "livePreview": false,
+  "livePreview": true,
   "readableLineLength": true,
   "vimMode": false,
   "attachmentFolderPath": "Attachments",
   "alwaysUpdateLinks": true,
   "pdfExportSettings": {
-    "pageSize": "Letter",
+    "includeName": true,
+    "pageSize": "A4",
     "landscape": false,
     "margin": "0",
     "downscalePercent": 100
   },
-  "mobileQuickRibbonItem": ""
+  "mobileQuickRibbonItem": "",
+  "newFileLocation": "folder",
+  "newFileFolderPath": "0-Inbox_收件箱",
+  "showInlineTitle": true
 }
