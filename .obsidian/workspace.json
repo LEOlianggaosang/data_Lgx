@@ -4,71 +4,113 @@
     "type": "split",
     "children": [
       {
-        "id": "b08031252b523fce",
-        "type": "split",
+        "id": "cac35d3b6d97cb00",
+        "type": "tabs",
         "children": [
           {
-            "id": "deb441d5e7941763",
-            "type": "tabs",
-            "children": [
-              {
-                "id": "9068b5f67ca46e4a",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "2-Space_工作区/22-Flow_心流/心流20261106：精简个人知识库.md",
-                    "mode": "source",
-                    "source": false,
-                    "backlinks": true,
-                    "backlinkOpts": {
-                      "collapseAll": false,
-                      "extraContext": false,
-                      "sortOrder": "alphabetical",
-                      "showSearch": false,
-                      "searchQuery": "",
-                      "backlinkCollapsed": false,
-                      "unlinkedCollapsed": true
-                    }
-                  },
-                  "icon": "lucide-file",
-                  "title": "心流20261106：精简个人知识库"
+            "id": "9068b5f67ca46e4a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "2-Space_工作区/22-Flow_心流/心流20261106：精简个人知识库.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
                 }
-              }
-            ]
+              },
+              "icon": "lucide-file",
+              "title": "心流20261106：精简个人知识库"
+            }
           },
           {
-            "id": "8ca9c92a8e2a5c98",
-            "type": "tabs",
-            "children": [
-              {
-                "id": "88eccb3bb11641d2",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "3-Presonal_存放点/33-ToDo_策略/构建：推送分类.md",
-                    "mode": "source",
-                    "source": false,
-                    "backlinks": true,
-                    "backlinkOpts": {
-                      "collapseAll": false,
-                      "extraContext": false,
-                      "sortOrder": "alphabetical",
-                      "showSearch": false,
-                      "searchQuery": "",
-                      "backlinkCollapsed": false,
-                      "unlinkedCollapsed": true
-                    }
-                  },
-                  "icon": "lucide-file",
-                  "title": "构建：推送分类"
+            "id": "6f9884e071d35ac5",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "3-Presonal_存放点/33-ToDo_策略/构建：知识树设计图.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
                 }
-              }
-            ]
+              },
+              "icon": "lucide-file",
+              "title": "构建：知识树设计图"
+            }
+          },
+          {
+            "id": "ba8b8a5c6baa5e57",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "3-Presonal_存放点/33-ToDo_策略/构建：推送分类地图.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "构建：推送分类地图"
+            }
           }
         ],
-        "direction": "horizontal"
+        "currentTab": 1
+      },
+      {
+        "id": "0a8c8adc232fcb79",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "7db53ad06734a618",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "3-Presonal_存放点/32-Learning_学习/主题：DSH 创造模式 尝试与理解.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "主题：DSH 创造模式 尝试与理解"
+            }
+          }
+        ]
       }
     ],
     "direction": "vertical"
@@ -175,7 +217,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "0-Inbox_收件箱/推送：文章1117.md",
+                "file": "3-Presonal_存放点/33-ToDo_策略/构建：知识树设计图.md",
                 "followCursor": true,
                 "showSearch": false,
                 "searchQuery": ""
@@ -220,7 +262,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "0-Inbox_收件箱/推送：文章1117.md",
+                "file": "3-Presonal_存放点/33-ToDo_策略/构建：知识树设计图.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -547,12 +589,12 @@
                 }
               },
               {
-                "id": "edc6b1248e2110b2",
+                "id": "19f2ea8fbc866017",
                 "type": "leaf",
                 "state": {
                   "type": "markdown",
                   "state": {
-                    "file": "0-Inbox_收件箱/推送：视频1117.md",
+                    "file": "1-Dayly_日记本/2026-11-18-星期三.md",
                     "mode": "source",
                     "source": false,
                     "backlinks": true,
@@ -567,16 +609,16 @@
                     }
                   },
                   "icon": "lucide-file",
-                  "title": "推送：视频1117"
+                  "title": "2026-11-18-星期三"
                 }
               },
               {
-                "id": "41db6ae6e7083e2e",
+                "id": "81d3c1fa6df3525b",
                 "type": "leaf",
                 "state": {
                   "type": "markdown",
                   "state": {
-                    "file": "0-Inbox_收件箱/推送：文章1117.md",
+                    "file": "1-Dayly_日记本/2026-11-19-星期四.md",
                     "mode": "source",
                     "source": false,
                     "backlinks": true,
@@ -591,145 +633,76 @@
                     }
                   },
                   "icon": "lucide-file",
-                  "title": "推送：文章1117"
+                  "title": "2026-11-19-星期四"
+                }
+              },
+              {
+                "id": "6bc7775b4d2f0cde",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "3-Presonal_存放点/32-Learning_学习/碎片：Obsidian发行说明.md",
+                    "mode": "source",
+                    "source": false,
+                    "backlinks": true,
+                    "backlinkOpts": {
+                      "collapseAll": false,
+                      "extraContext": false,
+                      "sortOrder": "alphabetical",
+                      "showSearch": false,
+                      "searchQuery": "",
+                      "backlinkCollapsed": false,
+                      "unlinkedCollapsed": true
+                    }
+                  },
+                  "icon": "lucide-file",
+                  "title": "碎片：Obsidian发行说明"
                 }
               }
             ],
-            "currentTab": 12,
-            "stacked": true
+            "currentTab": 13
           }
         ],
         "direction": "vertical",
-        "x": 1135,
-        "y": 0,
+        "x": 1925,
+        "y": -16,
         "width": 1024,
         "height": 800,
-        "maximize": true,
-        "zoom": 0
-      },
-      {
-        "id": "3d9c2065ca8e0b97",
-        "type": "window",
-        "children": [
-          {
-            "id": "9207f95c77a34831",
-            "type": "tabs",
-            "children": [
-              {
-                "id": "6f21f44000bc1cb3",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "3-Presonal_存放点/32-Learning_学习/碎片：WB更新日志.md",
-                    "mode": "source",
-                    "source": false,
-                    "backlinks": true,
-                    "backlinkOpts": {
-                      "collapseAll": false,
-                      "extraContext": false,
-                      "sortOrder": "alphabetical",
-                      "showSearch": false,
-                      "searchQuery": "",
-                      "backlinkCollapsed": false,
-                      "unlinkedCollapsed": true
-                    }
-                  },
-                  "icon": "lucide-file",
-                  "title": "碎片：WB更新日志"
-                }
-              },
-              {
-                "id": "a74cff83698b8451",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "3-Presonal_存放点/32-Learning_学习/专题：WB界面元素.md",
-                    "mode": "source",
-                    "source": false,
-                    "backlinks": true,
-                    "backlinkOpts": {
-                      "collapseAll": false,
-                      "extraContext": false,
-                      "sortOrder": "alphabetical",
-                      "showSearch": false,
-                      "searchQuery": "",
-                      "backlinkCollapsed": false,
-                      "unlinkedCollapsed": true
-                    }
-                  },
-                  "icon": "lucide-file",
-                  "title": "专题：WB界面元素"
-                }
-              },
-              {
-                "id": "41e9afe3b6c9b0e7",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "3-Presonal_存放点/32-Learning_学习/主题：WB官网.md",
-                    "mode": "source",
-                    "source": false,
-                    "backlinks": true,
-                    "backlinkOpts": {
-                      "collapseAll": false,
-                      "extraContext": false,
-                      "sortOrder": "alphabetical",
-                      "showSearch": false,
-                      "searchQuery": "",
-                      "backlinkCollapsed": false,
-                      "unlinkedCollapsed": true
-                    }
-                  },
-                  "icon": "lucide-file",
-                  "title": "主题：WB官网"
-                }
-              }
-            ],
-            "currentTab": 2
-          }
-        ],
-        "direction": "vertical",
-        "x": 2389,
-        "y": 265,
-        "width": 737,
-        "height": 1391,
         "maximize": true,
         "zoom": 0
       }
     ]
   },
-  "active": "41db6ae6e7083e2e",
+  "active": "7db53ad06734a618",
   "lastOpenFiles": [
-    "3-Presonal_存放点/33-ToDo_策略/构建：推送分类.md",
-    "0-Inbox_收件箱/推送：文章1117.md",
-    "3-Presonal_存放点/32-Learning_学习/主题：WB官网.md",
-    "2-Space_工作区/22-Flow_心流/心流20261106：精简个人知识库.md",
-    "4-Memory_知识库/43-Resources_资源/43-a-SyncPush_移动推送/43-a3_wechat_微信/精读：skill长什么样.md",
-    "0-Inbox_收件箱/推送：视频1117.md",
-    "1-Dayly_日记本/2026-11-17-星期二.md",
-    "3-Presonal_存放点/32-Learning_学习/碎片：Vscode发行说明.md",
+    "3-Presonal_存放点/33-ToDo_策略/构建：知识树设计图.md",
+    "3-Presonal_存放点/32-Learning_学习/碎片：Obsidian发行说明.md",
+    "0-Inbox_收件箱/未命名.md",
+    "1-Dayly_日记本/2026-11-19-星期四.md",
     "3-Presonal_存放点/32-Learning_学习/碎片：DSH更新说明.md",
-    "1-Dayly_日记本/2026-11-16-星期一.md",
-    "3-Presonal_存放点/33-ToDo_策略/思路：智能体使用策略.md",
-    "3-Presonal_存放点/37-Profiles_隐私/账单：11月支出明细.md",
-    "4-Memory_知识库/44-Archives_归档/44-d-Outdated_弃用/旧README.md",
-    "1-Dayly_日记本/2026-11-15-星期日.md",
-    "1-Dayly_日记本/2026-11-14-星期六.md",
-    "Attachments/Files/PDFs/C51912240_LED驱动_C8620QP_规格书_C8620规格书_V2.pdf",
-    "3-Presonal_存放点/31-JUWEN_钜文/碎片：显驱6820.md",
-    "3-Presonal_存放点/32-Learning_学习/专题：Obsidian主题.md",
-    "1-Dayly_日记本/2026-11-08-星期日.md",
-    "3-Presonal_存放点/32-Learning_学习/主题：DSH处理推送.md",
-    "1-Dayly_日记本/2026-11-13-星期五.md",
-    "0-Inbox_收件箱/推送：视频1110.md",
-    "4-Memory_知识库/41-Projects_项目/41-b-system_系统知识/41B1D3B-WorkBuddy_WB.md",
+    "1-Dayly_日记本/2026-11-18-星期三.md",
+    "1-Dayly_日记本/2026-11-17-星期二.md",
+    "3-Presonal_存放点/32-Learning_学习/主题：WB官网.md",
     "3-Presonal_存放点/32-Learning_学习/专题：WB界面元素.md",
     "3-Presonal_存放点/32-Learning_学习/碎片：WB更新日志.md",
-    "1-Dayly_日记本/2026-11-11-星期三.md",
-    "3-Presonal_存放点/31-JUWEN_钜文/主题：WB处理功率数据.md",
+    "3-Presonal_存放点/32-Learning_学习/碎片：Vscode发行说明.md",
+    "3-Presonal_存放点/32-Learning_学习/主题：DSH 创造模式 尝试与理解.md",
+    "2-Space_工作区/22-Flow_心流/心流20261106：精简个人知识库.md",
+    "0-Inbox_收件箱/推送：文章1119.md",
+    "0-Inbox_收件箱/推送：视频1119.md",
+    "3-Presonal_存放点/33-ToDo_策略/构建：推送分类地图.md",
+    "4-Memory_知识库/41-Projects_项目/41-a-job_工作/41A1A2A2-60机软件.md",
+    "4-Memory_知识库/41-Projects_项目/41-a-job_工作/41A1A2A1-60机规格书.md",
+    "4-Memory_知识库/41-Projects_项目/41-a-job_工作/41A1A2A-WD60机.md",
+    "4-Memory_知识库/41-Projects_项目/41-a-job_工作/41A1A2-WD_柜机.md",
+    "4-Memory_知识库/41-Projects_项目/41-a-job_工作/41A1A1B-BW问题处理.md",
+    "4-Memory_知识库/41-Projects_项目/41-a-job_工作/41A1A1A3-奶瓶机版本2.md",
+    "4-Memory_知识库/41-Projects_项目/41-a-job_工作/41A1A1A2-奶瓶机版本1.md",
+    "4-Memory_知识库/41-Projects_项目/41-a-job_工作/41A1A1A1-奶瓶机版本0.md",
+    "4-Memory_知识库/41-Projects_项目/41-a-job_工作/41A1A1A-BW软件开发.md",
+    "4-Memory_知识库/41-Projects_项目/41-a-job_工作/41A1A1-BW_奶瓶机.md",
+    "Attachments/Files/PDFs/C51912240_LED驱动_C8620QP_规格书_C8620规格书_V2.pdf",
     "Attachments/Files/Images/11-11-1_工位编号对应13-15表格.png",
     "Attachments/Files/Images/11-9-3_哔站记笔记功能.png",
     "Diff/verify_missing.json",

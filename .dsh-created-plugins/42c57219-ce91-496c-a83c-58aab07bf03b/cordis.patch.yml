@@ -1,0 +1,6 @@
+# Insert this bundle's own Loader row. The page itself is the Client half
+# (`./client`); this Host entry only makes the bundle visible to the Loader and
+# to the Client module composition.
+- insert:
+    - id: '@dsh-local/view-42c57219-ce91-496c-a83c-58aab07bf03b:entry'
+      name: '@dsh-local/view-42c57219-ce91-496c-a83c-58aab07bf03b'

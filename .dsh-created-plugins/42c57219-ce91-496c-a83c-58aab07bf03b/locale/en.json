@@ -1,0 +1,6 @@
+{
+  "meta": {
+    "title": "Knowledge tree design editor",
+    "description": "Turns the knowledge-tree design drawing into an editable tree in the right sidebar. Drag the ≡ handle to reorder a node or drop it onto a new parent, and every code is recomputed by the design rules: 40 is the root, 41–46 are the domains, digits are edges and letters are nodes alternating by level, and 0 marks the center. Rename the English and Chinese names, add child nodes, keep the draft in this browser, and reset to the initial drawing. The plugin edits only its own local draft: it reads no workspace files, calls no Host tool, and sends nothing anywhere."
+  }
+}

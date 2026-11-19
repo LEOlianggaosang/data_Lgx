@@ -22,6 +22,14 @@
 9. 生图
 10. md编辑
 ***
+# Visual Studio Code 1.147更新
+[Visual Studio Code 1.147](https://code.visualstudio.com/updates/v1_147)
+- 稍后发送（实验性）
+- 默认浏览器控制集成（预览版）
+- 草稿请求（实验性）：在代理窗口中保留多个未发送请求及其上下文和配置，随时准备发送。
+- 自定义辅助权限：安全操作与需批准操作
+- 可视化聊天响应：代理窗口内联HTML 视觉效果。
+- 用于不同任务偏好模型路由器（实验型）
 # Visual Studio Code 1.146更新
 [Visual Studio Code 1.146](https://code.visualstudio.com/updates/v1_146)
 - 收件箱模式

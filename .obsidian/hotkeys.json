@@ -488,6 +488,12 @@
         "Shift"
       ],
       "key": "`"
+    },
+    {
+      "modifiers": [
+        "Alt"
+      ],
+      "key": "S"
     }
   ],
   "editor:insert-codeblock": [

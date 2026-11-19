@@ -1,4 +1,5 @@
 [WorkBuddy - AI Agent 办公新范式](https://www.workbuddy.cn/)
+[[专题：WB界面元素]]
 # 主页
 ## 导航
 - Buddy One [[#Buddy One]]

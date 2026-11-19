@@ -1,4 +1,5 @@
 {
+  "slidingSidebar": true,
   "showLineNumber": true,
   "mobileToolbarCommands": [
     "insert-current-date",
