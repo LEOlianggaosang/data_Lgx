@@ -1,7 +1,7 @@
 {
   "collapse-filter": false,
   "search": "",
-  "showTags": false,
+  "showTags": true,
   "showAttachments": false,
   "hideUnresolved": false,
   "showOrphans": true,
@@ -34,25 +34,18 @@
         "a": 1,
         "rgb": 16643080
       }
-    },
-    {
-      "query": "file:0文件夹",
-      "color": {
-        "a": 1,
-        "rgb": 0
-      }
     }
   ],
   "collapse-display": false,
   "showArrow": true,
-  "textFadeMultiplier": -1.8,
-  "nodeSizeMultiplier": 0.906329113924051,
-  "lineSizeMultiplier": 1.49556962025316,
+  "textFadeMultiplier": -2,
+  "nodeSizeMultiplier": 2.21996531123531,
+  "lineSizeMultiplier": 1.16234341877048,
   "collapse-forces": false,
-  "centerStrength": 0,
-  "repelStrength": 20,
-  "linkStrength": 1,
-  "linkDistance": 500,
-  "scale": 0.042315902689758524,
-  "close": true
+  "centerStrength": 0.37097706687223,
+  "repelStrength": 14.9723033538121,
+  "linkStrength": 0.574484486413567,
+  "linkDistance": 30,
+  "scale": 0.04231590268975907,
+  "close": false
 }

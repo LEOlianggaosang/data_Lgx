@@ -1,5 +1,4 @@
 {
-  "slidingSidebar": true,
   "showLineNumber": true,
   "mobileToolbarCommands": [
     "insert-current-date",
@@ -36,7 +35,7 @@
     "editor:insert-mathblock"
   ],
   "livePreview": true,
-  "readableLineLength": true,
+  "readableLineLength": false,
   "vimMode": false,
   "attachmentFolderPath": "Attachments",
   "alwaysUpdateLinks": true,
