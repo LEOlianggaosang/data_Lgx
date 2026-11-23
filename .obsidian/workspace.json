@@ -19,7 +19,7 @@
                 "backlinks": true,
                 "backlinkOpts": {
                   "collapseAll": false,
-                  "extraContext": true,
+                  "extraContext": false,
                   "sortOrder": "alphabetical",
                   "showSearch": false,
                   "searchQuery": "",
@@ -275,6 +275,54 @@
             "id": "47d1a87d6b1ea454",
             "type": "tabs",
             "children": [
+              {
+                "id": "9d4dd96e06aea27e",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "1-Dayly_日记本/2026-11-23-星期一.md",
+                    "mode": "source",
+                    "source": false,
+                    "backlinks": true,
+                    "backlinkOpts": {
+                      "collapseAll": false,
+                      "extraContext": false,
+                      "sortOrder": "alphabetical",
+                      "showSearch": false,
+                      "searchQuery": "",
+                      "backlinkCollapsed": false,
+                      "unlinkedCollapsed": true
+                    }
+                  },
+                  "icon": "lucide-file",
+                  "title": "2026-11-23-星期一"
+                }
+              },
+              {
+                "id": "9a71f0054700e429",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "1-Dayly_日记本/2026-11-22-星期日.md",
+                    "mode": "source",
+                    "source": false,
+                    "backlinks": true,
+                    "backlinkOpts": {
+                      "collapseAll": false,
+                      "extraContext": false,
+                      "sortOrder": "alphabetical",
+                      "showSearch": false,
+                      "searchQuery": "",
+                      "backlinkCollapsed": false,
+                      "unlinkedCollapsed": true
+                    }
+                  },
+                  "icon": "lucide-file",
+                  "title": "2026-11-22-星期日"
+                }
+              },
               {
                 "id": "053260915dd8aaa4",
                 "type": "leaf",
@@ -539,7 +587,8 @@
                   "title": "2026-11-11-星期三"
                 }
               }
-            ]
+            ],
+            "currentTab": 1
           }
         ],
         "direction": "vertical",
@@ -635,8 +684,8 @@
           }
         ],
         "direction": "vertical",
-        "x": 568,
-        "y": 296,
+        "x": 2027,
+        "y": -54,
         "width": 1024,
         "height": 800,
         "maximize": true,
@@ -644,20 +693,27 @@
       }
     ]
   },
-  "active": "1ae4f316f6a711b4",
+  "active": "9a71f0054700e429",
   "lastOpenFiles": [
-    "3-Presonal_存放点/31-JUWEN_钜文/主题：WB处理功率数据.md",
-    "file:D:/J/柜机/实验室/AGENTS.md",
+    "1-Dayly_日记本/2026-11-23-星期一.md",
+    "1-Dayly_日记本/2026-11-22-星期日.md",
     "1-Dayly_日记本/2026-11-21-星期六.md",
     "1-Dayly_日记本/2026-11-20-星期五.md",
-    "0-Inbox_收件箱/推送：文章1121.md",
+    "3-Presonal_存放点/33-ToDo_策略/构建：库结构设计图.md",
     "2-Space_工作区/21-Work_工作流/工作流20261107：12月订单.md",
+    "3-Presonal_存放点/31-JUWEN_钜文/主题：WB处理功率数据.md",
+    "file:D:/J/柜机/实验室/AGENTS.md",
+    "3-Presonal_存放点/32-Learning_学习/专题：Obsidian主题.md",
+    "0-Inbox_收件箱/推送：视频1123.md",
+    "0-Inbox_收件箱/推送：文章1123.md",
+    "2-Space_工作区/22-Flow_心流/心流20261106：精简个人知识库.md",
+    "0-Inbox_收件箱/推送：文章1122.md",
+    "0-Inbox_收件箱/推送：视频1122.md",
+    "0-Inbox_收件箱/推送：文章1121.md",
     "1-Dayly_日记本/2026-11-11-星期三.md",
     "4-Memory_知识库/44-Archives_归档/44-d-Outdated_弃用/旧README.md",
     "4-Memory_知识库/44-Archives_归档/44-d-Outdated_弃用/旧AGENTS.md",
-    "3-Presonal_存放点/33-ToDo_策略/构建：库结构设计图.md",
     "3-Presonal_存放点/33-ToDo_策略/构建：时间线设计图.md",
-    "2-Space_工作区/22-Flow_心流/心流20261106：精简个人知识库.md",
     "AGENTS.md",
     "3-Presonal_存放点/32-Learning_学习/主题：DSH 创造模式 尝试与理解.md",
     "3-Presonal_存放点/33-ToDo_策略/构建：元数据设计图.md",
@@ -665,13 +721,6 @@
     "0-Inbox_收件箱/模版：日记.md",
     "1-Dayly_日记本/2026-11-12-星期四.md",
     "1-Dayly_日记本/2026-11-13-星期五.md",
-    "1-Dayly_日记本/2026-11-17-星期二.md",
-    "1-Dayly_日记本/2026-11-18-星期三.md",
-    "1-Dayly_日记本/2026-11-19-星期四.md",
-    "0-Inbox_收件箱/推送：视频1121.md",
-    "3-Presonal_存放点/33-ToDo_策略/构建：知识树设计图.md",
-    "3-Presonal_存放点/32-Learning_学习/专题：WB界面元素.md",
-    "0-Inbox_收件箱/推送：文章1120.md",
     "Attachments/Files/PDFs/C51912240_LED驱动_C8620QP_规格书_C8620规格书_V2.pdf",
     "Attachments/Files/Images/11-11-1_工位编号对应13-15表格.png",
     "Attachments/Files/Images/11-9-3_哔站记笔记功能.png",
