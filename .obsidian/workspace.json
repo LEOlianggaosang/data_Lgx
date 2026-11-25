@@ -30,8 +30,33 @@
               "icon": "lucide-file",
               "title": "心流20261106：精简个人知识库"
             }
+          },
+          {
+            "id": "c06e47ac22a144b5",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "3-Presonal_存放点/33-ToDo_策略/思路 ：歧路司.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "思路 ：歧路司"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       },
       {
         "id": "0a8c8adc232fcb79",
@@ -59,6 +84,30 @@
               },
               "icon": "lucide-file",
               "title": "构建：库结构设计图"
+            }
+          },
+          {
+            "id": "5ce8a8e55636354f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "3-Presonal_存放点/33-ToDo_策略/思路：智能体使用策略.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "思路：智能体使用策略"
             }
           }
         ]
@@ -95,7 +144,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "Memory",
                 "matchingCase": false,
                 "explainSearch": true,
                 "collapseAll": false,
@@ -272,420 +321,485 @@
         "type": "window",
         "children": [
           {
-            "id": "47d1a87d6b1ea454",
-            "type": "tabs",
+            "id": "b5b0aa961e8e781a",
+            "type": "split",
             "children": [
               {
-                "id": "9d4dd96e06aea27e",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "1-Dayly_日记本/2026-11-23-星期一.md",
-                    "mode": "source",
-                    "source": false,
-                    "backlinks": true,
-                    "backlinkOpts": {
-                      "collapseAll": false,
-                      "extraContext": false,
-                      "sortOrder": "alphabetical",
-                      "showSearch": false,
-                      "searchQuery": "",
-                      "backlinkCollapsed": false,
-                      "unlinkedCollapsed": true
+                "id": "47d1a87d6b1ea454",
+                "type": "tabs",
+                "children": [
+                  {
+                    "id": "5ae4f75d9b8c809e",
+                    "type": "leaf",
+                    "state": {
+                      "type": "markdown",
+                      "state": {
+                        "file": "1-Dayly_日记本/2026-11-25-星期三.md",
+                        "mode": "source",
+                        "source": false,
+                        "backlinks": true,
+                        "backlinkOpts": {
+                          "collapseAll": false,
+                          "extraContext": false,
+                          "sortOrder": "alphabetical",
+                          "showSearch": false,
+                          "searchQuery": "",
+                          "backlinkCollapsed": false,
+                          "unlinkedCollapsed": true
+                        }
+                      },
+                      "icon": "lucide-file",
+                      "title": "2026-11-25-星期三"
                     }
                   },
-                  "icon": "lucide-file",
-                  "title": "2026-11-23-星期一"
-                }
+                  {
+                    "id": "dd1ffc8f90566d6e",
+                    "type": "leaf",
+                    "state": {
+                      "type": "markdown",
+                      "state": {
+                        "file": "1-Dayly_日记本/2026-11-24-星期二.md",
+                        "mode": "source",
+                        "source": false,
+                        "backlinks": true,
+                        "backlinkOpts": {
+                          "collapseAll": false,
+                          "extraContext": false,
+                          "sortOrder": "alphabetical",
+                          "showSearch": false,
+                          "searchQuery": "",
+                          "backlinkCollapsed": false,
+                          "unlinkedCollapsed": true
+                        }
+                      },
+                      "icon": "lucide-file",
+                      "title": "2026-11-24-星期二"
+                    }
+                  },
+                  {
+                    "id": "dedc183f6c55d322",
+                    "type": "leaf",
+                    "state": {
+                      "type": "markdown",
+                      "state": {
+                        "file": "1-Dayly_日记本/2026-11-24-星期二.md",
+                        "mode": "source",
+                        "source": false,
+                        "backlinks": true,
+                        "backlinkOpts": {
+                          "collapseAll": false,
+                          "extraContext": false,
+                          "sortOrder": "alphabetical",
+                          "showSearch": false,
+                          "searchQuery": "",
+                          "backlinkCollapsed": false,
+                          "unlinkedCollapsed": true
+                        }
+                      },
+                      "icon": "lucide-file",
+                      "title": "2026-11-24-星期二"
+                    }
+                  },
+                  {
+                    "id": "9d4dd96e06aea27e",
+                    "type": "leaf",
+                    "state": {
+                      "type": "markdown",
+                      "state": {
+                        "file": "1-Dayly_日记本/2026-11-23-星期一.md",
+                        "mode": "source",
+                        "source": false,
+                        "backlinks": true,
+                        "backlinkOpts": {
+                          "collapseAll": false,
+                          "extraContext": false,
+                          "sortOrder": "alphabetical",
+                          "showSearch": false,
+                          "searchQuery": "",
+                          "backlinkCollapsed": false,
+                          "unlinkedCollapsed": true
+                        }
+                      },
+                      "icon": "lucide-file",
+                      "title": "2026-11-23-星期一"
+                    }
+                  },
+                  {
+                    "id": "9a71f0054700e429",
+                    "type": "leaf",
+                    "state": {
+                      "type": "markdown",
+                      "state": {
+                        "file": "1-Dayly_日记本/2026-11-22-星期日.md",
+                        "mode": "source",
+                        "source": false,
+                        "backlinks": true,
+                        "backlinkOpts": {
+                          "collapseAll": false,
+                          "extraContext": false,
+                          "sortOrder": "alphabetical",
+                          "showSearch": false,
+                          "searchQuery": "",
+                          "backlinkCollapsed": false,
+                          "unlinkedCollapsed": true
+                        }
+                      },
+                      "icon": "lucide-file",
+                      "title": "2026-11-22-星期日"
+                    }
+                  },
+                  {
+                    "id": "053260915dd8aaa4",
+                    "type": "leaf",
+                    "state": {
+                      "type": "markdown",
+                      "state": {
+                        "file": "1-Dayly_日记本/2026-11-21-星期六.md",
+                        "mode": "source",
+                        "source": false,
+                        "backlinks": true,
+                        "backlinkOpts": {
+                          "collapseAll": false,
+                          "extraContext": false,
+                          "sortOrder": "alphabetical",
+                          "showSearch": false,
+                          "searchQuery": "",
+                          "backlinkCollapsed": false,
+                          "unlinkedCollapsed": true
+                        }
+                      },
+                      "icon": "lucide-file",
+                      "title": "2026-11-21-星期六"
+                    }
+                  },
+                  {
+                    "id": "19f2ea8fbc866017",
+                    "type": "leaf",
+                    "state": {
+                      "type": "markdown",
+                      "state": {
+                        "file": "1-Dayly_日记本/2026-11-20-星期五.md",
+                        "mode": "source",
+                        "source": false,
+                        "backlinks": true,
+                        "backlinkOpts": {
+                          "collapseAll": false,
+                          "extraContext": false,
+                          "sortOrder": "alphabetical",
+                          "showSearch": false,
+                          "searchQuery": "",
+                          "backlinkCollapsed": false,
+                          "unlinkedCollapsed": true
+                        }
+                      },
+                      "icon": "lucide-file",
+                      "title": "2026-11-20-星期五"
+                    }
+                  },
+                  {
+                    "id": "3294febeee3cbec5",
+                    "type": "leaf",
+                    "state": {
+                      "type": "markdown",
+                      "state": {
+                        "file": "1-Dayly_日记本/2026-11-19-星期四.md",
+                        "mode": "source",
+                        "source": false,
+                        "backlinks": true,
+                        "backlinkOpts": {
+                          "collapseAll": false,
+                          "extraContext": false,
+                          "sortOrder": "alphabetical",
+                          "showSearch": false,
+                          "searchQuery": "",
+                          "backlinkCollapsed": false,
+                          "unlinkedCollapsed": true
+                        }
+                      },
+                      "icon": "lucide-file",
+                      "title": "2026-11-19-星期四"
+                    }
+                  },
+                  {
+                    "id": "59cc3e81ad9181f3",
+                    "type": "leaf",
+                    "state": {
+                      "type": "markdown",
+                      "state": {
+                        "file": "1-Dayly_日记本/2026-11-18-星期三.md",
+                        "mode": "source",
+                        "source": false,
+                        "backlinks": true,
+                        "backlinkOpts": {
+                          "collapseAll": false,
+                          "extraContext": false,
+                          "sortOrder": "alphabetical",
+                          "showSearch": false,
+                          "searchQuery": "",
+                          "backlinkCollapsed": false,
+                          "unlinkedCollapsed": true
+                        }
+                      },
+                      "icon": "lucide-file",
+                      "title": "2026-11-18-星期三"
+                    }
+                  },
+                  {
+                    "id": "0006400fde842f80",
+                    "type": "leaf",
+                    "state": {
+                      "type": "markdown",
+                      "state": {
+                        "file": "1-Dayly_日记本/2026-11-17-星期二.md",
+                        "mode": "source",
+                        "source": false,
+                        "backlinks": true,
+                        "backlinkOpts": {
+                          "collapseAll": false,
+                          "extraContext": false,
+                          "sortOrder": "alphabetical",
+                          "showSearch": false,
+                          "searchQuery": "",
+                          "backlinkCollapsed": false,
+                          "unlinkedCollapsed": true
+                        }
+                      },
+                      "icon": "lucide-file",
+                      "title": "2026-11-17-星期二"
+                    }
+                  },
+                  {
+                    "id": "516944c0dc2ffd06",
+                    "type": "leaf",
+                    "state": {
+                      "type": "markdown",
+                      "state": {
+                        "file": "1-Dayly_日记本/2026-11-16-星期一.md",
+                        "mode": "source",
+                        "source": false,
+                        "backlinks": true,
+                        "backlinkOpts": {
+                          "collapseAll": false,
+                          "extraContext": false,
+                          "sortOrder": "alphabetical",
+                          "showSearch": false,
+                          "searchQuery": "",
+                          "backlinkCollapsed": false,
+                          "unlinkedCollapsed": true
+                        }
+                      },
+                      "icon": "lucide-file",
+                      "title": "2026-11-16-星期一"
+                    }
+                  },
+                  {
+                    "id": "a107afb4421616d0",
+                    "type": "leaf",
+                    "state": {
+                      "type": "markdown",
+                      "state": {
+                        "file": "1-Dayly_日记本/2026-11-15-星期日.md",
+                        "mode": "source",
+                        "source": false,
+                        "backlinks": true,
+                        "backlinkOpts": {
+                          "collapseAll": false,
+                          "extraContext": false,
+                          "sortOrder": "alphabetical",
+                          "showSearch": false,
+                          "searchQuery": "",
+                          "backlinkCollapsed": false,
+                          "unlinkedCollapsed": true
+                        }
+                      },
+                      "icon": "lucide-file",
+                      "title": "2026-11-15-星期日"
+                    }
+                  },
+                  {
+                    "id": "30711c7cf3e092f5",
+                    "type": "leaf",
+                    "state": {
+                      "type": "markdown",
+                      "state": {
+                        "file": "1-Dayly_日记本/2026-11-14-星期六.md",
+                        "mode": "source",
+                        "source": false,
+                        "backlinks": true,
+                        "backlinkOpts": {
+                          "collapseAll": false,
+                          "extraContext": false,
+                          "sortOrder": "alphabetical",
+                          "showSearch": false,
+                          "searchQuery": "",
+                          "backlinkCollapsed": false,
+                          "unlinkedCollapsed": true
+                        }
+                      },
+                      "icon": "lucide-file",
+                      "title": "2026-11-14-星期六"
+                    }
+                  },
+                  {
+                    "id": "de999d897fe64a66",
+                    "type": "leaf",
+                    "state": {
+                      "type": "markdown",
+                      "state": {
+                        "file": "1-Dayly_日记本/2026-11-13-星期五.md",
+                        "mode": "source",
+                        "source": false,
+                        "backlinks": true,
+                        "backlinkOpts": {
+                          "collapseAll": false,
+                          "extraContext": false,
+                          "sortOrder": "alphabetical",
+                          "showSearch": false,
+                          "searchQuery": "",
+                          "backlinkCollapsed": false,
+                          "unlinkedCollapsed": true
+                        }
+                      },
+                      "icon": "lucide-file",
+                      "title": "2026-11-13-星期五"
+                    }
+                  },
+                  {
+                    "id": "fdd301e0996243d5",
+                    "type": "leaf",
+                    "state": {
+                      "type": "markdown",
+                      "state": {
+                        "file": "1-Dayly_日记本/2026-11-12-星期四.md",
+                        "mode": "source",
+                        "source": false,
+                        "backlinks": true,
+                        "backlinkOpts": {
+                          "collapseAll": false,
+                          "extraContext": false,
+                          "sortOrder": "alphabetical",
+                          "showSearch": false,
+                          "searchQuery": "",
+                          "backlinkCollapsed": false,
+                          "unlinkedCollapsed": true
+                        }
+                      },
+                      "icon": "lucide-file",
+                      "title": "2026-11-12-星期四"
+                    }
+                  },
+                  {
+                    "id": "404b368f2c802773",
+                    "type": "leaf",
+                    "state": {
+                      "type": "markdown",
+                      "state": {
+                        "file": "1-Dayly_日记本/2026-11-11-星期三.md",
+                        "mode": "source",
+                        "source": false,
+                        "backlinks": true,
+                        "backlinkOpts": {
+                          "collapseAll": false,
+                          "extraContext": false,
+                          "sortOrder": "alphabetical",
+                          "showSearch": false,
+                          "searchQuery": "",
+                          "backlinkCollapsed": false,
+                          "unlinkedCollapsed": true
+                        }
+                      },
+                      "icon": "lucide-file",
+                      "title": "2026-11-11-星期三"
+                    }
+                  }
+                ]
               },
               {
-                "id": "9a71f0054700e429",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "1-Dayly_日记本/2026-11-22-星期日.md",
-                    "mode": "source",
-                    "source": false,
-                    "backlinks": true,
-                    "backlinkOpts": {
-                      "collapseAll": false,
-                      "extraContext": false,
-                      "sortOrder": "alphabetical",
-                      "showSearch": false,
-                      "searchQuery": "",
-                      "backlinkCollapsed": false,
-                      "unlinkedCollapsed": true
+                "id": "0ed842b6750f0d33",
+                "type": "tabs",
+                "children": [
+                  {
+                    "id": "90ebd5ea6c77a56e",
+                    "type": "leaf",
+                    "state": {
+                      "type": "markdown",
+                      "state": {
+                        "file": "file:D:/J/柜机/实验室/AGENTS.md",
+                        "mode": "source",
+                        "source": false,
+                        "backlinks": true,
+                        "backlinkOpts": {
+                          "collapseAll": false,
+                          "extraContext": false,
+                          "sortOrder": "alphabetical",
+                          "showSearch": false,
+                          "searchQuery": "",
+                          "backlinkCollapsed": false,
+                          "unlinkedCollapsed": true
+                        }
+                      },
+                      "icon": "lucide-file",
+                      "title": "AGENTS"
                     }
                   },
-                  "icon": "lucide-file",
-                  "title": "2026-11-22-星期日"
-                }
-              },
-              {
-                "id": "053260915dd8aaa4",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "1-Dayly_日记本/2026-11-21-星期六.md",
-                    "mode": "source",
-                    "source": false,
-                    "backlinks": true,
-                    "backlinkOpts": {
-                      "collapseAll": false,
-                      "extraContext": false,
-                      "sortOrder": "alphabetical",
-                      "showSearch": false,
-                      "searchQuery": "",
-                      "backlinkCollapsed": false,
-                      "unlinkedCollapsed": true
+                  {
+                    "id": "505ea460794991ae",
+                    "type": "leaf",
+                    "state": {
+                      "type": "markdown",
+                      "state": {
+                        "file": "3-Presonal_存放点/31-JUWEN_钜文/主题：WB处理功率数据.md",
+                        "mode": "source",
+                        "source": false,
+                        "backlinks": true,
+                        "backlinkOpts": {
+                          "collapseAll": false,
+                          "extraContext": false,
+                          "sortOrder": "alphabetical",
+                          "showSearch": false,
+                          "searchQuery": "",
+                          "backlinkCollapsed": false,
+                          "unlinkedCollapsed": true
+                        }
+                      },
+                      "icon": "lucide-file",
+                      "title": "主题：WB处理功率数据"
                     }
                   },
-                  "icon": "lucide-file",
-                  "title": "2026-11-21-星期六"
-                }
-              },
-              {
-                "id": "19f2ea8fbc866017",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "1-Dayly_日记本/2026-11-20-星期五.md",
-                    "mode": "source",
-                    "source": false,
-                    "backlinks": true,
-                    "backlinkOpts": {
-                      "collapseAll": false,
-                      "extraContext": false,
-                      "sortOrder": "alphabetical",
-                      "showSearch": false,
-                      "searchQuery": "",
-                      "backlinkCollapsed": false,
-                      "unlinkedCollapsed": true
+                  {
+                    "id": "aef2a1aa5e31c692",
+                    "type": "leaf",
+                    "state": {
+                      "type": "markdown",
+                      "state": {
+                        "file": "2-Space_工作区/21-Work_工作流/工作流20261107：12月订单.md",
+                        "mode": "source",
+                        "source": false,
+                        "backlinks": true,
+                        "backlinkOpts": {
+                          "collapseAll": false,
+                          "extraContext": false,
+                          "sortOrder": "alphabetical",
+                          "showSearch": false,
+                          "searchQuery": "",
+                          "backlinkCollapsed": false,
+                          "unlinkedCollapsed": true
+                        }
+                      },
+                      "icon": "lucide-file",
+                      "title": "工作流20261107：12月订单"
                     }
-                  },
-                  "icon": "lucide-file",
-                  "title": "2026-11-20-星期五"
-                }
-              },
-              {
-                "id": "3294febeee3cbec5",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "1-Dayly_日记本/2026-11-19-星期四.md",
-                    "mode": "source",
-                    "source": false,
-                    "backlinks": true,
-                    "backlinkOpts": {
-                      "collapseAll": false,
-                      "extraContext": false,
-                      "sortOrder": "alphabetical",
-                      "showSearch": false,
-                      "searchQuery": "",
-                      "backlinkCollapsed": false,
-                      "unlinkedCollapsed": true
-                    }
-                  },
-                  "icon": "lucide-file",
-                  "title": "2026-11-19-星期四"
-                }
-              },
-              {
-                "id": "59cc3e81ad9181f3",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "1-Dayly_日记本/2026-11-18-星期三.md",
-                    "mode": "source",
-                    "source": false,
-                    "backlinks": true,
-                    "backlinkOpts": {
-                      "collapseAll": false,
-                      "extraContext": false,
-                      "sortOrder": "alphabetical",
-                      "showSearch": false,
-                      "searchQuery": "",
-                      "backlinkCollapsed": false,
-                      "unlinkedCollapsed": true
-                    }
-                  },
-                  "icon": "lucide-file",
-                  "title": "2026-11-18-星期三"
-                }
-              },
-              {
-                "id": "0006400fde842f80",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "1-Dayly_日记本/2026-11-17-星期二.md",
-                    "mode": "source",
-                    "source": false,
-                    "backlinks": true,
-                    "backlinkOpts": {
-                      "collapseAll": false,
-                      "extraContext": false,
-                      "sortOrder": "alphabetical",
-                      "showSearch": false,
-                      "searchQuery": "",
-                      "backlinkCollapsed": false,
-                      "unlinkedCollapsed": true
-                    }
-                  },
-                  "icon": "lucide-file",
-                  "title": "2026-11-17-星期二"
-                }
-              },
-              {
-                "id": "516944c0dc2ffd06",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "1-Dayly_日记本/2026-11-16-星期一.md",
-                    "mode": "source",
-                    "source": false,
-                    "backlinks": true,
-                    "backlinkOpts": {
-                      "collapseAll": false,
-                      "extraContext": false,
-                      "sortOrder": "alphabetical",
-                      "showSearch": false,
-                      "searchQuery": "",
-                      "backlinkCollapsed": false,
-                      "unlinkedCollapsed": true
-                    }
-                  },
-                  "icon": "lucide-file",
-                  "title": "2026-11-16-星期一"
-                }
-              },
-              {
-                "id": "a107afb4421616d0",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "1-Dayly_日记本/2026-11-15-星期日.md",
-                    "mode": "source",
-                    "source": false,
-                    "backlinks": true,
-                    "backlinkOpts": {
-                      "collapseAll": false,
-                      "extraContext": false,
-                      "sortOrder": "alphabetical",
-                      "showSearch": false,
-                      "searchQuery": "",
-                      "backlinkCollapsed": false,
-                      "unlinkedCollapsed": true
-                    }
-                  },
-                  "icon": "lucide-file",
-                  "title": "2026-11-15-星期日"
-                }
-              },
-              {
-                "id": "30711c7cf3e092f5",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "1-Dayly_日记本/2026-11-14-星期六.md",
-                    "mode": "source",
-                    "source": false,
-                    "backlinks": true,
-                    "backlinkOpts": {
-                      "collapseAll": false,
-                      "extraContext": false,
-                      "sortOrder": "alphabetical",
-                      "showSearch": false,
-                      "searchQuery": "",
-                      "backlinkCollapsed": false,
-                      "unlinkedCollapsed": true
-                    }
-                  },
-                  "icon": "lucide-file",
-                  "title": "2026-11-14-星期六"
-                }
-              },
-              {
-                "id": "de999d897fe64a66",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "1-Dayly_日记本/2026-11-13-星期五.md",
-                    "mode": "source",
-                    "source": false,
-                    "backlinks": true,
-                    "backlinkOpts": {
-                      "collapseAll": false,
-                      "extraContext": false,
-                      "sortOrder": "alphabetical",
-                      "showSearch": false,
-                      "searchQuery": "",
-                      "backlinkCollapsed": false,
-                      "unlinkedCollapsed": true
-                    }
-                  },
-                  "icon": "lucide-file",
-                  "title": "2026-11-13-星期五"
-                }
-              },
-              {
-                "id": "fdd301e0996243d5",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "1-Dayly_日记本/2026-11-12-星期四.md",
-                    "mode": "source",
-                    "source": false,
-                    "backlinks": true,
-                    "backlinkOpts": {
-                      "collapseAll": false,
-                      "extraContext": false,
-                      "sortOrder": "alphabetical",
-                      "showSearch": false,
-                      "searchQuery": "",
-                      "backlinkCollapsed": false,
-                      "unlinkedCollapsed": true
-                    }
-                  },
-                  "icon": "lucide-file",
-                  "title": "2026-11-12-星期四"
-                }
-              },
-              {
-                "id": "404b368f2c802773",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "1-Dayly_日记本/2026-11-11-星期三.md",
-                    "mode": "source",
-                    "source": false,
-                    "backlinks": true,
-                    "backlinkOpts": {
-                      "collapseAll": false,
-                      "extraContext": false,
-                      "sortOrder": "alphabetical",
-                      "showSearch": false,
-                      "searchQuery": "",
-                      "backlinkCollapsed": false,
-                      "unlinkedCollapsed": true
-                    }
-                  },
-                  "icon": "lucide-file",
-                  "title": "2026-11-11-星期三"
-                }
+                  }
+                ],
+                "currentTab": 2
               }
             ],
-            "currentTab": 1
+            "direction": "horizontal"
           }
         ],
         "direction": "vertical",
-        "x": 1925,
-        "y": -16,
-        "width": 1024,
-        "height": 800,
-        "maximize": true,
-        "zoom": 0
-      },
-      {
-        "id": "302b26bf64bbc580",
-        "type": "window",
-        "children": [
-          {
-            "id": "73c42d340b60689c",
-            "type": "tabs",
-            "children": [
-              {
-                "id": "90ebd5ea6c77a56e",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "file:D:/J/柜机/实验室/AGENTS.md",
-                    "mode": "source",
-                    "source": false,
-                    "backlinks": true,
-                    "backlinkOpts": {
-                      "collapseAll": false,
-                      "extraContext": false,
-                      "sortOrder": "alphabetical",
-                      "showSearch": false,
-                      "searchQuery": "",
-                      "backlinkCollapsed": false,
-                      "unlinkedCollapsed": true
-                    }
-                  },
-                  "icon": "lucide-file",
-                  "title": "AGENTS"
-                }
-              },
-              {
-                "id": "aef2a1aa5e31c692",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "2-Space_工作区/21-Work_工作流/工作流20261107：12月订单.md",
-                    "mode": "source",
-                    "source": false,
-                    "backlinks": true,
-                    "backlinkOpts": {
-                      "collapseAll": false,
-                      "extraContext": false,
-                      "sortOrder": "alphabetical",
-                      "showSearch": false,
-                      "searchQuery": "",
-                      "backlinkCollapsed": false,
-                      "unlinkedCollapsed": true
-                    }
-                  },
-                  "icon": "lucide-file",
-                  "title": "工作流20261107：12月订单"
-                }
-              },
-              {
-                "id": "505ea460794991ae",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "3-Presonal_存放点/31-JUWEN_钜文/主题：WB处理功率数据.md",
-                    "mode": "source",
-                    "source": false,
-                    "backlinks": true,
-                    "backlinkOpts": {
-                      "collapseAll": false,
-                      "extraContext": false,
-                      "sortOrder": "alphabetical",
-                      "showSearch": false,
-                      "searchQuery": "",
-                      "backlinkCollapsed": false,
-                      "unlinkedCollapsed": true
-                    }
-                  },
-                  "icon": "lucide-file",
-                  "title": "主题：WB处理功率数据"
-                }
-              }
-            ],
-            "currentTab": 2
-          }
-        ],
-        "direction": "vertical",
-        "x": 2027,
-        "y": -54,
+        "x": 1990,
+        "y": 60,
         "width": 1024,
         "height": 800,
         "maximize": true,
@@ -693,34 +807,34 @@
       }
     ]
   },
-  "active": "9a71f0054700e429",
+  "active": "aef2a1aa5e31c692",
   "lastOpenFiles": [
-    "1-Dayly_日记本/2026-11-23-星期一.md",
-    "1-Dayly_日记本/2026-11-22-星期日.md",
-    "1-Dayly_日记本/2026-11-21-星期六.md",
-    "1-Dayly_日记本/2026-11-20-星期五.md",
-    "3-Presonal_存放点/33-ToDo_策略/构建：库结构设计图.md",
-    "2-Space_工作区/21-Work_工作流/工作流20261107：12月订单.md",
+    "1-Dayly_日记本/2026-11-25-星期三.md",
     "3-Presonal_存放点/31-JUWEN_钜文/主题：WB处理功率数据.md",
     "file:D:/J/柜机/实验室/AGENTS.md",
-    "3-Presonal_存放点/32-Learning_学习/专题：Obsidian主题.md",
-    "0-Inbox_收件箱/推送：视频1123.md",
-    "0-Inbox_收件箱/推送：文章1123.md",
+    "2-Space_工作区/21-Work_工作流/工作流20261107：12月订单.md",
+    "3-Presonal_存放点/33-ToDo_策略/构建：库结构设计图.md",
+    "1-Dayly_日记本/2026-11-24-星期二.md",
+    "0-Inbox_收件箱/推送：文章1125.md",
+    "0-Inbox_收件箱/未命名.md",
+    "0-Inbox_收件箱/推送：视频1125.md",
+    "3-Presonal_存放点/33-ToDo_策略/思路：智能体使用策略.md",
+    "3-Presonal_存放点/31-JUWEN_钜文/主题：柜机60机新显示板 硬件设计.md",
+    "0-Inbox_收件箱/推送：文章1124.md",
+    "4-Memory_知识库/41-Projects_项目/41-a-job_工作/41A1A3-华拓设计.md",
+    "4-Memory_知识库/41-Projects_项目/41-a-job_工作/41A1A4-卓奥硬件.md",
+    "4-Memory_知识库/41-Projects_项目/41-a-job_工作/41A1A2C-60机新显示板派生.md",
+    "3-Presonal_存放点/31-JUWEN_钜文/主题：柜机60机新显示板 软件设计.md",
+    "3-Presonal_存放点/31-JUWEN_钜文/专题：柜机60机原体交互.md",
+    "3-Presonal_存放点/33-ToDo_策略/思路 ：歧路司.md",
+    "1-Dayly_日记本/2026-11-23-星期一.md",
+    "0-Inbox_收件箱/推送：视频1124.md",
     "2-Space_工作区/22-Flow_心流/心流20261106：精简个人知识库.md",
-    "0-Inbox_收件箱/推送：文章1122.md",
-    "0-Inbox_收件箱/推送：视频1122.md",
-    "0-Inbox_收件箱/推送：文章1121.md",
-    "1-Dayly_日记本/2026-11-11-星期三.md",
-    "4-Memory_知识库/44-Archives_归档/44-d-Outdated_弃用/旧README.md",
-    "4-Memory_知识库/44-Archives_归档/44-d-Outdated_弃用/旧AGENTS.md",
-    "3-Presonal_存放点/33-ToDo_策略/构建：时间线设计图.md",
-    "AGENTS.md",
-    "3-Presonal_存放点/32-Learning_学习/主题：DSH 创造模式 尝试与理解.md",
-    "3-Presonal_存放点/33-ToDo_策略/构建：元数据设计图.md",
-    "Templates/模板：日记.md",
-    "0-Inbox_收件箱/模版：日记.md",
-    "1-Dayly_日记本/2026-11-12-星期四.md",
-    "1-Dayly_日记本/2026-11-13-星期五.md",
+    "1-Dayly_日记本/2026-11-20-星期五.md",
+    "1-Dayly_日记本/2026-11-21-星期六.md",
+    "1-Dayly_日记本/2026-11-22-星期日.md",
+    "3-Presonal_存放点/33-ToDo_策略/构建：项目库设计图.md",
+    "3-Presonal_存放点/33-ToDo_策略/构建：知识库设计图.md",
     "Attachments/Files/PDFs/C51912240_LED驱动_C8620QP_规格书_C8620规格书_V2.pdf",
     "Attachments/Files/Images/11-11-1_工位编号对应13-15表格.png",
     "Attachments/Files/Images/11-9-3_哔站记笔记功能.png",
