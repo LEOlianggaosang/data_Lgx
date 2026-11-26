@@ -4,7 +4,7 @@
     "type": "split",
     "children": [
       {
-        "id": "cac35d3b6d97cb00",
+        "id": "0a8c8adc232fcb79",
         "type": "tabs",
         "children": [
           {
@@ -32,12 +32,12 @@
             }
           },
           {
-            "id": "c06e47ac22a144b5",
+            "id": "37d18eed627b00af",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "3-Presonal_存放点/33-ToDo_策略/思路 ：歧路司.md",
+                "file": "3-Presonal_存放点/33-ToDo_策略/构建：知识库设计图.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -52,23 +52,16 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "思路 ：歧路司"
+              "title": "构建：知识库设计图"
             }
-          }
-        ],
-        "currentTab": 1
-      },
-      {
-        "id": "0a8c8adc232fcb79",
-        "type": "tabs",
-        "children": [
+          },
           {
-            "id": "1ae4f316f6a711b4",
+            "id": "4df7ffca78ad0105",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "3-Presonal_存放点/33-ToDo_策略/构建：库结构设计图.md",
+                "file": "3-Presonal_存放点/33-ToDo_策略/构建：项目库设计图.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -83,7 +76,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "构建：库结构设计图"
+              "title": "构建：项目库设计图"
             }
           },
           {
@@ -110,7 +103,8 @@
               "title": "思路：智能体使用策略"
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -144,7 +138,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "Memory",
+                "query": "okf",
                 "matchingCase": false,
                 "explainSearch": true,
                 "collapseAll": false,
@@ -197,7 +191,8 @@
               "title": "添加笔记属性"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -329,6 +324,30 @@
                 "type": "tabs",
                 "children": [
                   {
+                    "id": "e27496c67c0661af",
+                    "type": "leaf",
+                    "state": {
+                      "type": "markdown",
+                      "state": {
+                        "file": "1-Dayly_日记本/2026-11-26-星期四.md",
+                        "mode": "source",
+                        "source": false,
+                        "backlinks": true,
+                        "backlinkOpts": {
+                          "collapseAll": false,
+                          "extraContext": false,
+                          "sortOrder": "alphabetical",
+                          "showSearch": false,
+                          "searchQuery": "",
+                          "backlinkCollapsed": false,
+                          "unlinkedCollapsed": true
+                        }
+                      },
+                      "icon": "lucide-file",
+                      "title": "2026-11-26-星期四"
+                    }
+                  },
+                  {
                     "id": "5ae4f75d9b8c809e",
                     "type": "leaf",
                     "state": {
@@ -350,30 +369,6 @@
                       },
                       "icon": "lucide-file",
                       "title": "2026-11-25-星期三"
-                    }
-                  },
-                  {
-                    "id": "dd1ffc8f90566d6e",
-                    "type": "leaf",
-                    "state": {
-                      "type": "markdown",
-                      "state": {
-                        "file": "1-Dayly_日记本/2026-11-24-星期二.md",
-                        "mode": "source",
-                        "source": false,
-                        "backlinks": true,
-                        "backlinkOpts": {
-                          "collapseAll": false,
-                          "extraContext": false,
-                          "sortOrder": "alphabetical",
-                          "showSearch": false,
-                          "searchQuery": "",
-                          "backlinkCollapsed": false,
-                          "unlinkedCollapsed": true
-                        }
-                      },
-                      "icon": "lucide-file",
-                      "title": "2026-11-24-星期二"
                     }
                   },
                   {
@@ -712,7 +707,8 @@
                       "title": "2026-11-11-星期三"
                     }
                   }
-                ]
+                ],
+                "currentTab": 1
               },
               {
                 "id": "0ed842b6750f0d33",
@@ -791,15 +787,15 @@
                     }
                   }
                 ],
-                "currentTab": 2
+                "currentTab": 1
               }
             ],
             "direction": "horizontal"
           }
         ],
         "direction": "vertical",
-        "x": 1990,
-        "y": 60,
+        "x": 2023,
+        "y": -21,
         "width": 1024,
         "height": 800,
         "maximize": true,
@@ -807,34 +803,34 @@
       }
     ]
   },
-  "active": "aef2a1aa5e31c692",
+  "active": "5ae4f75d9b8c809e",
   "lastOpenFiles": [
+    "3-Presonal_存放点/33-ToDo_策略/思路：智能体使用策略.md",
     "1-Dayly_日记本/2026-11-25-星期三.md",
+    "1-Dayly_日记本/2026-11-26-星期四.md",
     "3-Presonal_存放点/31-JUWEN_钜文/主题：WB处理功率数据.md",
-    "file:D:/J/柜机/实验室/AGENTS.md",
-    "2-Space_工作区/21-Work_工作流/工作流20261107：12月订单.md",
-    "3-Presonal_存放点/33-ToDo_策略/构建：库结构设计图.md",
+    "1-Dayly_日记本/2026-11-11-星期三.md",
+    "3-Presonal_存放点/33-ToDo_策略/构建：项目库设计图.md",
+    "3-Presonal_存放点/33-ToDo_策略/构建：知识库设计图.md",
+    "0-Inbox_收件箱/推送：视频1126.md",
+    "0-Inbox_收件箱/推送：文章1126.md",
+    "1-Dayly_日记本/2026-11-23-星期一.md",
+    "2-Space_工作区/22-Flow_心流/心流20261106：精简个人知识库.md",
     "1-Dayly_日记本/2026-11-24-星期二.md",
+    "1-Dayly_日记本/2026-11-22-星期日.md",
+    "2-Space_工作区/21-Work_工作流/工作流20261107：12月订单.md",
+    "5-Distill_提炼/51-Cards_卡片/表格：自动门测试工位档案.md",
+    "3-Presonal_存放点/33-ToDo_策略/构建：库结构设计图.md",
+    "3-Presonal_存放点/33-ToDo_策略/思路 ：歧路司.md",
+    "1-Dayly_日记本/2026-11-17-星期二.md",
     "0-Inbox_收件箱/推送：文章1125.md",
+    "file:D:/J/柜机/实验室/AGENTS.md",
     "0-Inbox_收件箱/未命名.md",
     "0-Inbox_收件箱/推送：视频1125.md",
-    "3-Presonal_存放点/33-ToDo_策略/思路：智能体使用策略.md",
     "3-Presonal_存放点/31-JUWEN_钜文/主题：柜机60机新显示板 硬件设计.md",
     "0-Inbox_收件箱/推送：文章1124.md",
     "4-Memory_知识库/41-Projects_项目/41-a-job_工作/41A1A3-华拓设计.md",
     "4-Memory_知识库/41-Projects_项目/41-a-job_工作/41A1A4-卓奥硬件.md",
-    "4-Memory_知识库/41-Projects_项目/41-a-job_工作/41A1A2C-60机新显示板派生.md",
-    "3-Presonal_存放点/31-JUWEN_钜文/主题：柜机60机新显示板 软件设计.md",
-    "3-Presonal_存放点/31-JUWEN_钜文/专题：柜机60机原体交互.md",
-    "3-Presonal_存放点/33-ToDo_策略/思路 ：歧路司.md",
-    "1-Dayly_日记本/2026-11-23-星期一.md",
-    "0-Inbox_收件箱/推送：视频1124.md",
-    "2-Space_工作区/22-Flow_心流/心流20261106：精简个人知识库.md",
-    "1-Dayly_日记本/2026-11-20-星期五.md",
-    "1-Dayly_日记本/2026-11-21-星期六.md",
-    "1-Dayly_日记本/2026-11-22-星期日.md",
-    "3-Presonal_存放点/33-ToDo_策略/构建：项目库设计图.md",
-    "3-Presonal_存放点/33-ToDo_策略/构建：知识库设计图.md",
     "Attachments/Files/PDFs/C51912240_LED驱动_C8620QP_规格书_C8620规格书_V2.pdf",
     "Attachments/Files/Images/11-11-1_工位编号对应13-15表格.png",
     "Attachments/Files/Images/11-9-3_哔站记笔记功能.png",

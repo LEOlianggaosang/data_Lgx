@@ -835,5 +835,53 @@
       ],
       "key": "R"
     }
+  ],
+  "editor:toggle-highlight-red": [
+    {
+      "modifiers": [
+        "Alt"
+      ],
+      "key": "1"
+    }
+  ],
+  "editor:toggle-highlight-orange": [
+    {
+      "modifiers": [
+        "Alt"
+      ],
+      "key": "2"
+    }
+  ],
+  "editor:toggle-highlight-yellow": [
+    {
+      "modifiers": [
+        "Alt"
+      ],
+      "key": "3"
+    }
+  ],
+  "editor:toggle-highlight-green": [
+    {
+      "modifiers": [
+        "Alt"
+      ],
+      "key": "4"
+    }
+  ],
+  "editor:toggle-highlight-blue": [
+    {
+      "modifiers": [
+        "Alt"
+      ],
+      "key": "5"
+    }
+  ],
+  "editor:toggle-highlight-purple": [
+    {
+      "modifiers": [
+        "Alt"
+      ],
+      "key": "6"
+    }
   ]
 }
